@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>OldMars</Addon>
+    <Source>english</Source>
+    <Dest>turkish</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" sID="0326CA">
+      <EDID>mod_AVM_Cutter_Cutter_Preorder</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Old Mars Skin</Source>
+      <Dest>Eski Mars Görünümü</Dest>
+    </String>
+    <String List="0" sID="0326D0">
+      <EDID>mod_AVM_Spacesuit_Miner_Backpack_OldMars</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Old Mars Skin</Source>
+      <Dest>Eski Mars Görünümü</Dest>
+    </String>
+    <String List="0" sID="0326D1">
+      <EDID>mod_AVM_Spacesuit_Miner_Helmet_OldMars</EDID>
+      <REC>OMOD:FULL</REC>
+      <Source>Old Mars Skin</Source>
+      <Dest>Eski Mars Görünümü</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
