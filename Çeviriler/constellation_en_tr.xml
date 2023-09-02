@@ -2,36 +2,36 @@
 <SSTXMLRessources>
   <Params>
     <Addon>Constellation</Addon>
-    <Source>english</Source>
-    <Dest>turkish</Dest>
+    <Source>en</Source>
+    <Dest>tr</Dest>
     <Version>2</Version>
   </Params>
   <Content>
-    <String List="0" sID="000001">
+    <String List="0" sID="000001" Partial="1">
       <EDID>mod_AVM_EquiNOX_Constellation</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Constellation</Source>
       <Dest>takımyıldız</Dest>
     </String>
-    <String List="0" sID="0326CD">
+    <String List="0" sID="0326CD" Partial="1">
       <EDID>mod_AVM_Spacesuit_Constellation_Body_DigitalDeluxe</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Constellation Skin</Source>
       <Dest> Takımyıldızı Görünümü</Dest>
     </String>
-    <String List="0" sID="0326CE">
+    <String List="0" sID="0326CE" Partial="1">
       <EDID>mod_AVM_Spacesuit_Constellation_Helmet_DigitalDeluxe</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Constellation Skin</Source>
       <Dest> Takımyıldızı Görünümü</Dest>
     </String>
-    <String List="0" sID="0326CF">
+    <String List="0" sID="0326CF" Partial="1">
       <EDID>mod_AVM_Spacesuit_Constellation_Backpack_DigitalDeluxe</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Constellation Skin</Source>
       <Dest> Takımyıldızı Görünümü</Dest>
     </String>
-    <String List="1" sID="000002">
+    <String List="1" sID="000002" Partial="1">
       <EDID>co_mod_AVM_Equinox_Constellation</EDID>
       <REC>COBJ:DESC</REC>
       <Source>Constellation-themed Equinox skin</Source>

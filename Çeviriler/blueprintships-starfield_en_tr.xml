@@ -2,2142 +2,2214 @@
 <SSTXMLRessources>
   <Params>
     <Addon>BlueprintShips-Starfield</Addon>
-    <Source>english</Source>
-    <Dest>turkish</Dest>
+    <Source>en</Source>
+    <Dest>tr</Dest>
     <Version>2</Version>
   </Params>
   <Content>
-    <String List="0" sID="007169">
+    <String List="0" sID="007169" Partial="1">
       <EDID>EncShip_StarbornGuardian04_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Starborn Guardian IV</Source>
       <Dest>Yıldızdoğmuş Muhafız IV</Dest>
     </String>
-    <String List="0" sID="00716B">
+    <String List="0" sID="00716B" Partial="1">
       <EDID>Cargo_B_Generic_SpaceOX01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Space OX</Source>
       <Dest> Uzay ÖKÜZÜ</Dest>
     </String>
-    <String List="0" sID="007284">
+    <String List="0" sID="007284" Partial="1">
       <EDID>Destroyer_B_Deimos_Nebula02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Nebula II</Source>
       <Dest> Bulutsusu II</Dest>
     </String>
-    <String List="0" sID="00731D">
+    <String List="0" sID="00731D" Partial="1">
       <EDID>Destroyer_B_Stroud_Privateer01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Privateer</Source>
       <Dest> Korsan</Dest>
     </String>
-    <String List="0" sID="00736C">
+    <String List="0" sID="00736C" Partial="1">
       <EDID>Cruiser_C_Stroud_Vindicator01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Vindicator</Source>
       <Dest> hakkını koruyan</Dest>
     </String>
-    <String List="0" sID="007375">
+    <String List="0" sID="007375" Partial="1">
       <EDID>QDTempShipNEW</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Ship</Source>
       <Dest> Gemi</Dest>
     </String>
-    <String List="0" sID="007379">
+    <String List="0" sID="007376" Partial="1">
+      <EDID>QDTempShipNEW</EDID>
+      <REC>GBFM:HULL</REC>
+      <Source>WJS-531</Source>
+      <Dest> WJS-531</Dest>
+    </String>
+    <String List="0" sID="007379" Partial="1">
       <EDID>General_B_Taiyo_Dolphin01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Dolphin</Source>
       <Dest> Yunus</Dest>
     </String>
-    <String List="0" sID="007385">
+    <String List="0" sID="007385" Partial="1">
       <EDID>Fighter_A_Hopetech_Watchdog01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="00739D">
+    <String List="0" sID="00739D" Partial="1">
       <EDID>Freighter_A_Hopetech_PikUp01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Pik Up</Source>
       <Dest> Yukarı Çıkar</Dest>
     </String>
-    <String List="0" sID="0073A6">
+    <String List="0" sID="0073A6" Partial="1">
       <EDID>Fighter_A_Hopetech_Watchdog03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog III</Source>
       <Dest> Bekçi köpeği III</Dest>
     </String>
-    <String List="0" sID="0073CF">
+    <String List="0" sID="0073CF" Partial="1">
       <EDID>Destroyer_B_Stroud_Privateer02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Privateer II</Source>
       <Dest> Korsan II</Dest>
     </String>
-    <String List="0" sID="0073DA">
+    <String List="0" sID="0073DA" Partial="1">
       <EDID>Destroyer_B_Taiyo_Hammerhead01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Hammerhead</Source>
       <Dest> Çekiç kafalı</Dest>
     </String>
-    <String List="0" sID="0073DC">
+    <String List="0" sID="0073DC" Partial="1">
       <EDID>Satellite_GenericBeacon01</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Satellite</Source>
       <Dest> Uydu</Dest>
     </String>
-    <String List="0" sID="0073E0">
+    <String List="0" sID="0073E0" Partial="1">
       <EDID>StarStationPolvo</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Polvo Station</Source>
       <Dest> Polvo İstasyonu</Dest>
     </String>
-    <String List="0" sID="007414">
+    <String List="0" sID="007414" Partial="1">
       <EDID>Cruiser_C_Nova_Nimitz02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Nimitz II</Source>
       <Dest> Nimitz II</Dest>
     </String>
-    <String List="0" sID="007445">
+    <String List="0" sID="007445" Partial="1">
       <EDID>Fighter_A_Nova_Kfir02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Kfir II</Source>
       <Dest> Kfir II</Dest>
     </String>
-    <String List="0" sID="007458">
+    <String List="0" sID="007458" Partial="1">
       <EDID>Fighter_A_Deimos_Gladius01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Gladius</Source>
       <Dest> Gladius</Dest>
     </String>
-    <String List="0" sID="007461">
+    <String List="0" sID="007461" Partial="1">
       <EDID>MS05_Ship_Sensible_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Kepler S</Source>
       <Dest> Kepler S</Dest>
     </String>
-    <String List="0" sID="007469">
+    <String List="0" sID="007469" Partial="1">
       <EDID>Combat_B_Generic_Warhammer02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Warhammer II</Source>
       <Dest> Savaş Çekici II</Dest>
     </String>
-    <String List="0" sID="007485">
+    <String List="0" sID="007485" Partial="1">
       <EDID>Cargo_C_Generic_Renegade01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Renegade</Source>
       <Dest> Dönek</Dest>
     </String>
-    <String List="0" sID="0074A1">
+    <String List="0" sID="0074A1" Partial="1">
       <EDID>Combat_B_Generic_Naginata01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Naginata</Source>
       <Dest> Naginata</Dest>
     </String>
-    <String List="0" sID="0074A2">
+    <String List="0" sID="0074A2" Partial="1">
       <EDID>UC01Startstation</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Abandoned Starstation</Source>
       <Dest> Terkedilmiş Yıldız İstasyonu</Dest>
     </String>
-    <String List="0" sID="0074A3">
+    <String List="0" sID="0074A3" Partial="1">
       <EDID>Cargo_B_Generic_CarryALL02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Carry ALL II</Source>
       <Dest> ALL II&apos;yi taşı</Dest>
     </String>
-    <String List="0" sID="0074A4">
+    <String List="0" sID="0074A4" Partial="1">
       <EDID>xDoNotUse_Cargo_B_Generic03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Generic Class A 03</Source>
       <Dest> Genel Sınıf A 03</Dest>
     </String>
-    <String List="0" sID="0074A5">
+    <String List="0" sID="0074A5" Partial="1">
       <EDID>Combat_C_Generic_Stormrider01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Stormrider</Source>
       <Dest> Fırtına Süvarisi</Dest>
     </String>
-    <String List="0" sID="0074A6">
+    <String List="0" sID="0074A6" Partial="1">
       <EDID>Combat_C_Generic_Crossbow01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Crossbow</Source>
       <Dest> Arbalet</Dest>
     </String>
-    <String List="0" sID="0074AB">
+    <String List="0" sID="0074AB" Partial="1">
       <EDID>Cruiser_C_Deimos_Chimera02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Chimera II</Source>
       <Dest> Kimera II</Dest>
     </String>
-    <String List="0" sID="0074D9">
+    <String List="0" sID="0074D9" Partial="1">
       <EDID>UC01_SimEnemy_Tier06_UCNavy_C_Combat_01</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Tier VI Simulated Ship</Source>
       <Dest> Seviye VI Simüle Edilmiş Gemi</Dest>
     </String>
-    <String List="0" sID="007510">
+    <String List="0" sID="007510" Partial="1">
       <EDID>OutpostStarstation01</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Outpost Starstation</Source>
       <Dest> Karakol Yıldız İstasyonu</Dest>
     </String>
-    <String List="0" sID="007514">
+    <String List="0" sID="007514" Partial="1">
       <EDID>Personnel_B_Generic_Sunsail01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Sunsail</Source>
       <Dest> Güneş yelkeni</Dest>
     </String>
-    <String List="0" sID="007518">
+    <String List="0" sID="007518" Partial="1">
       <EDID>EncShip_StarbornGuardian03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Starborn Guardian III</Source>
       <Dest> Yıldızdoğmuş Muhafız III</Dest>
     </String>
-    <String List="0" sID="00754C">
+    <String List="0" sID="00754C" Partial="1">
       <EDID>Freighter_B_Hopetech_BigRig01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Big Rig</Source>
       <Dest> Büyük Teçhizat</Dest>
     </String>
-    <String List="0" sID="0075F6">
+    <String List="0" sID="0075F6" Partial="1">
       <EDID>EncShip_StarbornGuardian05_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Starborn Guardian V</Source>
       <Dest> Yıldızdoğmuş Muhafız V</Dest>
     </String>
-    <String List="0" sID="0075F9">
+    <String List="0" sID="0075F9" Partial="1">
       <EDID>Personnel_A_Generic_Transpo02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Transpo II</Source>
       <Dest> Transpo II</Dest>
     </String>
-    <String List="0" sID="007635">
+    <String List="0" sID="007635" Partial="1">
       <EDID>Combat_A_Generic_Thresher01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Thresher</Source>
       <Dest> Harman</Dest>
     </String>
-    <String List="0" sID="007636">
+    <String List="0" sID="007636" Partial="1">
       <EDID>Personnel_A_Generic_Responder01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Responder</Source>
       <Dest> Yanıtlayıcı</Dest>
     </String>
-    <String List="0" sID="007638">
+    <String List="0" sID="007638" Partial="1">
       <EDID>Personnel_A_Generic_SLoop01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Sloop</Source>
       <Dest> Şalopa</Dest>
     </String>
-    <String List="0" sID="00766F">
+    <String List="0" sID="00766F" Partial="1">
       <EDID>Fighter_A_Deimos_Dagger02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Dagger II</Source>
       <Dest> Hançer II</Dest>
     </String>
-    <String List="0" sID="007692">
+    <String List="0" sID="007692" Partial="1">
       <EDID>Freighter_A_Nova_Econohaul01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Econohaul</Source>
       <Dest> Econohaul</Dest>
     </String>
-    <String List="0" sID="00773A">
+    <String List="0" sID="00773A" Partial="1">
       <EDID>SpaceTurret_Particle01</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Particle Turret</Source>
       <Dest> Parçacık Tareti</Dest>
     </String>
-    <String List="0" sID="007780">
+    <String List="0" sID="007780" Partial="1">
       <EDID>Freighter_B_Hopetech_Spacetruk01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Spacetruk</Source>
       <Dest> Uzay Truk&apos;u</Dest>
     </String>
-    <String List="0" sID="0077AB">
+    <String List="0" sID="0077AB" Partial="1">
       <EDID>SEAF01_Stroud_Narcissus01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Narcissus</Source>
       <Dest> Nergis</Dest>
     </String>
-    <String List="0" sID="0077B4">
+    <String List="0" sID="0077B4" Partial="1">
       <EDID>Colony_C_Deimos_Polis01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Polis</Source>
       <Dest> Polis</Dest>
     </String>
-    <String List="0" sID="0077C7">
+    <String List="0" sID="0077C7" Partial="1">
       <EDID>Asp_Personnel_B_Stroud_Roanoke_Wanderlust_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Wanderlust</Source>
       <Dest> Yolculuk tutkusu</Dest>
     </String>
-    <String List="0" sID="0077C8">
+    <String List="0" sID="0077C8" Partial="1">
       <EDID>Personal_A_Stroud_Narcissus01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Narcissus</Source>
       <Dest> Nergis</Dest>
     </String>
-    <String List="0" sID="0077F5">
+    <String List="0" sID="0077F5" Partial="1">
       <EDID>Fighter_A_Taiyo_Stingray02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Stingray II</Source>
       <Dest> Vatoz II</Dest>
     </String>
-    <String List="0" sID="00780F">
+    <String List="0" sID="00780F" Partial="1">
       <EDID>StarbornGuardian_F01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Starborn Guardian</Source>
       <Dest> Yıldızdoğmuş Muhafız</Dest>
     </String>
-    <String List="0" sID="007813">
+    <String List="0" sID="007813" Partial="1">
       <EDID>Fighter_A_Hopetech_Watchdog02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog II</Source>
       <Dest> Bekçi köpeği II</Dest>
     </String>
-    <String List="0" sID="00781E">
+    <String List="0" sID="00781E" Partial="1">
       <EDID>FerraroShip01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="007820">
+    <String List="0" sID="007820" Partial="1">
       <EDID>EncShip_MQ_Helix02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Helix</Source>
       <Dest> sarmal</Dest>
     </String>
-    <String List="0" sID="00782D">
+    <String List="0" sID="00782D" Partial="1">
       <EDID>EncShip_MQ_Scorpius02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Scorpius</Source>
       <Dest> Akrep</Dest>
     </String>
-    <String List="0" sID="007832">
+    <String List="0" sID="007832" Partial="1">
       <EDID>LC132_Spacers_Ship_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Crimson Fleet Ship</Source>
       <Dest> Kızıl Filo Gemisi</Dest>
     </String>
-    <String List="0" sID="007845">
+    <String List="0" sID="007845" Partial="1">
       <EDID>Fighter_A_Stroud_Trebuchet01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Trebuchet</Source>
       <Dest> mancınık</Dest>
     </String>
-    <String List="0" sID="00784E">
+    <String List="0" sID="00784E" Partial="1">
       <EDID>Satellite_Camera01</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Satellite</Source>
       <Dest> Uydu</Dest>
     </String>
-    <String List="0" sID="00787F">
+    <String List="0" sID="00787F" Partial="1">
       <EDID>GovHurstShip01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Governor Hurst&apos;s Ship</Source>
       <Dest> Vali Hurst&apos;un Gemisi</Dest>
     </String>
-    <String List="0" sID="007883">
+    <String List="0" sID="007883" Partial="1">
       <EDID>Stolen_HopeTechShip01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="00788E">
+    <String List="0" sID="00788E" Partial="1">
       <EDID>MS05_Ship_Ridiculous_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Kepler R</Source>
       <Dest> Kepler R</Dest>
     </String>
-    <String List="0" sID="007894">
+    <String List="0" sID="007894" Partial="1">
       <EDID>Fighter_A_Stroud_Warmonger02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Warmonger II</Source>
       <Dest> Savaş çığırtkanı II</Dest>
     </String>
-    <String List="0" sID="0078A3">
+    <String List="0" sID="0078A3" Partial="1">
       <EDID>Fighter_A_Nova_Mustang02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Mustang II</Source>
       <Dest> Mustang II</Dest>
     </String>
-    <String List="0" sID="0078F0">
+    <String List="0" sID="0078F0" Partial="1">
       <EDID>Cargo_A_Generic_MULE02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>MULE II</Source>
       <Dest> KATI II</Dest>
     </String>
-    <String List="0" sID="0078F1">
+    <String List="0" sID="0078F1" Partial="1">
       <EDID>Combat_B_Generic_Pterosaur02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Pterosaur II</Source>
-      <Dest> Pterozor II</Dest>
+      <Dest>Pterozor II</Dest>
     </String>
-    <String List="0" sID="0078F3">
+    <String List="0" sID="0078F3" Partial="1">
       <EDID>Personnel_B_Generic_Caravan01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Caravan</Source>
-      <Dest>Karavan</Dest>
+      <Dest> Karavan</Dest>
     </String>
-    <String List="0" sID="0078F4">
+    <String List="0" sID="0078F4" Partial="1">
       <EDID>Personnel_B_Generic_Slipstream01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Slipstream</Source>
       <Dest> Akış akışı</Dest>
     </String>
-    <String List="0" sID="0078F5">
+    <String List="0" sID="0078F5" Partial="1">
       <EDID>xDoNotUse_Cargo_B_Generic02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Generic Class A 03</Source>
       <Dest> Genel Sınıf A 03</Dest>
     </String>
-    <String List="0" sID="00793F">
+    <String List="0" sID="00793F" Partial="1">
       <EDID>Combat_A_Generic_Wendigo01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Wendigo</Source>
       <Dest> Wendigo</Dest>
     </String>
-    <String List="0" sID="00794E">
+    <String List="0" sID="00794E" Partial="1">
       <EDID>DebugMaxLandable</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Test Max Landable</Source>
       <Dest> Maksimum İniş Yapılabilir Testi</Dest>
     </String>
-    <String List="0" sID="007963">
+    <String List="0" sID="007963" Partial="1">
       <EDID>xDoNotUse_LvlShip_TridentLines</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Freighter</Source>
       <Dest> Yük gemisi</Dest>
     </String>
-    <String List="0" sID="0079DA">
+    <String List="0" sID="0079DA" Partial="1">
       <EDID>EncShip_StarbornGuardian06_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Starborn Guardian VI</Source>
       <Dest> Yıldızdoğmuş Muhafız VI</Dest>
     </String>
-    <String List="0" sID="0079DD">
+    <String List="0" sID="0079DD" Partial="1">
       <EDID>OutpostStarstationShip01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Outpost Orbital Defense</Source>
       <Dest> Karakol Yörünge Savunması</Dest>
     </String>
-    <String List="0" sID="007A0D">
+    <String List="0" sID="007A0D" Partial="1">
       <EDID>UC01_SimEnemyShipModular_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Simulated Opponent</Source>
       <Dest> Simüle edilmiş Rakip</Dest>
     </String>
-    <String List="0" sID="007A62">
+    <String List="0" sID="007A62" Partial="1">
       <EDID>Destroyer_B_Deimos_Phalanx02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Phalanx II</Source>
       <Dest> Falanks II</Dest>
     </String>
-    <String List="0" sID="007A89">
+    <String List="0" sID="007A89" Partial="1">
       <EDID>MQ207CSatellite</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Satellite</Source>
       <Dest> Uydu</Dest>
     </String>
-    <String List="0" sID="007A98">
+    <String List="0" sID="007A98" Partial="1">
       <EDID>OutpostCargoLinkShip01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Freighter</Source>
       <Dest> Yük gemisi</Dest>
     </String>
-    <String List="0" sID="007AC7">
+    <String List="0" sID="007AC7" Partial="1">
       <EDID>SpaceTurret_Missile</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Missile Turret</Source>
       <Dest> Füze Kulesi</Dest>
     </String>
-    <String List="0" sID="007AD3">
+    <String List="0" sID="007AD3" Partial="1">
       <EDID>Freighter_B_Stroud_Venture01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Venture</Source>
       <Dest> Girişim</Dest>
     </String>
-    <String List="0" sID="007ADA">
+    <String List="0" sID="007ADA" Partial="1">
       <EDID>DefensiveBattery_Laser_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Defensive Battery</Source>
       <Dest> Savunma Bataryası</Dest>
     </String>
-    <String List="0" sID="007AE6">
+    <String List="0" sID="007AE6" Partial="1">
       <EDID>General_B_Deimos_Celestial01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Celestial</Source>
       <Dest> Göksel</Dest>
     </String>
-    <String List="0" sID="007AE7">
+    <String List="0" sID="007AE7" Partial="1">
       <EDID>Fighter_A_Deimos_Longsword01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Longsword</Source>
       <Dest> Uzun kılıç</Dest>
     </String>
-    <String List="0" sID="007AE8">
+    <String List="0" sID="007AE8" Partial="1">
       <EDID>Freighter_B_Deimos_Bireme01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Bireme</Source>
       <Dest> Bireme</Dest>
     </String>
-    <String List="0" sID="007AEF">
+    <String List="0" sID="007AEF" Partial="1">
       <EDID>Explorer_A_Stroud_Galileo01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Galileo</Source>
       <Dest> Galileo</Dest>
     </String>
-    <String List="0" sID="007B14">
+    <String List="0" sID="007B14" Partial="1">
       <EDID>OutpostCargoLinkShip02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Freighter</Source>
       <Dest> Yük gemisi</Dest>
     </String>
-    <String List="0" sID="007B25">
+    <String List="0" sID="007B25" Partial="1">
       <EDID>Colony_C_Taiyo_Reef01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Reef</Source>
       <Dest> Kayalık</Dest>
     </String>
-    <String List="0" sID="007B26">
+    <String List="0" sID="007B26" Partial="1">
       <EDID>Freighter_B_Taiyo_Pelican01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Pelican</Source>
       <Dest> Pelikan</Dest>
     </String>
-    <String List="0" sID="007B30">
+    <String List="0" sID="007B30" Partial="1">
       <EDID>Freighter_A_Hopetech_LilMuv01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Lil Muv</Source>
       <Dest> Lil Muv</Dest>
     </String>
-    <String List="0" sID="007B4D">
+    <String List="0" sID="007B4D" Partial="1">
       <EDID>Freighter_B_Hopetech_PCH02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>PCH II</Source>
       <Dest> PCH II</Dest>
     </String>
-    <String List="0" sID="007B4E">
+    <String List="0" sID="007B4E" Partial="1">
       <EDID>EncShip_StarbornGuardian01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Starborn Guardian</Source>
       <Dest> Yıldızdoğmuş Muhafız</Dest>
     </String>
-    <String List="0" sID="007B4F">
+    <String List="0" sID="007B4F" Partial="1">
       <EDID>CF03_ShuttleBayShuttle_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>UC Prison Shuttle</Source>
       <Dest> UC Cezaevi Servisi</Dest>
     </String>
-    <String List="0" sID="007B80">
+    <String List="0" sID="007B80" Partial="1">
       <EDID>Destroyer_B_Deimos_Hoplite01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Hoplite</Source>
       <Dest> Hoplit</Dest>
     </String>
-    <String List="0" sID="007B84">
+    <String List="0" sID="007B84" Partial="1">
       <EDID>Destroyer_B_Taiyo_Falcon01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Falcon</Source>
       <Dest> Şahin</Dest>
     </String>
-    <String List="0" sID="007B8C">
+    <String List="0" sID="007B8C" Partial="1">
       <EDID>Combat_A_Generic_Achilles01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Achilles</Source>
       <Dest> Aşil</Dest>
     </String>
-    <String List="0" sID="007BDE">
+    <String List="0" sID="007BDE" Partial="1">
       <EDID>Cargo_A_Generic_Hulker01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Hulker</Source>
       <Dest> Hulker</Dest>
     </String>
-    <String List="0" sID="007BE9">
+    <String List="0" sID="007BE9" Partial="1">
       <EDID>Cargo_A_Generic_Railstar02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Railstar II</Source>
       <Dest> Railstar II</Dest>
     </String>
-    <String List="0" sID="007BEA">
+    <String List="0" sID="007BEA" Partial="1">
       <EDID>Cargo_A_Generic_Atlas02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Atlas II</Source>
       <Dest> Atlas II</Dest>
     </String>
-    <String List="0" sID="007BEC">
+    <String List="0" sID="007BEC" Partial="1">
       <EDID>Cargo_B_Generic_AsphaltCB01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Asphalt CB</Source>
       <Dest> Asfalt CB</Dest>
     </String>
-    <String List="0" sID="007BEE">
+    <String List="0" sID="007BEE" Partial="1">
       <EDID>Combat_C_Generic_Dullahan01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Dullahan</Source>
       <Dest> Dullahan</Dest>
     </String>
-    <String List="0" sID="007BEF">
+    <String List="0" sID="007BEF" Partial="1">
       <EDID>Asp_Personnel_C_Generic_Highlander_Stronghold_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Stronghold</Source>
       <Dest> Kale</Dest>
     </String>
-    <String List="0" sID="007BF1">
+    <String List="0" sID="007BF1" Partial="1">
       <EDID>Personnel_C_Generic_Autobahn01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Autobahn</Source>
       <Dest> Otoban</Dest>
     </String>
-    <String List="0" sID="007C14">
+    <String List="0" sID="007C14" Partial="1">
       <EDID>Combat_C_Generic_Dragonfire01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Dragonfire</Source>
       <Dest> Ejderha ateşi</Dest>
     </String>
-    <String List="0" sID="007C51">
+    <String List="0" sID="007C51" Partial="1">
       <EDID>EncShip_StarbornGuardian02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Starborn Guardian II</Source>
       <Dest> Yıldızdoğmuş Muhafız II</Dest>
     </String>
-    <String List="0" sID="007C54">
+    <String List="0" sID="007C54" Partial="1">
       <EDID>DefaultBuildableShip</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Default Player Ship</Source>
       <Dest> Varsayılan Oyuncu Gemisi</Dest>
     </String>
-    <String List="0" sID="007C72">
+    <String List="0" sID="007C72" Partial="1">
       <EDID>Combat_A_Generic_Raptor01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Raptor</Source>
       <Dest> Raptor</Dest>
     </String>
-    <String List="0" sID="02E238">
+    <String List="0" sID="02E238" Partial="1">
       <EDID>DR032DerelictStationLocationClonedLocation001EB454_000000001</EDID>
       <REC>LCTN:FULL</REC>
       <Source>The Sonder</Source>
       <Dest> Sonder</Dest>
     </String>
-    <String List="0" sID="02E243">
+    <String List="0" sID="02E243" Partial="1">
       <EDID>DR019LocationClonedLocation0018A2E4_000000001</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Retrofitted Starstation</Source>
       <Dest> Yenilenen Starstation</Dest>
     </String>
-    <String List="0" sID="02E2E1">
+    <String List="0" sID="02E2E1" Partial="1">
       <EDID>Fighter_A_Taiyo_Sparrow02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Sparrow II</Source>
       <Dest> Serçe II</Dest>
     </String>
-    <String List="0" sID="02E2E7">
+    <String List="0" sID="02E2E7" Partial="1">
       <EDID>Fighter_A_Taiyo_Sparrow03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Sparrow III</Source>
       <Dest> Serçe III</Dest>
     </String>
-    <String List="0" sID="02E2EB">
+    <String List="0" sID="02E2EB" Partial="1">
       <EDID>Fighter_A_Taiyo_Sparrow01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Sparrow</Source>
       <Dest> Serçe</Dest>
     </String>
-    <String List="0" sID="02E2ED">
+    <String List="0" sID="02E2ED" Partial="1">
       <EDID>Destroyer_B_Taiyo_Hammerhead03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Hammerhead III</Source>
       <Dest> Çekiçbaş III</Dest>
     </String>
-    <String List="0" sID="02E2F5">
+    <String List="0" sID="02E2F5" Partial="1">
       <EDID>Constellation_Frontier_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Frontier</Source>
       <Dest> Sınır</Dest>
     </String>
-    <String List="0" sID="02E2F8">
+    <String List="0" sID="02E2F6" Partial="1">
+      <EDID>Constellation_Frontier_Template</EDID>
+      <REC>GBFM:HULL</REC>
+      <Source>BSN-728</Source>
+      <Dest> BSN-728</Dest>
+    </String>
+    <String List="0" sID="02E2F8" Partial="1">
       <EDID>Destroyer_B_Taiyo_Hammerhead02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Hammerhead II</Source>
       <Dest> Çekiçbaş II</Dest>
     </String>
-    <String List="0" sID="02E2FF">
+    <String List="0" sID="02E2FF" Partial="1">
       <EDID>Destroyer_B_Deimos_Hoplite03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Hoplite III</Source>
       <Dest> Hoplit III</Dest>
     </String>
-    <String List="0" sID="02E305">
+    <String List="0" sID="02E305" Partial="1">
       <EDID>Asp_Destroyer_B_Deimos_Hoplite_Aegis_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Aegis</Source>
       <Dest> Kalkan</Dest>
     </String>
-    <String List="0" sID="02E9C4">
-      <EDID>BlueprintInteriorFighter_A_Taiyo_Stingray03_TemplateLocation</EDID>
+    <String List="0" sID="02E9C4" Partial="1">
+      <EDID>BlueprintExterior_BaseShipTemplateLocation</EDID>
       <REC>LCTN:FULL</REC>
       <Source>Ship</Source>
       <Dest> Gemi</Dest>
     </String>
-    <String List="0" sID="02ED4D">
+    <String List="0" sID="02ED4D" Partial="1">
       <EDID>Cargo_B_Generic_Wagontrain01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Wagontrain</Source>
       <Dest> Vagon treni</Dest>
     </String>
-    <String List="0" sID="02ED4E">
+    <String List="0" sID="02ED4E" Partial="1">
       <EDID>Personnel_C_Generic_Babylon01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Babylon</Source>
       <Dest> Babil</Dest>
     </String>
-    <String List="0" sID="02ED56">
+    <String List="0" sID="02ED56" Partial="1">
       <EDID>Destroyer_B_Taiyo_Falcon04_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Falcon IV</Source>
       <Dest> Şahin IV</Dest>
     </String>
-    <String List="0" sID="02F40F">
+    <String List="0" sID="02F40F" Partial="1">
       <EDID>Combat_B_Generic_Starhawk02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Starhawk II</Source>
       <Dest> Yıldız Şahini II</Dest>
     </String>
-    <String List="0" sID="02F413">
+    <String List="0" sID="02F413" Partial="1">
       <EDID>Explorer_A_Nova_Endeavor02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Endeavor II</Source>
       <Dest> Çaba II</Dest>
     </String>
-    <String List="0" sID="02FA06">
+    <String List="0" sID="02FA06" Partial="1">
       <EDID>Colony_C_Deimos_Polis02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Polis II</Source>
       <Dest> Polis II</Dest>
     </String>
-    <String List="0" sID="02FA0B">
+    <String List="0" sID="02FA0B" Partial="1">
       <EDID>Freighter_B_Deimos_Bireme02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Bireme II</Source>
       <Dest> Bireme II</Dest>
     </String>
-    <String List="0" sID="02FA0D">
+    <String List="0" sID="02FA0D" Partial="1">
       <EDID>Destroyer_B_Taiyo_Falcon03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Falcon III</Source>
       <Dest> Şahin III</Dest>
     </String>
-    <String List="0" sID="02FA0E">
+    <String List="0" sID="02FA0E" Partial="1">
       <EDID>Destroyer_B_Taiyo_Falcon02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Falcon II</Source>
       <Dest> Şahin II</Dest>
     </String>
-    <String List="0" sID="02FA0F">
+    <String List="0" sID="02FA0F" Partial="1">
       <EDID>Freighter_B_Hopetech_BigRig02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Big Rig II</Source>
       <Dest> Büyük Teçhizat II</Dest>
     </String>
-    <String List="0" sID="02FA16">
+    <String List="0" sID="02FA16" Partial="1">
       <EDID>Personnel_C_Generic_Voyager01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Voyager</Source>
       <Dest> Gezgin</Dest>
     </String>
-    <String List="0" sID="02FF3F">
+    <String List="0" sID="02FF3F" Partial="1">
       <EDID>MantisShip_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Razorleaf</Source>
       <Dest> Jilet yaprağı</Dest>
     </String>
-    <String List="0" sID="03097F">
+    <String List="0" sID="03097F" Partial="1">
       <EDID>Destroyer_B_Nova_Zumwalt01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Zumwalt</Source>
-      <Dest> Zumwalt</Dest>
+      <Dest>Zumwalt</Dest>
     </String>
-    <String List="0" sID="030DA7">
+    <String List="0" sID="030DA7" Partial="1">
       <EDID>Cruiser_C_Taiyo_Orca01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Orca</Source>
       <Dest> Orka</Dest>
     </String>
-    <String List="0" sID="031247">
+    <String List="0" sID="031247" Partial="1">
       <EDID>Combat_B_Generic_Starhawk01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Starhawk</Source>
       <Dest> Yıldız Şahin</Dest>
     </String>
-    <String List="0" sID="031248">
+    <String List="0" sID="031248" Partial="1">
       <EDID>Personnel_A_Generic_Rambler01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Rambler</Source>
-      <Dest>başıboş</Dest>
+      <Dest> başıboş</Dest>
     </String>
-    <String List="0" sID="031249">
+    <String List="0" sID="031249" Partial="1">
       <EDID>Personnel_A_Generic_Transpo01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Transpo</Source>
       <Dest> Transpo</Dest>
     </String>
-    <String List="0" sID="03124A">
+    <String List="0" sID="03124A" Partial="1">
       <EDID>Fighter_A_Deimos_Gladius04_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Gladius IV</Source>
       <Dest> Gladius IV</Dest>
     </String>
-    <String List="0" sID="03124B">
+    <String List="0" sID="03124B" Partial="1">
       <EDID>Cruiser_C_Stroud_Vanquisher01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Vanquisher</Source>
       <Dest> Galip</Dest>
     </String>
-    <String List="0" sID="03124E">
+    <String List="0" sID="03124C" Partial="1">
+      <EDID>Cruiser_C_Stroud_Vanquisher01_Template</EDID>
+      <REC>GBFM:HULL</REC>
+      <Source>BSN-728</Source>
+      <Dest> BSN-728</Dest>
+    </String>
+    <String List="0" sID="03124E" Partial="1">
       <EDID>Cargo_B_Generic_CarryALL03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Carry ALL III</Source>
       <Dest> TÜMÜ III&apos;ü taşı</Dest>
     </String>
-    <String List="0" sID="031250">
+    <String List="0" sID="031250" Partial="1">
       <EDID>Freighter_B_Hopetech_PCH01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>PCH</Source>
       <Dest> PCH</Dest>
     </String>
-    <String List="0" sID="031251">
+    <String List="0" sID="031251" Partial="1">
       <EDID>Fighter_A_Stroud_Warmonger01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Warmonger</Source>
       <Dest> Savaş kışkırtıcısı</Dest>
     </String>
-    <String List="0" sID="031252">
+    <String List="0" sID="031252" Partial="1">
       <EDID>Destroyer_B_Nova_Zumwalt03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Zumwalt III</Source>
       <Dest> Zumwalt III</Dest>
     </String>
-    <String List="0" sID="03125D">
+    <String List="0" sID="03125D" Partial="1">
       <EDID>Fighter_A_Taiyo_Mako01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Mako</Source>
       <Dest> Mako</Dest>
     </String>
-    <String List="0" sID="03125F">
+    <String List="0" sID="03125E" Partial="1">
+      <EDID>Fighter_A_Taiyo_Mako01_Template</EDID>
+      <REC>GBFM:HULL</REC>
+      <Source>BSN-728</Source>
+      <Dest> BSN-728</Dest>
+    </String>
+    <String List="0" sID="03125F" Partial="1">
       <EDID>Fighter_A_Taiyo_Stingray01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Stingray</Source>
       <Dest> vatoz</Dest>
     </String>
-    <String List="0" sID="031261">
+    <String List="0" sID="031261" Partial="1">
       <EDID>Combat_A_Generic_Wendigo02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Wendigo II</Source>
       <Dest> Wendigo II</Dest>
     </String>
-    <String List="0" sID="031263">
+    <String List="0" sID="031263" Partial="1">
       <EDID>Fighter_A_Deimos_Dagger01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Dagger</Source>
       <Dest> Hançer</Dest>
     </String>
-    <String List="0" sID="031271">
+    <String List="0" sID="031271" Partial="1">
       <EDID>Fighter_A_Deimos_Gladius02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Gladius II</Source>
       <Dest> Gladius II</Dest>
     </String>
-    <String List="0" sID="031277">
+    <String List="0" sID="031277" Partial="1">
       <EDID>Fighter_A_Nova_Kfir01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Kfir</Source>
       <Dest> Kfir</Dest>
     </String>
-    <String List="0" sID="03127B">
+    <String List="0" sID="03127B" Partial="1">
       <EDID>Cruiser_C_Stroud_Vanquisher03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Vanquisher III</Source>
       <Dest> Galip III</Dest>
     </String>
-    <String List="0" sID="03127E">
+    <String List="0" sID="03127C" Partial="1">
+      <EDID>Cruiser_C_Stroud_Vanquisher03_Template</EDID>
+      <REC>GBFM:HULL</REC>
+      <Source>BSN-728</Source>
+      <Dest> BSN-728</Dest>
+    </String>
+    <String List="0" sID="03127E" Partial="1">
       <EDID>Freighter_B_Hopetech_Spacetruk02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Spacetruk II</Source>
       <Dest> Uzay Truku II</Dest>
     </String>
-    <String List="0" sID="03127F">
+    <String List="0" sID="03127F" Partial="1">
       <EDID>Cargo_A_Generic_Railstar01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Railstar</Source>
       <Dest> Demiryolu yıldızı</Dest>
     </String>
-    <String List="0" sID="031280">
+    <String List="0" sID="031280" Partial="1">
       <EDID>Combat_B_Generic_Pterosaur01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Pterosaur</Source>
       <Dest> Pterozor</Dest>
     </String>
-    <String List="0" sID="031281">
+    <String List="0" sID="031281" Partial="1">
       <EDID>Combat_B_Generic_Warhammer01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Warhammer</Source>
       <Dest> Savaş çekici</Dest>
     </String>
-    <String List="0" sID="031282">
+    <String List="0" sID="031282" Partial="1">
       <EDID>Cargo_B_Generic_CarryALL01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Carry ALL</Source>
       <Dest> HEPSİNİ Taşı</Dest>
     </String>
-    <String List="0" sID="031287">
+    <String List="0" sID="031287" Partial="1">
       <EDID>Fighter_A_Deimos_Dagger04_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Dagger IV</Source>
       <Dest> Hançer IV</Dest>
     </String>
-    <String List="0" sID="031288">
+    <String List="0" sID="031288" Partial="1">
       <EDID>Fighter_A_Nova_Kfir04_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Kfir IV</Source>
       <Dest> Kfir IV</Dest>
     </String>
-    <String List="0" sID="03128A">
+    <String List="0" sID="03128A" Partial="1">
       <EDID>Fighter_A_Stroud_Trebuchet03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Trebuchet III</Source>
       <Dest> Trebuchet III</Dest>
     </String>
-    <String List="0" sID="03128B">
+    <String List="0" sID="03128B" Partial="1">
       <EDID>Fighter_A_Taiyo_Mako02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Mako II</Source>
       <Dest> Mako II</Dest>
     </String>
-    <String List="0" sID="03128D">
+    <String List="0" sID="03128C" Partial="1">
+      <EDID>Fighter_A_Taiyo_Mako02_Template</EDID>
+      <REC>GBFM:HULL</REC>
+      <Source>BSN-728</Source>
+      <Dest> BSN-728</Dest>
+    </String>
+    <String List="0" sID="03128D" Partial="1">
       <EDID>Freighter_A_Hopetech_PikUp02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Pik Up II</Source>
       <Dest> Pik Up II</Dest>
     </String>
-    <String List="0" sID="03128E">
+    <String List="0" sID="03128E" Partial="1">
       <EDID>Personnel_A_Generic_Rambler02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Rambler II</Source>
       <Dest> Rambler II</Dest>
     </String>
-    <String List="0" sID="03128F">
+    <String List="0" sID="03128F" Partial="1">
       <EDID>Personnel_A_Generic_Transpo03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Transpo III</Source>
       <Dest> Transpo III</Dest>
     </String>
-    <String List="0" sID="031297">
+    <String List="0" sID="031297" Partial="1">
       <EDID>Combat_C_Generic_Crossbow02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Crossbow II</Source>
       <Dest> Arbalet II</Dest>
     </String>
-    <String List="0" sID="03129A">
+    <String List="0" sID="03129A" Partial="1">
       <EDID>Personnel_C_Generic_Civshuttle01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Civshuttle</Source>
       <Dest> Civshuttle</Dest>
     </String>
-    <String List="0" sID="03129F">
+    <String List="0" sID="03129F" Partial="1">
       <EDID>Cruiser_C_Nova_Kirov02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Kirov II</Source>
       <Dest> Kirov II</Dest>
     </String>
-    <String List="0" sID="0312A0">
+    <String List="0" sID="0312A0" Partial="1">
       <EDID>Combat_C_Generic_Stormrider03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Stormrider III</Source>
       <Dest> Fırtına Süvarisi III</Dest>
     </String>
-    <String List="0" sID="0312A1">
+    <String List="0" sID="0312A1" Partial="1">
       <EDID>Combat_C_Generic_Dullahan03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Dullahan III</Source>
       <Dest> Dullahan III</Dest>
     </String>
-    <String List="0" sID="0312A2">
+    <String List="0" sID="0312A2" Partial="1">
       <EDID>xDoNotUse_Combat_C_Generic_Crossbow04_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Crossbow IV</Source>
       <Dest> Arbalet IV</Dest>
     </String>
-    <String List="0" sID="0312A5">
+    <String List="0" sID="0312A5" Partial="1">
       <EDID>Cruiser_C_Taiyo_Orca02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Orca II</Source>
       <Dest> Orka II</Dest>
     </String>
-    <String List="0" sID="0312A6">
+    <String List="0" sID="0312A6" Partial="1">
       <EDID>Cargo_A_Generic_Hulker03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Hulker III</Source>
       <Dest> Hulker III</Dest>
     </String>
-    <String List="0" sID="0312A7">
+    <String List="0" sID="0312A7" Partial="1">
       <EDID>Cargo_A_Generic_Railstar03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Railstar III</Source>
       <Dest> Railstar III</Dest>
     </String>
-    <String List="0" sID="0312A8">
+    <String List="0" sID="0312A8" Partial="1">
       <EDID>Cruiser_C_Nova_Kirov04_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Kirov IV</Source>
       <Dest> Kirov IV</Dest>
     </String>
-    <String List="0" sID="0312B0">
+    <String List="0" sID="0312B0" Partial="1">
       <EDID>Fighter_A_Nova_Mustang03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Mustang III</Source>
       <Dest> Mustang III</Dest>
     </String>
-    <String List="0" sID="0312D0">
+    <String List="0" sID="0312D0" Partial="1">
       <EDID>Cruiser_C_Nova_Nimitz03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Nimitz III</Source>
       <Dest> Nimitz III</Dest>
     </String>
-    <String List="0" sID="0312EC">
+    <String List="0" sID="0312EC" Partial="1">
       <EDID>Destroyer_B_Nova_Blackhawk02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Blackhawk II</Source>
       <Dest> Kara Şahin II</Dest>
     </String>
-    <String List="0" sID="0312ED">
+    <String List="0" sID="0312ED" Partial="1">
       <EDID>Destroyer_B_Stroud_Privateer03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Privateer III</Source>
       <Dest> Korsan III</Dest>
     </String>
-    <String List="0" sID="0312F0">
+    <String List="0" sID="0312F0" Partial="1">
       <EDID>Freighter_A_Nova_Econohaul02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Econohaul II</Source>
       <Dest> Ekonomik Taşıma II</Dest>
     </String>
-    <String List="0" sID="0312F1">
+    <String List="0" sID="0312F1" Partial="1">
       <EDID>Cruiser_C_Nova_Kirov01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Kirov</Source>
       <Dest> Kirov</Dest>
     </String>
-    <String List="0" sID="0312F4">
+    <String List="0" sID="0312F4" Partial="1">
       <EDID>Personnel_B_Generic_Caravan03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Caravan III</Source>
       <Dest> Karavan III</Dest>
     </String>
-    <String List="0" sID="0312F6">
+    <String List="0" sID="0312F6" Partial="1">
       <EDID>Personnel_B_Generic_Sunsail02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Sunsail II</Source>
       <Dest> Güneş Yelkeni II</Dest>
     </String>
-    <String List="0" sID="0312F7">
+    <String List="0" sID="0312F7" Partial="1">
       <EDID>Personnel_B_Stroud_Roanoke03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Roanoke III</Source>
       <Dest> Roanoke III</Dest>
     </String>
-    <String List="0" sID="0312F8">
+    <String List="0" sID="0312F8" Partial="1">
       <EDID>Freighter_B_Hopetech_Spacetruk03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Spacetruk III</Source>
       <Dest> Uzay Truku III</Dest>
     </String>
-    <String List="0" sID="0312F9">
+    <String List="0" sID="0312F9" Partial="1">
       <EDID>Freighter_B_Stroud_Venture02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Venture II</Source>
       <Dest> Girişim II</Dest>
     </String>
-    <String List="0" sID="0312FA">
+    <String List="0" sID="0312FA" Partial="1">
       <EDID>Freighter_B_Stroud_Venture03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Venture III</Source>
       <Dest> Girişim III</Dest>
     </String>
-    <String List="0" sID="0312FB">
+    <String List="0" sID="0312FB" Partial="1">
       <EDID>Cargo_B_Generic_AsphaltCB03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Asphalt CB III</Source>
       <Dest> Asfalt CB III</Dest>
     </String>
-    <String List="0" sID="0312FC">
+    <String List="0" sID="0312FC" Partial="1">
       <EDID>Cargo_B_Generic_SpaceOX03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Space OX III</Source>
       <Dest> Uzay OX III</Dest>
     </String>
-    <String List="0" sID="0312FD">
+    <String List="0" sID="0312FD" Partial="1">
       <EDID>Cargo_B_Generic_Wagontrain02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Wagontrain II</Source>
       <Dest> Vagon treni II</Dest>
     </String>
-    <String List="0" sID="0312FF">
+    <String List="0" sID="0312FF" Partial="1">
       <EDID>Combat_A_Generic_Raptor03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Raptor III</Source>
       <Dest> Raptor III</Dest>
     </String>
-    <String List="0" sID="031300">
+    <String List="0" sID="031300" Partial="1">
       <EDID>xDoNotUse_Combat_B_Generic_Starhawk03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Starhawk III</Source>
       <Dest> Yıldız Şahini III</Dest>
     </String>
-    <String List="0" sID="031301">
+    <String List="0" sID="031301" Partial="1">
       <EDID>General_B_Deimos_Celestial02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Celestial II</Source>
       <Dest> Göksel II</Dest>
     </String>
-    <String List="0" sID="031304">
+    <String List="0" sID="031304" Partial="1">
       <EDID>Personnel_C_Generic_Voyager02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Voyager II</Source>
       <Dest> Gezgin II</Dest>
     </String>
-    <String List="0" sID="031305">
+    <String List="0" sID="031305" Partial="1">
       <EDID>Personnel_C_Generic_Highlander02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Highlander II</Source>
       <Dest> İskoçyalı II</Dest>
     </String>
-    <String List="0" sID="031306">
+    <String List="0" sID="031306" Partial="1">
       <EDID>Personnel_C_Generic_Babylon02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Babylon II</Source>
       <Dest> Babil II</Dest>
     </String>
-    <String List="0" sID="031309">
+    <String List="0" sID="031309" Partial="1">
       <EDID>Destroyer_B_Nova_Blackhawk01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Blackhawk</Source>
-      <Dest> Kara Şahin</Dest>
+      <Dest>Kara Şahin</Dest>
     </String>
-    <String List="0" sID="03130A">
+    <String List="0" sID="03130A" Partial="1">
       <EDID>Combat_A_Generic_Achilles02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Achilles II</Source>
       <Dest> Aşil II</Dest>
     </String>
-    <String List="0" sID="03130B">
+    <String List="0" sID="03130B" Partial="1">
       <EDID>Combat_B_Generic_Pterosaur03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Pterosaur III</Source>
-      <Dest>Pterozor III</Dest>
+      <Dest> Pterozor III</Dest>
     </String>
-    <String List="0" sID="0317F5">
+    <String List="0" sID="0317F5" Partial="1">
       <EDID>Cruiser_C_Nova_Kirov03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Kirov III</Source>
       <Dest> Kirov III</Dest>
     </String>
-    <String List="0" sID="031802">
+    <String List="0" sID="031802" Partial="1">
       <EDID>Cargo_A_Generic_MULE03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>MULE III</Source>
       <Dest> KATIR III</Dest>
     </String>
-    <String List="0" sID="031803">
+    <String List="0" sID="031803" Partial="1">
       <EDID>Cargo_A_Generic_Hulker02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Hulker II</Source>
       <Dest> Hulker II</Dest>
     </String>
-    <String List="0" sID="031804">
+    <String List="0" sID="031804" Partial="1">
       <EDID>Cruiser_C_Hopetech_StarSemi01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Star Semi</Source>
       <Dest> Yıldız Yarı</Dest>
     </String>
-    <String List="0" sID="031805">
+    <String List="0" sID="031805" Partial="1">
       <EDID>Personnel_C_Generic_Vista01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Vista</Source>
       <Dest> Manzara</Dest>
     </String>
-    <String List="0" sID="031806">
+    <String List="0" sID="031806" Partial="1">
       <EDID>Combat_C_Generic_Crossbow03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Crossbow III</Source>
       <Dest> Arbalet III</Dest>
     </String>
-    <String List="0" sID="031807">
+    <String List="0" sID="031807" Partial="1">
       <EDID>Combat_C_Generic_Dragonfire02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Dragonfire II</Source>
       <Dest> Ejderha Ateşi II</Dest>
     </String>
-    <String List="0" sID="031808">
+    <String List="0" sID="031808" Partial="1">
       <EDID>Combat_C_Generic_Dullahan02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Dullahan II</Source>
       <Dest> Dullahan II</Dest>
     </String>
-    <String List="0" sID="031809">
+    <String List="0" sID="031809" Partial="1">
       <EDID>Combat_C_Generic_Stormrider02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Stormrider II</Source>
       <Dest> Fırtına Sürücüsü II</Dest>
     </String>
-    <String List="0" sID="03180A">
+    <String List="0" sID="03180A" Partial="1">
       <EDID>Colony_C_Taiyo_Reef03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Reef III</Source>
       <Dest> Resif III</Dest>
     </String>
-    <String List="0" sID="03180B">
+    <String List="0" sID="03180B" Partial="1">
       <EDID>Cargo_C_Generic_Renegade03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Renegade III</Source>
       <Dest> Hain III</Dest>
     </String>
-    <String List="0" sID="031813">
+    <String List="0" sID="031813" Partial="1">
       <EDID>Cruiser_C_Stroud_Vanquisher02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Vanquisher II</Source>
       <Dest> Galip II</Dest>
     </String>
-    <String List="0" sID="03181A">
+    <String List="0" sID="031814" Partial="1">
+      <EDID>Cruiser_C_Stroud_Vanquisher02_Template</EDID>
+      <REC>GBFM:HULL</REC>
+      <Source>BSN-728</Source>
+      <Dest> BSN-728</Dest>
+    </String>
+    <String List="0" sID="03181A" Partial="1">
       <EDID>Destroyer_B_Deimos_Nebula01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Nebula</Source>
       <Dest> Bulutsusu</Dest>
     </String>
-    <String List="0" sID="03181D">
+    <String List="0" sID="03181D" Partial="1">
       <EDID>Asp_Destroyer_B_Nova_Zumwalt_Murasame_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Murasame</Source>
       <Dest> Murasame</Dest>
     </String>
-    <String List="0" sID="03181F">
+    <String List="0" sID="03181F" Partial="1">
       <EDID>Fighter_A_Hopetech_Watchdog04_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog IV</Source>
       <Dest> Bekçi köpeği IV</Dest>
     </String>
-    <String List="0" sID="031820">
+    <String List="0" sID="031820" Partial="1">
       <EDID>Fighter_A_Deimos_Gladius03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Gladius III</Source>
       <Dest> Gladius III</Dest>
     </String>
-    <String List="0" sID="031828">
+    <String List="0" sID="031828" Partial="1">
       <EDID>Fighter_A_Nova_Mustang01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Mustang</Source>
       <Dest> Mustang</Dest>
     </String>
-    <String List="0" sID="03183C">
+    <String List="0" sID="03183C" Partial="1">
       <EDID>Cruiser_C_Taiyo_Orca03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Orca III</Source>
       <Dest> Orka III</Dest>
     </String>
-    <String List="0" sID="03183D">
+    <String List="0" sID="03183D" Partial="1">
       <EDID>xDoNotUse_Cruiser_C_Taiyo_Orca04_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Orca IV</Source>
       <Dest> Orka IV</Dest>
     </String>
-    <String List="0" sID="03183F">
+    <String List="0" sID="03183F" Partial="1">
       <EDID>Cruiser_C_Deimos_Chimera01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Chimera</Source>
       <Dest> Kimera</Dest>
     </String>
-    <String List="0" sID="031841">
+    <String List="0" sID="031841" Partial="1">
       <EDID>Cargo_A_Generic_MULE01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>MULE</Source>
       <Dest> KATIR</Dest>
     </String>
-    <String List="0" sID="031844">
+    <String List="0" sID="031844" Partial="1">
       <EDID>Personnel_A_Generic_SLoop02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Sloop II</Source>
       <Dest> Şalop II</Dest>
     </String>
-    <String List="0" sID="031846">
+    <String List="0" sID="031846" Partial="1">
       <EDID>Fighter_A_Deimos_Longsword04_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Longsword IV</Source>
       <Dest> Uzun Kılıç IV</Dest>
     </String>
-    <String List="0" sID="031848">
+    <String List="0" sID="031848" Partial="1">
       <EDID>Fighter_A_Deimos_Dagger03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Dagger III</Source>
       <Dest> Hançer III</Dest>
     </String>
-    <String List="0" sID="03185A">
+    <String List="0" sID="03185A" Partial="1">
       <EDID>Destroyer_B_Deimos_Phalanx03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Phalanx III</Source>
       <Dest> Falanks III</Dest>
     </String>
-    <String List="0" sID="03185B">
+    <String List="0" sID="03185B" Partial="1">
       <EDID>Personnel_A_Generic_Responder02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Responder II</Source>
       <Dest> Yanıtlayıcı II</Dest>
     </String>
-    <String List="0" sID="031867">
+    <String List="0" sID="031867" Partial="1">
       <EDID>Freighter_A_Hopetech_PikUp03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Pik Up III</Source>
       <Dest> Pik Up III</Dest>
     </String>
-    <String List="0" sID="031868">
+    <String List="0" sID="031868" Partial="1">
       <EDID>Combat_A_Generic_Thresher02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Thresher II</Source>
       <Dest> Harman II</Dest>
     </String>
-    <String List="0" sID="03186D">
+    <String List="0" sID="03186D" Partial="1">
       <EDID>Explorer_A_Stroud_Galileo02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Galileo II</Source>
       <Dest> Galileo II</Dest>
     </String>
-    <String List="0" sID="03186E">
+    <String List="0" sID="03186E" Partial="1">
       <EDID>Explorer_A_Stroud_Galileo03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Galileo III</Source>
       <Dest> Galileo III</Dest>
     </String>
-    <String List="0" sID="03186F">
+    <String List="0" sID="03186F" Partial="1">
       <EDID>Cargo_C_Generic_Renegade02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Renegade II</Source>
       <Dest> Hain II</Dest>
     </String>
-    <String List="0" sID="031870">
+    <String List="0" sID="031870" Partial="1">
       <EDID>Fighter_A_Stroud_Warmonger03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Warmonger III</Source>
       <Dest> Savaş çığırtkanı III</Dest>
     </String>
-    <String List="0" sID="031871">
+    <String List="0" sID="031871" Partial="1">
       <EDID>Fighter_A_Taiyo_Mako03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Mako III</Source>
       <Dest> Mako III</Dest>
     </String>
-    <String List="0" sID="031873">
+    <String List="0" sID="031872" Partial="1">
+      <EDID>Fighter_A_Taiyo_Mako03_Template</EDID>
+      <REC>GBFM:HULL</REC>
+      <Source>BSN-728</Source>
+      <Dest> BSN-728</Dest>
+    </String>
+    <String List="0" sID="031873" Partial="1">
       <EDID>Fighter_A_Taiyo_Stingray03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Stingray III</Source>
       <Dest> Vatoz III</Dest>
     </String>
-    <String List="0" sID="03187D">
+    <String List="0" sID="03187D" Partial="1">
       <EDID>xDoNotUse_Personnel_A_Generic_Responder03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Responder</Source>
       <Dest> Yanıtlayıcı</Dest>
     </String>
-    <String List="0" sID="03187E">
+    <String List="0" sID="03187E" Partial="1">
       <EDID>Personnel_B_Generic_Caravan02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Caravan II</Source>
       <Dest> Karavan II</Dest>
     </String>
-    <String List="0" sID="03187F">
+    <String List="0" sID="03187F" Partial="1">
       <EDID>Personnel_B_Generic_Slipstream02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Slipstream II</Source>
       <Dest> Akış Akışı II</Dest>
     </String>
-    <String List="0" sID="031882">
+    <String List="0" sID="031882" Partial="1">
       <EDID>Freighter_B_Taiyo_Pelican02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Pelican II</Source>
       <Dest> Pelikan II</Dest>
     </String>
-    <String List="0" sID="031883">
+    <String List="0" sID="031883" Partial="1">
       <EDID>Cargo_B_Generic_AsphaltCB02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Asphalt CB II</Source>
       <Dest> Asfalt CB II</Dest>
     </String>
-    <String List="0" sID="031884">
+    <String List="0" sID="031884" Partial="1">
       <EDID>Cargo_B_Generic_SpaceOX02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Space OX II</Source>
       <Dest> Uzay ÖKÜZ II</Dest>
     </String>
-    <String List="0" sID="031885">
+    <String List="0" sID="031885" Partial="1">
       <EDID>Cargo_B_Generic_Wagontrain03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Wagontrain III</Source>
       <Dest> Vagon Treni III</Dest>
     </String>
-    <String List="0" sID="031886">
+    <String List="0" sID="031886" Partial="1">
       <EDID>Destroyer_B_Nova_Ranger02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Ranger II</Source>
       <Dest> Korucu II</Dest>
     </String>
-    <String List="0" sID="031888">
+    <String List="0" sID="031887" Partial="1">
+      <EDID>Destroyer_B_Nova_Ranger02_Template</EDID>
+      <REC>GBFM:HULL</REC>
+      <Source>BSN-728</Source>
+      <Dest> BSN-728</Dest>
+    </String>
+    <String List="0" sID="031888" Partial="1">
       <EDID>Destroyer_B_Nova_Ranger03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Ranger III</Source>
       <Dest> Korucu III</Dest>
     </String>
-    <String List="0" sID="03189D">
+    <String List="0" sID="031889" Partial="1">
+      <EDID>Destroyer_B_Nova_Ranger03_Template</EDID>
+      <REC>GBFM:HULL</REC>
+      <Source>BSN-728</Source>
+      <Dest> BSN-728</Dest>
+    </String>
+    <String List="0" sID="03189D" Partial="1">
       <EDID>Personnel_C_Generic_Civshuttle02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Civshuttle II</Source>
       <Dest> Civshuttle II</Dest>
     </String>
-    <String List="0" sID="03189E">
+    <String List="0" sID="03189E" Partial="1">
       <EDID>Freighter_A_Hopetech_LilMuv02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Lil Muv II</Source>
       <Dest> Lil Muv II</Dest>
     </String>
-    <String List="0" sID="03189F">
+    <String List="0" sID="03189F" Partial="1">
       <EDID>Personnel_C_Generic_Autobahn03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Autobahn III</Source>
       <Dest> Otoban III</Dest>
     </String>
-    <String List="0" sID="0318A2">
+    <String List="0" sID="0318A2" Partial="1">
       <EDID>Personnel_C_Generic_Civshuttle03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Civshuttle III</Source>
       <Dest> Civshuttle III</Dest>
     </String>
-    <String List="0" sID="0318B4">
+    <String List="0" sID="0318B4" Partial="1">
       <EDID>Personnel_C_Generic_Vista02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Vista II</Source>
       <Dest> Vista II</Dest>
     </String>
-    <String List="0" sID="0318BB">
+    <String List="0" sID="0318BB" Partial="1">
       <EDID>Personnel_B_Stroud_Roanoke02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Roanoke II</Source>
       <Dest> Roanoke II</Dest>
     </String>
-    <String List="0" sID="0318C7">
+    <String List="0" sID="0318C7" Partial="1">
       <EDID>Personnel_C_Generic_Vista03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Vista III</Source>
       <Dest> Vista III</Dest>
     </String>
-    <String List="0" sID="0318C8">
+    <String List="0" sID="0318C8" Partial="1">
       <EDID>Cruiser_C_Stroud_Vindicator02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Vindicator II</Source>
       <Dest> Doğrulayıcı II</Dest>
     </String>
-    <String List="0" sID="0318C9">
+    <String List="0" sID="0318C9" Partial="1">
       <EDID>Combat_B_Generic_Warhammer03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Warhammer III</Source>
       <Dest> Warhammer III</Dest>
     </String>
-    <String List="0" sID="0318CA">
+    <String List="0" sID="0318CA" Partial="1">
       <EDID>Combat_A_Generic_Raptor02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Raptor II</Source>
       <Dest> Raptor II</Dest>
     </String>
-    <String List="0" sID="0318CB">
+    <String List="0" sID="0318CB" Partial="1">
       <EDID>Combat_A_Generic_Achilles03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Achilles III</Source>
       <Dest> Aşil III</Dest>
     </String>
-    <String List="0" sID="0318CC">
+    <String List="0" sID="0318CC" Partial="1">
       <EDID>Combat_B_Generic_Naginata02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Naginata II</Source>
       <Dest> Naginata II</Dest>
     </String>
-    <String List="0" sID="031B13">
+    <String List="0" sID="031B13" Partial="1">
       <EDID>Cruiser_C_Deimos_Chimera03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Chimera III</Source>
       <Dest> Kimera III</Dest>
     </String>
-    <String List="0" sID="031B17">
+    <String List="0" sID="031B17" Partial="1">
       <EDID>Cruiser_C_Nova_Nimitz01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Nimitz</Source>
       <Dest> Nimitz</Dest>
     </String>
-    <String List="0" sID="031B1B">
+    <String List="0" sID="031B1B" Partial="1">
       <EDID>Combat_A_Generic_Thresher03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Thresher III</Source>
-      <Dest> Harman III</Dest>
+      <Dest>Harman III</Dest>
     </String>
-    <String List="0" sID="031B2B">
+    <String List="0" sID="031B2B" Partial="1">
       <EDID>Colony_C_Taiyo_Reef02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Reef II</Source>
       <Dest> Resif II</Dest>
     </String>
-    <String List="0" sID="031B2D">
+    <String List="0" sID="031B2D" Partial="1">
       <EDID>Cargo_A_Generic_Atlas03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Atlas III</Source>
-      <Dest>Atlas III</Dest>
+      <Dest> Atlas III</Dest>
     </String>
-    <String List="0" sID="031B34">
+    <String List="0" sID="031B34" Partial="1">
       <EDID>Fighter_A_Nova_Kfir03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Kfir III</Source>
       <Dest> Kfir III</Dest>
     </String>
-    <String List="0" sID="031B36">
+    <String List="0" sID="031B36" Partial="1">
       <EDID>Personal_A_Stroud_Narcissus02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Narcissus II</Source>
       <Dest> Nergis II</Dest>
     </String>
-    <String List="0" sID="031B37">
+    <String List="0" sID="031B37" Partial="1">
       <EDID>Fighter_A_Deimos_Longsword03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Longsword III</Source>
       <Dest> Uzun Kılıç III</Dest>
     </String>
-    <String List="0" sID="031B40">
+    <String List="0" sID="031B40" Partial="1">
       <EDID>Combat_B_Generic_Naginata03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Naginata III</Source>
       <Dest> Naginata III</Dest>
     </String>
-    <String List="0" sID="031B41">
+    <String List="0" sID="031B41" Partial="1">
       <EDID>Fighter_A_Stroud_Trebuchet02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Trebuchet II</Source>
       <Dest> Trebuchet II</Dest>
     </String>
-    <String List="0" sID="031B42">
+    <String List="0" sID="031B42" Partial="1">
       <EDID>Cruiser_C_Stroud_Vindicator03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Vindicator III</Source>
       <Dest> Doğrulayıcı III</Dest>
     </String>
-    <String List="0" sID="031B43">
+    <String List="0" sID="031B43" Partial="1">
       <EDID>Personnel_C_Generic_Voyager03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Voyager III</Source>
       <Dest> Gezgin III</Dest>
     </String>
-    <String List="0" sID="031B44">
+    <String List="0" sID="031B44" Partial="1">
       <EDID>Personnel_C_Generic_Highlander03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Highlander III</Source>
       <Dest> İskoçyalı III</Dest>
     </String>
-    <String List="0" sID="031B45">
+    <String List="0" sID="031B45" Partial="1">
       <EDID>Fighter_A_Deimos_Longsword02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Longsword II</Source>
       <Dest> Uzun Kılıç II</Dest>
     </String>
-    <String List="0" sID="031B46">
+    <String List="0" sID="031B46" Partial="1">
       <EDID>Personnel_C_Generic_Autobahn02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Autobahn II</Source>
       <Dest> Otoban II</Dest>
     </String>
-    <String List="0" sID="031B47">
+    <String List="0" sID="031B47" Partial="1">
       <EDID>General_B_Taiyo_Dolphin02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Dolphin II</Source>
       <Dest> Yunus II</Dest>
     </String>
-    <String List="0" sID="031B53">
+    <String List="0" sID="031B53" Partial="1">
       <EDID>Destroyer_B_Nova_Blackhawk03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Blackhawk III</Source>
       <Dest> Kara Şahin III</Dest>
     </String>
-    <String List="0" sID="031B5A">
+    <String List="0" sID="031B5A" Partial="1">
       <EDID>xDoNotUse_Cruiser_C_Hopetech_StarSemi02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Star Semi II</Source>
       <Dest> Yıldız Yarı II</Dest>
     </String>
-    <String List="0" sID="031B5B">
+    <String List="0" sID="031B5B" Partial="1">
       <EDID>xDoNotUse_Destroyer_B_Nova_Ranger04_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Ranger IV</Source>
       <Dest> Korucu IV</Dest>
     </String>
-    <String List="0" sID="031C7C">
+    <String List="0" sID="031B5C" Partial="1">
+      <EDID>xDoNotUse_Destroyer_B_Nova_Ranger04_Template</EDID>
+      <REC>GBFM:HULL</REC>
+      <Source>BSN-728</Source>
+      <Dest> BSN-728</Dest>
+    </String>
+    <String List="0" sID="031C7C" Partial="1">
       <EDID>Cargo_A_Generic_Atlas01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Atlas</Source>
       <Dest> Atlas</Dest>
     </String>
-    <String List="0" sID="031D0A">
+    <String List="0" sID="031D0A" Partial="1">
       <EDID>Destroyer_B_Stroud_Conquerer01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Conquerer</Source>
       <Dest> Fatih</Dest>
     </String>
-    <String List="0" sID="031D18">
+    <String List="0" sID="031D18" Partial="1">
       <EDID>Destroyer_B_Stroud_Conquerer02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Conquerer II</Source>
       <Dest> Fatih II</Dest>
     </String>
-    <String List="0" sID="031D19">
+    <String List="0" sID="031D19" Partial="1">
       <EDID>Destroyer_B_Stroud_Conquerer03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Conquerer III</Source>
       <Dest> Fatih III</Dest>
     </String>
-    <String List="0" sID="031DAF">
+    <String List="0" sID="031DAF" Partial="1">
       <EDID>SE_ZW08LegendarySpacerShipBuilt_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Spacer Scavenger Blattodea</Source>
       <Dest> Spacer Çöpçü Blattodea</Dest>
     </String>
-    <String List="0" sID="031DB0">
+    <String List="0" sID="031DB0" Partial="1">
       <EDID>SE_ZW14LegendaryVaruunZealotShipBuilt_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Va&apos;ruun Shroudbearer</Source>
       <Dest> Va&apos;ruun Kefen Taşıyıcısı</Dest>
     </String>
-    <String List="0" sID="031DB1">
+    <String List="0" sID="031DB1" Partial="1">
       <EDID>SE_ZW15LegendaryEclipticShipBuilt_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Ecliptic Battleship Camulus</Source>
       <Dest> Ekliptik Savaş Gemisi Camulus</Dest>
     </String>
-    <String List="0" sID="031E56">
+    <String List="0" sID="031E56" Partial="1">
       <EDID>Destroyer_B_Deimos_Phalanx01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Phalanx</Source>
       <Dest> falanks</Dest>
     </String>
-    <String List="0" sID="031E7D">
+    <String List="0" sID="031E7D" Partial="1">
       <EDID>Explorer_A_Nova_Discovery01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Discovery</Source>
       <Dest> Keşif</Dest>
     </String>
-    <String List="0" sID="0320BA">
+    <String List="0" sID="0320BA" Partial="1">
       <EDID>EncShip_MQ_Scorpius01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Scorpius</Source>
       <Dest> Akrep</Dest>
     </String>
-    <String List="0" sID="0320BB">
+    <String List="0" sID="0320BB" Partial="1">
       <EDID>EncShip_MQ_Helix01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Helix</Source>
       <Dest> sarmal</Dest>
     </String>
-    <String List="0" sID="0320BC">
+    <String List="0" sID="0320BC" Partial="1">
       <EDID>EncShip_MQ_Helix03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Helix</Source>
       <Dest> sarmal</Dest>
     </String>
-    <String List="0" sID="0320BD">
+    <String List="0" sID="0320BD" Partial="1">
       <EDID>EncShip_MQ_Helix04_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Helix</Source>
       <Dest> sarmal</Dest>
     </String>
-    <String List="0" sID="0320BE">
+    <String List="0" sID="0320BE" Partial="1">
       <EDID>EncShip_MQ_Scorpius03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Scorpius</Source>
       <Dest> Akrep</Dest>
     </String>
-    <String List="0" sID="0320BF">
+    <String List="0" sID="0320BF" Partial="1">
       <EDID>EncShip_MQ_Scorpius04_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Scorpius</Source>
       <Dest> Akrep</Dest>
     </String>
-    <String List="0" sID="032342">
+    <String List="0" sID="032342" Partial="1">
       <EDID>Explorer_A_Nova_Endeavor03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Endeavor III</Source>
       <Dest> Çaba III</Dest>
     </String>
-    <String List="0" sID="03234B">
+    <String List="0" sID="03234B" Partial="1">
       <EDID>Asp_Explorer_A_Nova_Endeavor_Shackleton_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Shackleton</Source>
       <Dest> Shackleton</Dest>
     </String>
-    <String List="0" sID="032474">
+    <String List="0" sID="032474" Partial="1">
       <EDID>xDoNotUse_Combat_B_Generic_Civil_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Civil</Source>
       <Dest> Sivil</Dest>
     </String>
-    <String List="0" sID="03260C">
+    <String List="0" sID="03260C" Partial="1">
       <EDID>xDoNotUse_SpaceTurret_Particle10</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Particle Turret</Source>
       <Dest> Parçacık Tareti</Dest>
     </String>
-    <String List="0" sID="03260E">
+    <String List="0" sID="03260E" Partial="1">
       <EDID>SpaceTurret_Particle02</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Particle Turret</Source>
       <Dest> Parçacık Tareti</Dest>
     </String>
-    <String List="0" sID="032617">
+    <String List="0" sID="032617" Partial="1">
       <EDID>SpaceTurret_Particle07</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Particle Turret</Source>
       <Dest> Parçacık Tareti</Dest>
     </String>
-    <String List="0" sID="032618">
+    <String List="0" sID="032618" Partial="1">
       <EDID>SpaceTurret_Particle03</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Particle Turret</Source>
       <Dest> Parçacık Tareti</Dest>
     </String>
-    <String List="0" sID="032619">
+    <String List="0" sID="032619" Partial="1">
       <EDID>SpaceTurret_Particle04</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Particle Turret</Source>
       <Dest> Parçacık Tareti</Dest>
     </String>
-    <String List="0" sID="03261A">
+    <String List="0" sID="03261A" Partial="1">
       <EDID>SpaceTurret_Particle05</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Particle Turret</Source>
       <Dest> Parçacık Tareti</Dest>
     </String>
-    <String List="0" sID="03261B">
+    <String List="0" sID="03261B" Partial="1">
       <EDID>SpaceTurret_Particle06</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Particle Turret</Source>
       <Dest> Parçacık Tareti</Dest>
     </String>
-    <String List="0" sID="03261C">
+    <String List="0" sID="03261C" Partial="1">
       <EDID>SpaceTurret_Particle08</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Particle Turret</Source>
       <Dest> Parçacık Tareti</Dest>
     </String>
-    <String List="0" sID="032623">
+    <String List="0" sID="032623" Partial="1">
       <EDID>xDoNotUse_SpaceTurret_Particle09</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Particle Turret</Source>
       <Dest> Parçacık Tareti</Dest>
     </String>
-    <String List="0" sID="0326F8">
+    <String List="0" sID="0326F8" Partial="1">
       <EDID>CF05_LC043_PrototypeShip01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Prototype Ship</Source>
       <Dest> Prototip Gemi</Dest>
     </String>
-    <String List="0" sID="0326F9">
+    <String List="0" sID="0326F9" Partial="1">
       <EDID>CF05_LC043_PrototypeShip02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Prototype Ship</Source>
       <Dest> Prototip Gemi</Dest>
     </String>
-    <String List="0" sID="0326FA">
+    <String List="0" sID="0326FA" Partial="1">
       <EDID>CF05_LC043_PrototypeShip03_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Prototype Ship</Source>
       <Dest> Prototip Gemi</Dest>
     </String>
-    <String List="0" sID="032823">
+    <String List="0" sID="032823" Partial="1">
       <EDID>Asp_Cargo_A_Generic_MULE_Marathon_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Marathon</Source>
       <Dest> Maraton</Dest>
     </String>
-    <String List="0" sID="032824">
+    <String List="0" sID="032824" Partial="1">
       <EDID>Asp_Combat_B_Generic_Warhammer_Shieldbreaker_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Shieldbreaker</Source>
       <Dest> Kalkankıran</Dest>
     </String>
-    <String List="0" sID="032825">
+    <String List="0" sID="032825" Partial="1">
       <EDID>Asp_Cruiser_C_Hopetech_StarSemi_SilentRunner_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Silent Runner</Source>
       <Dest> Sessiz Koşucu</Dest>
     </String>
-    <String List="0" sID="032826">
+    <String List="0" sID="032826" Partial="1">
       <EDID>Asp_Cruiser_C_Taiyo_Orca_Narwhal_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Narwhal</Source>
       <Dest> Deniz gergedanı</Dest>
     </String>
-    <String List="0" sID="032827">
+    <String List="0" sID="032827" Partial="1">
       <EDID>Asp_Fighter_A_Nova_Mustang_WarHorse_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>War Horse</Source>
       <Dest> Savaş atı</Dest>
     </String>
-    <String List="0" sID="032828">
+    <String List="0" sID="032828" Partial="1">
       <EDID>Asp_Fighter_A_Stroud_Trebuchet_Warwolf_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Warwolf</Source>
       <Dest> Savaş kurdu</Dest>
     </String>
-    <String List="0" sID="032829">
+    <String List="0" sID="032829" Partial="1">
       <EDID>Asp_Personnel_A_Generic_Rambler_Vagabond_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Vagabond</Source>
       <Dest> Serseri</Dest>
     </String>
-    <String List="0" sID="03282A">
+    <String List="0" sID="03282A" Partial="1">
       <EDID>Asp_Personnel_C_Generic_Civshuttle_AbyssTrekker_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Abyss Trekker</Source>
       <Dest> Uçurum Gezgini</Dest>
     </String>
-    <String List="0" sID="03282B">
+    <String List="0" sID="03282B" Partial="1">
       <EDID>Personnel_C_Generic_Highlander01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Highlander</Source>
       <Dest> İskoçyalı</Dest>
     </String>
-    <String List="0" sID="03282C">
+    <String List="0" sID="03282C" Partial="1">
       <EDID>Destroyer_B_Nova_Zumwalt02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Zumwalt II</Source>
       <Dest> Zumwalt II</Dest>
     </String>
-    <String List="0" sID="03282D">
+    <String List="0" sID="03282D" Partial="1">
       <EDID>Personnel_B_Stroud_Roanoke01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Roanoke</Source>
       <Dest> Roanoke</Dest>
     </String>
-    <String List="0" sID="03282E">
+    <String List="0" sID="03282E" Partial="1">
       <EDID>Destroyer_B_Deimos_Hoplite02_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Hoplite II</Source>
       <Dest> Hoplit II</Dest>
     </String>
-    <String List="0" sID="03282F">
+    <String List="0" sID="03282F" Partial="1">
       <EDID>Explorer_A_Nova_Endeavor01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Endeavor</Source>
       <Dest> çaba</Dest>
     </String>
-    <String List="0" sID="032C76">
+    <String List="0" sID="032C76" Partial="1">
       <EDID>Asp_Fighter_A_Hopetech_Watchdog_Hellhound_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Hellhound</Source>
       <Dest> Cehennem köpeği</Dest>
     </String>
-    <String List="0" sID="032CA2">
+    <String List="0" sID="032CA2" Partial="1">
       <EDID>Inventory_Template_Combat_B</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="032CA3">
+    <String List="0" sID="032CA3" Partial="1">
       <EDID>Inventory_Template_Cargo_A</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="032CA4">
+    <String List="0" sID="032CA4" Partial="1">
       <EDID>Inventory_Template_Cargo_B</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="032CA5">
+    <String List="0" sID="032CA5" Partial="1">
       <EDID>Inventory_Template_Cargo_C</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="032CA6">
+    <String List="0" sID="032CA6" Partial="1">
       <EDID>Inventory_Template_Cargo_M_Scow</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="032CA7">
+    <String List="0" sID="032CA7" Partial="1">
       <EDID>Inventory_Template_Combat_A</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="032CA8">
+    <String List="0" sID="032CA8" Partial="1">
       <EDID>Inventory_Template_Combat_C</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="032CA9">
+    <String List="0" sID="032CA9" Partial="1">
       <EDID>Inventory_Template_Starborn_C</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="032CAA">
+    <String List="0" sID="032CAA" Partial="1">
       <EDID>Inventory_Template_Tanker_A</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="032CAB">
+    <String List="0" sID="032CAB" Partial="1">
       <EDID>Inventory_Template_Tanker_C</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="032CAC">
+    <String List="0" sID="032CAC" Partial="1">
       <EDID>Inventory_Template_Transport_A</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="032CAD">
+    <String List="0" sID="032CAD" Partial="1">
       <EDID>Inventory_Template_Transport_B</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="032CAE">
+    <String List="0" sID="032CAE" Partial="1">
       <EDID>Inventory_Template_Transport_C</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="033888">
+    <String List="0" sID="033888" Partial="1">
       <EDID>FC09_Combat_B_Generic_FreestarRanger_Ship</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Star Eagle</Source>
       <Dest> Yıldız Kartalı</Dest>
     </String>
-    <String List="0" sID="033AF7">
+    <String List="0" sID="033AF7" Partial="1">
       <EDID>TraitKidStuff_Cargo_A_Generic_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Wanderwell</Source>
       <Dest> Wanderwell</Dest>
     </String>
-    <String List="0" sID="033AF8">
+    <String List="0" sID="033AF8" Partial="1">
       <EDID>Combat_B_Generic_FreestarRanger_Ship_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Star Eagle</Source>
       <Dest> Yıldız Kartalı</Dest>
     </String>
-    <String List="0" sID="033B5F">
+    <String List="0" sID="033B5F" Partial="1">
       <EDID>Inventory_Template_Combat_C_GalBank</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="033B60">
+    <String List="0" sID="033B60" Partial="1">
       <EDID>Inventory_Template_Transport_C_GalBank</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="033B61">
+    <String List="0" sID="033B61" Partial="1">
       <EDID>Inventory_Template_Cargo_A_GalBank</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="033B62">
+    <String List="0" sID="033B62" Partial="1">
       <EDID>Inventory_Template_Cargo_B_GalBank</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog</Source>
       <Dest> Bekçi köpeği</Dest>
     </String>
-    <String List="0" sID="033BB7">
+    <String List="0" sID="033BB7" Partial="1">
       <EDID>SE_FAB04_Fighter_A_Taiyo_Sparrow01_Ghost</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Sparrow</Source>
       <Dest> Serçe</Dest>
     </String>
-    <String List="0" sID="033C56">
+    <String List="0" sID="033C56" Partial="1">
       <EDID>Destroyer_B_Nova_Ranger01_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Ranger</Source>
       <Dest> Korucu</Dest>
     </String>
-    <String List="0" sID="033EAB">
+    <String List="0" sID="033C57" Partial="1">
+      <EDID>Destroyer_B_Nova_Ranger01_Template</EDID>
+      <REC>GBFM:HULL</REC>
+      <Source>BSN-728</Source>
+      <Dest> BSN-728</Dest>
+    </String>
+    <String List="0" sID="033EAB" Partial="1">
       <EDID>Cargo_A_Generic_Railstar01_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Railstar</Source>
       <Dest> Demiryolu yıldızı</Dest>
     </String>
-    <String List="0" sID="033EAC">
+    <String List="0" sID="033EAC" Partial="1">
       <EDID>Destroyer_B_Taiyo_Falcon02_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Falcon II</Source>
       <Dest> Şahin II</Dest>
     </String>
-    <String List="0" sID="033EAD">
+    <String List="0" sID="033EAD" Partial="1">
       <EDID>Cargo_A_Generic_Railstar03_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Railstar III</Source>
       <Dest> Railstar III</Dest>
     </String>
-    <String List="0" sID="033EAE">
+    <String List="0" sID="033EAE" Partial="1">
       <EDID>Fighter_A_Taiyo_Sparrow03_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Sparrow III</Source>
       <Dest> Serçe III</Dest>
     </String>
-    <String List="0" sID="033EAF">
+    <String List="0" sID="033EAF" Partial="1">
       <EDID>Fighter_A_Taiyo_Sparrow02_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Sparrow II</Source>
       <Dest> Serçe II</Dest>
     </String>
-    <String List="0" sID="033EB0">
+    <String List="0" sID="033EB0" Partial="1">
       <EDID>Fighter_A_Taiyo_Sparrow01_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Sparrow</Source>
       <Dest> Serçe</Dest>
     </String>
-    <String List="0" sID="033EB1">
+    <String List="0" sID="033EB1" Partial="1">
       <EDID>Cargo_B_Generic_Wagontrain01_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Wagontrain</Source>
       <Dest> Vagon treni</Dest>
     </String>
-    <String List="0" sID="033EB2">
+    <String List="0" sID="033EB2" Partial="1">
       <EDID>Cargo_B_Generic_Wagontrain02_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Wagontrain II</Source>
       <Dest> Vagon treni II</Dest>
     </String>
-    <String List="0" sID="033EB3">
+    <String List="0" sID="033EB3" Partial="1">
       <EDID>Fighter_A_Hopetech_Watchdog03_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog III</Source>
       <Dest> Bekçi köpeği III</Dest>
     </String>
-    <String List="0" sID="033EB4">
+    <String List="0" sID="033EB4" Partial="1">
       <EDID>Cargo_A_Generic_Railstar02_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Railstar II</Source>
       <Dest> Railstar II</Dest>
     </String>
-    <String List="0" sID="033EB5">
+    <String List="0" sID="033EB5" Partial="1">
       <EDID>Destroyer_B_Taiyo_Hammerhead03_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Hammerhead III</Source>
       <Dest> Çekiçbaş III</Dest>
     </String>
-    <String List="0" sID="033EB6">
+    <String List="0" sID="033EB6" Partial="1">
       <EDID>Fighter_A_Hopetech_Watchdog04_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog IV</Source>
       <Dest> Bekçi köpeği IV</Dest>
     </String>
-    <String List="0" sID="033EB7">
+    <String List="0" sID="033EB7" Partial="1">
       <EDID>Combat_A_Generic_Achilles01_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Achilles</Source>
       <Dest> Aşil</Dest>
     </String>
-    <String List="0" sID="033EB8">
+    <String List="0" sID="033EB8" Partial="1">
       <EDID>Combat_A_Generic_Achilles02_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Achilles II</Source>
       <Dest> Aşil II</Dest>
     </String>
-    <String List="0" sID="033EB9">
+    <String List="0" sID="033EB9" Partial="1">
       <EDID>Combat_A_Generic_Achilles03_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Achilles III</Source>
       <Dest> Aşil III</Dest>
     </String>
-    <String List="0" sID="033EBA">
+    <String List="0" sID="033EBA" Partial="1">
       <EDID>Cargo_B_Generic_Wagontrain03_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Wagontrain III</Source>
       <Dest> Vagon Treni III</Dest>
     </String>
-    <String List="0" sID="033EBB">
+    <String List="0" sID="033EBB" Partial="1">
       <EDID>Destroyer_B_Taiyo_Falcon01_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Falcon</Source>
       <Dest> Şahin</Dest>
     </String>
-    <String List="0" sID="033EBC">
+    <String List="0" sID="033EBC" Partial="1">
       <EDID>Destroyer_B_Taiyo_Falcon03_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Falcon III</Source>
       <Dest> Şahin III</Dest>
     </String>
-    <String List="0" sID="033EBD">
+    <String List="0" sID="033EBD" Partial="1">
       <EDID>Destroyer_B_Taiyo_Falcon04_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Falcon IV</Source>
       <Dest> Şahin IV</Dest>
     </String>
-    <String List="0" sID="033EBE">
+    <String List="0" sID="033EBE" Partial="1">
       <EDID>Destroyer_B_Taiyo_Hammerhead01_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Hammerhead</Source>
       <Dest> Çekiç kafalı</Dest>
     </String>
-    <String List="0" sID="033EBF">
+    <String List="0" sID="033EBF" Partial="1">
       <EDID>Destroyer_B_Taiyo_Hammerhead02_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Hammerhead II</Source>
       <Dest> Çekiçbaş II</Dest>
     </String>
-    <String List="0" sID="033EC0">
+    <String List="0" sID="033EC0" Partial="1">
       <EDID>Combat_B_Generic_Naginata01_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Naginata</Source>
       <Dest> Naginata</Dest>
     </String>
-    <String List="0" sID="033EC1">
+    <String List="0" sID="033EC1" Partial="1">
       <EDID>Combat_B_Generic_Naginata02_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Naginata II</Source>
       <Dest> Naginata II</Dest>
     </String>
-    <String List="0" sID="033EC2">
+    <String List="0" sID="033EC2" Partial="1">
       <EDID>Combat_C_Generic_Crossbow02_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Crossbow II</Source>
       <Dest> Arbalet II</Dest>
     </String>
-    <String List="0" sID="033EC3">
+    <String List="0" sID="033EC3" Partial="1">
       <EDID>Combat_B_Generic_Naginata03_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Naginata III</Source>
       <Dest> Naginata III</Dest>
     </String>
-    <String List="0" sID="033EC4">
+    <String List="0" sID="033EC4" Partial="1">
       <EDID>Combat_C_Generic_Crossbow01_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Crossbow</Source>
       <Dest> Arbalet</Dest>
     </String>
-    <String List="0" sID="033EC5">
+    <String List="0" sID="033EC5" Partial="1">
       <EDID>Fighter_A_Hopetech_Watchdog02_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Watchdog II</Source>
       <Dest> Bekçi köpeği II</Dest>
     </String>
-    <String List="0" sID="033EC6">
+    <String List="0" sID="033EC6" Partial="1">
       <EDID>Combat_C_Generic_Crossbow03_Shielded_Template</EDID>
       <REC>GBFM:FULL</REC>
       <Source>Crossbow III</Source>

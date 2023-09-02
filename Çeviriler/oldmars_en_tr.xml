@@ -2,28 +2,34 @@
 <SSTXMLRessources>
   <Params>
     <Addon>OldMars</Addon>
-    <Source>english</Source>
-    <Dest>turkish</Dest>
+    <Source>en</Source>
+    <Dest>tr</Dest>
     <Version>2</Version>
   </Params>
   <Content>
-    <String List="0" sID="0326CA">
+    <String List="0" sID="02FF5C" Partial="1">
+      <EDID>LL_Weapon_Preorder_OldMarsCutter</EDID>
+      <REC>LVLI:ONAM</REC>
+      <Source>Old Mars Cutter</Source>
+      <Dest>Eski Mars Kesici</Dest>
+    </String>
+    <String List="0" sID="0326CA" Partial="1">
       <EDID>mod_AVM_Cutter_Cutter_Preorder</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Old Mars Skin</Source>
-      <Dest>Eski Mars Görünümü</Dest>
+      <Dest> Eski Mars Görünümü</Dest>
     </String>
-    <String List="0" sID="0326D0">
+    <String List="0" sID="0326D0" Partial="1">
       <EDID>mod_AVM_Spacesuit_Miner_Backpack_OldMars</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Old Mars Skin</Source>
-      <Dest>Eski Mars Görünümü</Dest>
+      <Dest> Eski Mars Görünümü</Dest>
     </String>
-    <String List="0" sID="0326D1">
+    <String List="0" sID="0326D1" Partial="1">
       <EDID>mod_AVM_Spacesuit_Miner_Helmet_OldMars</EDID>
       <REC>OMOD:FULL</REC>
       <Source>Old Mars Skin</Source>
-      <Dest>Eski Mars Görünümü</Dest>
+      <Dest> Eski Mars Görünümü</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
