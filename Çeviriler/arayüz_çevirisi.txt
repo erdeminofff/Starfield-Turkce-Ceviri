@@ -1,0 +1,2491 @@
+Key	Ýngilizce	Türkçe
+$(C)	(C)	(C)
+$(KG)	(KG)	 (KÝLOGRAM)
+$(Rank #)	(Rank {0})	 (Sýra {0})
+$(SHIELDED)	(SHIELDED)	 (KALKANLI)
+$0 results found.	0 results found.	 0 sonuç bulundu.
+$10 Mins	10 Mins	 10 dakika
+$15 Mins	15 Mins	 15 dakika
+$30 Mins	30 Mins	 30 dakika
+$45 Mins	45 Mins	 45 dakika
+$5 Mins	5 Mins	 5 dakika
+$60 Mins	60 Mins	 60 dakika
+$ABBREVIATED_ELECTRIC	ELEC	 ELEC
+$ABBREVIATED_ELECTROMAGNETIC	EM	 EM
+$ABBREVIATED_ENERGY	ENGY	ENERJÝ
+$ABBREVIATED_PHYSICAL	PHYS	 FÝZÝK
+$ABORT	ABORT	 DURDUR
+$ABORT JUMP	ABORT JUMP	 ATLAMAYI ÝPTAL ET
+$acc	Accuracy	Ýsabet
+$ACCEPT	ACCEPT	 KABUL ETMEK
+$ACCEPTTRADE	ACCEPT TRADE	 TÝCARETÝ KABUL ET
+$ACCURACY	ACCURACY	ÝSABET
+$ACCURACY_LRG	ACC	 ACC
+$Action	Action	 Aksiyon
+$ACTIVATE	ACTIVATE	 ETKÝNLEÞTÝR
+$Activate	Activate	 Etkinleþtir
+$ACTIVE_EFFECTS	ACTIVE EFFECTS	 AKTÝF ETKÝLER
+$Activity	ACTIVITY	 AKTÝVÝTE
+$Actor Fade	Actor Fade	 Aktör Kaybolma
+$Actor Fade Desc	Controls the distance at which actors fade in.	 Aktörlerin yavaþ yavaþ kaybolacaðý mesafeyi kontrol eder.
+$ADD	ADD	 EKLE
+$ADD ALL	ADD ALL	 HEPSÝNÝ EKLE
+$ADD-ONS	ADD-ONS	 EKLENTÝLER
+$ADJUST	ADJUST	 AYARLAMAK
+$ADJUST HEIGHT	ADJUST HEIGHT	 YÜKSEKLÝÐÝ AYARLAYIN
+$ADJUST_ZOOM	ADJUST ZOOM	 YAKINLAÞTIRMAYI AYARLAYIN
+$Advanced	Advanced	 Geliþmiþ
+$AGILITY	AGILITY	 ÇEVÝKLÝK
+$Aim Horizontal Sensitivity	Aim Sensitivity H	 Hedef Hassasiyeti D
+$Aim Horizontal Sensitivity Desc	Controls the sensitivity of horizontal looking while aiming a weapon.	 Bir silahý hedef alýrken yatay bakýþýn hassasiyetini kontrol eder.
+$Aim Vertical Sensitivity	Aim Sensitivity V	 Hedef Hassasiyeti Y
+$Aim Vertical Sensitivity Desc	Controls the sensitivity of vertical looking while aiming a weapon.	 Bir silahý hedef alýrken dikey bakýþýn hassasiyetini kontrol eder.
+$ALL	ALL	 TÜM
+$All	All	 Tüm
+$Ally	Ally	 Müttefik
+$AlreadyAtThisBody	Already at this location	 Zaten bu konumda
+$AltAttack	Alt Attack	 Alternatif Saldýrý
+$AltKey	Alt Key	 Alt tuþu
+$AMMO	AMMO	 CEPHANE
+$AMMO_LRG	AMMO	 CEPHANE
+$Ammunition	Ammunition	 Mühimmat
+$AP	AP	 Eriþim noktasý
+$APPLY	APPLY	 UYGULA
+$ARGOS EXTRACTORS MINING OUTPOST	ARGOS EXTRACTORS MINING OUTPOST	 ARGOS ÇIKARMA MADENCÝLÝK KARAYOLU
+$ARGOS_EXTRACTORS	ARGOS EXTRACTORS	 ARGOS SIKMA MAKÝNALARI
+$Arrest	Arrest	 Tutuklamak
+$ASCENDING	ASC	 ASC
+$Assign	ASSIGN	 ATAMAK
+$ASSIGN CREW	ASSIGN CREW	 EKÝP ATAYIN
+$ASSIGN FAVORITE	ASSIGN FAVORITE	FAVORÝ ATAMA
+$Assign Weapons	ASSIGN WEAPONS	 SÝLAHLARI ATAYIN
+$ASSIGNED TO	ASSIGNED TO:	 ATANDI:
+$ASSIGNED TO SLOT	ASSIGNED TO SLOT	 SLOT'A ATANDI
+$ASSIGNMENT	ASSIGNMENT	 ATAMA
+$assignment bonus	Assignment Bonus	 Atama Bonusu
+$AssignmentCategoryCurrentOutpost	Current Outpost	 Mevcut Karakol
+$AssignmentCategoryCurrentShip	Current Ship	 Mevcut Gemi
+$AssignmentCategoryMisc	Miscellaneous	 Çeþitli
+$AssignmentCategoryMiscDescription	Select a location to assign to	 Atanacak bir konum seçin
+$AssignmentCategoryOutpost	outposts	 ileri karakollar
+$AssignmentCategoryOutpostDescription	Select an outpost to assign to	 Atanacak bir karakol seçin
+$AssignmentCategoryShip	ship	 gemi
+$AssignmentCategoryShipDescription	Select a ship to assign to	 Atanacak bir gemi seçin
+$Asteroid Belt	ASTEROID BELT	 ASTEROÝD KUÞAÐI
+$ASTEROID BELTS	ASTEROID BELTS	 ASTEROÝD KUÞAKLARI
+$ATMOSPHERE	ATMOSPHERE	 ATMOSFER
+$ATTACH	ATTACH	 EKLEMEK
+$Attach	ATTACH	 EKLEMEK
+$ATTACH MOD	ATTACH MOD	 MODU EKLE
+$ATTACH WIRE	ATTACH WIRE	 KABLO TAKIN
+$ATTACHMENTS	Attachments	 Ekler
+$AttemptsRemaining:	Attempts Remaining:	 Kalan deneme sayýsý:
+$ATTRIBUTES	ATTRIBUTES	 ÖZNÝTELLÝKLER
+$AUDIO	AUDIO	 SES
+$Audio	Audio	 Ses
+$Author:	Author:	 Yazar:
+$AUTO BUILD	AUTO	 OTO
+$AUTO COOK	AUTO COOK	 OTOMATÝK PÝÞÝRME
+$Auto Pilot Engaged	Auto-Pilot Engaged	 Otomatik Pilot Devrede
+$Auto Slot	Auto Slot	 Otomatik Yuva
+$AutoMove	Auto-Move	 Otomatik hareket
+$AUTOSAVE	AUTO SAVE	 OTOMATÝK KAYDET
+$AutosavingMsg	Autosaving...	 Otomatik kaydediliyor...
+$AutoSlot	AUTO SLOT ({0})	 OTOMATÝK YUVASI ({0})
+$AVAILABLE	AVAILABLE	 MEVCUT
+$available	Available	 Mevcut
+$available missions	AVAILABLE MISSIONS	 MEVCUT GÖREVLER
+$AVAILABLE MODS:	AVAILABLE MODS:	 MEVCUT MODLAR:
+$AVAILABLE OUTPOSTS	AVAILABLE OUTPOSTS	 MEVCUT ÇIKIÞ NOKTALARI
+$AVAILABLE PROJECTS:	AVAILABLE PROJECTS:	 MEVCUT PROJELER:
+$AVAILABLE RECIPES:	AVAILABLE RECIPES:	 MEVCUT TARÝFLER:
+$Available_Resources	Available Resources	 Mevcut kaynaklar
+$BACK	BACK	 GERÝ
+$Back	Back	 Geri
+$BACKGROUND	BACKGROUND	 ARKA PLAN
+$BACKTOGALAXY	BACK TO GALAXY	 GALAXY'E GERÝ DÖN
+$BACKTOSYSTEM	BACK TO SYSTEM	 SÝSTEME GERÝ DÖN
+$Basic	Basic	 Temel
+$BasicMenuNav	MENU NAVIGATION	 MENÜ NAVÝGASYONU
+$BasicMenuNav_Accept	Accept	 Kabul etmek
+$BasicMenuNav_Cancel	Cancel	 Ýptal etmek
+$BasicMenuNav_Down	Down	 Aþaðý
+$BasicMenuNav_Left	Left	 Sol
+$BasicMenuNav_Right	Right	 Sað
+$BasicMenuNav_Up	Up	Yukarý
+$BEAM_DevAccountCreate	Your temporary account has been created! Check your email and follow the verification link to complete the account creation process.	 Geçici hesabýnýz oluþturuldu! E-postanýzý kontrol edin ve hesap oluþturma iþlemini tamamlamak için doðrulama baðlantýsýný izleyin.
+$BEARD	BEARD	 SAKAL
+$BEDS	BEDS	 YATAKLAR
+$BETHESDA GAME STUDIOS	BETHESDA GAME STUDIOS	 BETHESDA OYUN STÜDYOLARI
+$BETHESDA.NET	MODS	 MODLAR
+$BINDING CONFLICTS	BINDING CONFLICTS	 BAÐLAYICI ÇATIÞMALAR
+$BIOME COMPLETE	BIOME COMPLETE	 BÝYOM TAMAMLANDI
+$BIOMETRIC ID	BIOMETRIC ID	 BÝYOMETRÝK KÝMLÝK
+$BIOSCAN	SCAN	 TARAMA
+$BlackFleet	Black Fleet	 Kara Filo
+$Blend	Blend	 Karýþým
+$Blocked	Blocked	 Engellendi
+$BOARD	BOARD	 PANO
+$BODY	BODY	 VÜCUT
+$BODY INFO SUBTITLE MOON	Moon of {0}	 {0} ayýnýn ayý
+$BODY INSPECT	RETURN TO STARMAP	 STARMAP'A DÖNÜÞ
+$BODY MAP	BODY MAP	 VÜCUT HARÝTASI
+$BODY PART	BODY PART	 VÜCUT PARÇASI
+$BodyAlreadyAdded	Can not add the same location to the route twice in a row.	 Ayný konum üst üste iki kez rotaya eklenemez.
+$BONUS	BONUS	 BONUS
+$BOOST	BOOST	 ARTIRMAK
+$BOOSTPACK	BOOST	 ARTIRMAK
+$Both	Both	 Ýkisi birden
+$BOUNDARYREACHED_HEADER	BOUNDARY REACHED	 SINIRLARA ULAÞILDI
+$BOUNDARYREACHED_MESSAGE	Open the map to explore another region, or return to your ship.	 Baþka bir bölgeyi keþfetmek için haritayý açýn veya geminize dönün.
+$BOUNTY	BOUNTY	 ÖDÜL
+$Bounty	Bounty	 Ödül
+$BRIGHTNESS	BRIGHTNESS	 PARLAKLIK
+$Brightness	Brightness	 Parlaklýk
+$Build	Build	 Ýnþa etmek
+$BUILD	BUILD	 ÝNÞA ETMEK
+$BUILD LIMIT	BUILD LIMIT	 ÝNÞA LÝMÝTÝ
+$Build Mod?	Build Mod?	 Modu Oluþtur?
+$BUILD MODE	BUILD MODE	 ÝNÞA MODU
+$BUILD REQUIREMENTS:	BUILD REQUIREMENTS:	 YAPI GEREKSÝNÝMLERÝ:
+$Build Requirements:	Build Requirements:	 Yapý Gereksinimleri:
+$BUILD RESOURCES NEEDED	BUILD RESOURCES NEEDED	 GEREKLÝ KAYNAKLARI OLUÞTURUN
+$BUILD WITH	BUILD WITH	 ÝLE ÝNÞA EDÝN
+$BuildBaseBot	BUILD BASE BOT	 TEMEL BOT OLUÞTURUN
+$BuildConfirm1	Build part using:	 Aþaðýdakileri kullanarak parça oluþturun:
+$BuildConfirm2	Remove part?	 Parça kaldýrýlsýn mý?
+$BuildConfirm3	Attach part?	 Parça eklensin mi?
+$BuildConfirm4	Detach part?	 Parça ayrýlsýn mý?
+$BUILDING SHADERS:	BUILDING SHADERS:	 BÝNA GÖLGELENDÝRÝCÝLERÝ:
+$BuildList	Build List	 Liste Oluþtur
+$Built:	Built:	 Ýnþa edilmiþ:
+$BULLDOZE	BULLDOZE	 GÖZDAÐI VERMEK
+$BULLDOZE MODE	BULLDOZE MODE	BULLDOZE MODU
+$Bulldozers	Bulldozers	 Buldozerler
+$BUY	BUY	 SATIN ALMAK
+$BUY ALL	BUY ALL	 HEPSÝNÝ AL
+$BUY BACK	BUY BACK	 GERÝ AL
+$BUY SHIPS	BUY SHIPS	 GEMÝ SATIN ALIN
+$CAMERA	CAMERA	 KAMERA
+$Camera	Camera	 Kamera
+$Camera Roll	Camera Roll	 Kamera Rulosu
+$Camera Type	Camera Type	 Kamera tipi
+$CANCEL	CANCEL	 ÝPTAL ETMEK
+$Cancel	Cancel	 Ýptal etmek
+$CANCEL AND EXIT	CANCEL AND EXIT	 ÝPTAL VE ÇIKIÞ
+$CANCEL MODIFICATION	CANCEL MODIFICATION	 DEÐÝÞÝKLÝÐÝ ÝPTAL ET
+$CANCEL TRADE	CANCEL TRADE	 TÝCARETÝ ÝPTAL ET
+$CancelTradeInProgress	Cancel trade in progress?	 Devam eden takas iptal edilsin mi?
+$CANCEL_PICK	UNDO ({0})	 GERÝ AL ({0})
+$CannotHackLockDifficulty	Skill too low for {1} lock.	 {1} kilidi için beceri çok düþük.
+$CannotRemoveHomeShip	You cannot remove your home ship.	 Ana geminizi kaldýramazsýnýz.
+$CannotSellHomeShip	You cannot sell your home ship.	 Ana geminizi satamazsýnýz.
+$CannotTravelToAnUnknownBody	Cannot travel to an Unknown Location	 Bilinmeyen Bir Konuma Seyahat Edilemez
+$CannotTravelToAStar	Cannot travel to a Star	 Bir Yýldýza seyahat edilemez
+$CantFindQuickLoad	No quicksave found.	 Hýzlý kaydetme bulunamadý.
+$CantInstallMod_Dependency	This mod cannot be installed since it depends on files that aren't present.	 Bu mod, mevcut olmayan dosyalara baðlý olduðundan yüklenemez.
+$CantInstallMod_Invalid	This mod cannot be activated and should be deleted.	 Bu mod etkinleþtirilemez ve silinmelidir.
+$CantLandUnlessOrbiting	You must be orbiting to land here	 Buraya inmek için yörüngede olmalýsýnýz
+$CantOpenMap	Cannot open the map right now.	 Harita þu anda açýlamýyor.
+$CantPlotShipTravelBlocked	Fast travel to your ship is restricted from this location.	 Bu konumdan geminize hýzlý seyahat yasaktýr.
+$CantSaveNow	The game cannot be saved now.	 Oyun þu anda kaydedilemiyor.
+$CAP	CAP	 KAP
+$CAPACITY	CAPACITY	 KAPASÝTE
+$CAPS	CAPS	 BÜYÜK HARFLER
+$Captured	Captured	 Yakalandý
+$Caravan	Caravan	 Karavan
+$CarbonDioxideWarningString	+CARBONDIOXIDE	 +KARBONDÝOKSÝT
+$CARGO	CARGO	 KARGO
+$CARGO CAPACITY	CARGO CAPACITY	 KARGO KAPASÝTESÝ
+$CARGO HOLD	Cargo Hold	 Yük ambarý
+$Cargo Hold Full	Cargo Hold Full	 Kargo Ambarý Dolu
+$CARGO SHIP	Cargo Ship	 Kargo gemisi
+$Cargo Value	Cargo Value	 Kargo Deðeri
+$CARGO_SHLD	CARGO (SHLD)	 KARGO (SHLD)
+$CARRYWT	CARRY WEIGHT	AÐIRLIK TAÞIYIN
+$CAS	CAS	 CAS
+$CATEGORIES	CATEGORIES	 KATEGORÝLER
+$Category_Aid	AID	 YARDIM
+$Category_All	ALL	 TÜM
+$Category_Ammo	AMMO	 CEPHANE
+$Category_Apparel	APPAREL	 KONFEKSÝYON
+$Category_Backpacks	PACKS	 PAKETLER
+$Category_Helmets	HELMETS	 KASKLAR
+$Category_Misc	MISC	 ÇEÞÝTLÝ
+$Category_NewItems	NEW ITEMS	 YENÝ ÖÐELER
+$Category_NoFeaturedItem	[NONE EQUIPPED]	 [DONANIMLI YOK]
+$Category_Notes	NOTES	 NOTLAR
+$Category_Resources	RESOURCES	 KAYNAKLAR
+$Category_Spacesuits	SPACESUITS	 UZAY KIYAFETLERÝ
+$Category_Throwables	THROWABLES	 ATILACAKLAR
+$Category_Weapons	WEAPONS	 SÝLAHLAR
+$CERTIFICATION	CERTIFICATION	 SERTÝFÝKA
+$CHALLENGE PROGRESS	CHALLENGE PROGRESS	 ÝLERLEMEYE MEYDAN OKUYUN
+$Challenge_Progress	CHALLENGE PROGRESS	 ÝLERLEMEYE MEYDAN OKUYUN
+$CHANCE TO EVADE SCAN: 0%	CHANCE TO EVADE SCAN: 0%	 TARAMADAN KAÇMA ÞANSI: %0
+$CHANCE TO EVADE SCAN: {0}%	CHANCE TO EVADE SCAN: {0}%	 TARAMADAN KAÇMA ÞANSI: %{0}
+$CHANGE	CHANGE	 DEÐÝÞTÝRMEK
+$CHANGE FILTER (TODO)	CHANGE FILTER (TODO)	 FÝLTREYÝ DEÐÝÞTÝR (YAPILACAK)
+$Change sex	Change sex	 Cinsiyeti deðiþtir
+$ChangeColors	Change Colors	 Renkleri Deðiþtir
+$ChangedDLC_ConfirmReset	New downloadable content has been downloaded and is ready to be enabled by returning to the main menu. Do you want to enable it now?   	 Yeni indirilebilir içerik indirildi ve ana menüye dönülerek etkinleþtirilmeye hazýr. Þimdi etkinleþtirmek istiyor musunuz?
+$ChangedDLC_WarnReset	New content is available.  Do you want to enable it now?	 Yeni içerik mevcut. Þimdi etkinleþtirmek istiyor musunuz?
+$ChangedMods_ConfirmReset	The mod selection / load order has changed.  The game will now reload your data files.	 Mod seçimi / yükleme sýrasý deðiþti. Oyun þimdi veri dosyalarýnýzý yeniden yükleyecektir.
+$CHANGEPRESET	CHANGE PRESET	 ÖN AYARI DEÐÝÞTÝR
+$CHANGESEX	CHANGE SEX	 CÝNSÝYETÝ DEÐÝÞTÝR
+$CHANGEUSER	CHANGE PROFILE	 PROFÝLÝ DEÐÝÞTÝR
+$CHARACTER	CHARACTER	 KARAKTER
+$charge	Charge	 Þarj
+$Chargen	CHARGEN	 ÞARJ
+$ChargenBackForward	BACK - FORWARD	 ÝLERÝ GERÝ
+$CharGenConfirmExit	Save changes?	 Deðiþiklikleri Kaydet?
+$ChargenDownUp	DOWN - UP	 AÞAÐI
+$ChargenLeftRight	LEFT - RIGHT	 SOL SAÐ
+$CharGenMustChooseBackgroundMessage	Select a background to continue.	 Devam etmek için bir arka plan seçin.
+$CharGenMustRenamePlayerMessage	Character must be renamed.	 Karakter yeniden adlandýrýlmalýdýr.
+$ChargenNarrowWide	NARROW - WIDE	 DAR GENÝÞ
+$ChargenNoseTipDownUp	NOSE TIP DOWN - UP	 BURUN UCU AÞAÐI - YUKARI
+$ChargenNostrilsInOut	NOSTRILS IN - OUT	 BURUN DELÝKLERÝ ÝÇ - DIÞ
+$ChargenNostrilsUpDown	NOSTRILS UP - DOWN	BURUN DELLERÝ YUKARI - AÞAÐI
+$ChargenRidgeInOut	RIDGE IN - OUT	 SIRT GÝRÝÞ - ÇIKIÞ
+$ChargenRidgeNarrowWide	RIDGE NARROW - WIDE	 SIRT DAR - GENÝÞ
+$ChargenScaleDownUp	SCALE DOWN - UP	 ÖLÇEK AÞAÐI - YUKARI
+$ChargenShortLong	SHORT - LONG	 UZUN KISA
+$ChargenUnderbiteOverbite	UNDERBITE - OVERBITE	 UNDERBITE - OVERBITE
+$ChargenWattleInOut	WATTLE IN - OUT	 WATTLE GÝRÝÞ - ÇIKIÞ
+$CHARGEN_BIOMETRIC_TEXT	Note: Biometric customizations can be changed later by visiting a genetics facility.	 Not: Biyometrik özelleþtirmeler daha sonra bir genetik tesisini ziyaret ederek deðiþtirilebilir.
+$Chargen_BodyType	BODY TYPE	 GÖVDE TÝPÝ
+$Chargen_Locomotion	LOCOMOTION	 HAREKET
+$Chargen_PreviewHabSuit	TOGGLE HAB SUIT	 HAB SUIT'Ý GEÇÝÞTÝR
+$Chargen_Rotate	Rotate Model	 Modeli Döndür
+$CHARGEN_TRAITS	TRAITS	 ÖZELLÝKLER
+$Chargen_WalkStyle	WALK STYLE	 YÜRÜYÜÞ STÝLÝ
+$CHARISMA	CHARISMA	 KARÝZMA
+$CHEEKS1	CHEEKS 1	 YANAKLAR 1
+$CHEEKS2	CHEEKS 2	 YANAKLAR 2
+$Choose	CHOOSE	 SEÇMEK
+$Choose (#)	CHOOSE (#)	 SEÇMEK (#)
+$CHOOSE COMPONENTS	CHOOSE COMPONENTS	 BÝLEÞENLERÝ SEÇÝN
+$Cinematic	Cinematic	 Sinematik
+$CLAIM	CLAIM	 ÝDDÝA
+$CLASS	CLASS	 SINIF
+$CLEAR	CLEAR	 TEMÝZLEMEK
+$CLEAR MODE	CLEAR MODE	 MODU TEMÝZLE
+$CLEAR ROUTE	CLEAR ROUTE	 ROTA TEMÝZLE
+$ClearRoute_Confirm	Are you sure you want to remove all jumps?	 Tüm atlamalarý kaldýrmak istediðinizden emin misiniz?
+$CLEAR_TRANSACTION	CLEAR TRANSACTION	 ÝÞLEMÝ TEMÝZLE
+$CLOSE	CLOSE	 KAPALI
+$CloseModManager_Confirm	Downloads still in progress. Are you sure you want to exit?	 Ýndirmeler halen devam ediyor. Çýkmak istediðine emin misin?
+$CoastalBiome	{1} (Coast)	 {1} (Sahil)
+$Cockpit	Cockpit	 Kokpit
+$Colony Goods	Colony Goods	 Koloni Ürünleri
+$COLOR	COLOR	 RENK
+$COLOR 1	COLOR 1	 RENK 1
+$COLOR 2	COLOR 2	 RENK 2
+$COLOR 3	COLOR 3	 RENK 3
+$COLOR MODE	COLOR MODE	 RENK MODU
+$COMBAT	COMBAT	 SAVAÞ
+$Combat	Combat	 Dövüþ
+$COMBAT_SKILLS	COMBAT	 SAVAÞ
+$COMBAT_SKILLS_ADVANCED	Advanced Combat skills	 Geliþmiþ Savaþ becerileri
+$COMBAT_SKILLS_EXPERT	Expert Combat skills	 Uzman Savaþ becerileri
+$COMBAT_SKILLS_MASTER	Master Combat skills	 Usta Savaþ becerileri
+$COMING SOON	COMING SOON	 YAKINDA GELECEK
+$CommandModeFail_Generic	This character can't do that.	 Bu karakter bunu yapamaz.
+$CommandModeFail_Moral	This character won't do that.	 Bu karakter bunu yapmayacak.
+$Common	Common	Yaygýn
+$Companion Enabled	Pip-Boy App Enabled	 Pip-Boy Uygulamasý Etkinleþtirildi
+$COMPARE TO EQUIPPED	COMPARE TO EQUIPPED	 DONANIMLI ÝLE KARÞILAÞTIRIN
+$COMPARE TO EQUIPPED_LRG	COMPARE	 KARÞILAÞTIRMAK
+$Compass_East	E	 e
+$Compass_North	N	 N
+$Compass_South	S	 S
+$Compass_West	W	 W
+$COMPLETE PROFILE	COMPLETE PROFILE	 PROFÝLÝNÝ TAMAMLA
+$Completed	Completed	 Tamamlanmýþ
+$Complete_Previous_Rank	Complete the previous rank challenge to unlock this rank.	 Bu rütbenin kilidini açmak için önceki rütbe mücadelesini tamamlayýn.
+$COMPLETE_TRANSACTION	COMPLETE TRANSACTION	 ÝÞLEMÝ TAMAMLAYIN
+$COMPLEXIONBLEMISHES	COMPLEXION BLEMISHES	 CÝLT LEKELERÝ
+$COMPLEXIONCOLORTEMP	COMPLEXION COLOR TEMP	 CÝLT RENK SICAKLIÐI
+$COMPONENT VIEW	COMPONENT VIEW	 BÝLEÞEN GÖRÜNÜMÜ
+$COMPONENTS	COMPONENTS	 BÝLEÞENLER
+$CONDITION	CONDITION	 DURUM
+$Confirm	Confirm	 Onaylamak
+$CONFIRM	CONFIRM	 ONAYLAMAK
+$Confirm change preset	Choose a new character preset and discard your current changes?	 Yeni bir karakter ön ayarý seçip mevcut deðiþikliklerinizi iptal etmek mi istiyorsunuz?
+$Confirm character	Confirm character?	 Karakter onaylansýn mý?
+$Confirm character changes	Confirm changes to character?	 Karakterde yapýlan deðiþiklikler onaylansýn mý?
+$CONFIRMATION	CONFIRMATION	 ONAYLA
+$ConfirmContinue	Continue from your last saved game?	 Son kaydettiðiniz oyundan devam edilsin mi?
+$ConfirmCraftPrompt	Use these components to craft this item?	 Bu öðeyi oluþturmak için bu bileþenler kullanýlsýn mý?
+$ConfirmFastTravel	Fast travel to the selected location?	 Seçilen konuma hýzlý seyahat etmek mi istiyorsunuz?
+$ConfirmFastTravelFuel	Travel to the selected location ({1} He3)?	 Seçilen konuma ({1} He3) seyahat edilsin mi?
+$ConfirmInstallPrompt	Use these resources to install this mod?	 Bu modu yüklemek için bu kaynaklar kullanýlsýn mý?
+$ConfirmLoad	Load this game?	 Bu oyun yüklensin mi?
+$ConfirmModification	Confirm Modification?	 Deðiþiklik Onaylansýn mý?
+$ConfirmModificationWithWarnings	There are warnings for the ship in the flight check. Confirm modification anyway?	 Uçuþ kontrolünde gemiye yönelik uyarýlar var. Yine de deðiþiklik onaylansýn mý?
+$ConfirmNew	Start a new game?	 Yeni bir oyun mu baþlatacaksýnýz?
+$ConfirmNewHomeShipInSpace	Make the {1} your new Home Ship? This will return the {2} for later use. All cargo and crew will be transferred.	{1} yeni Ana Geminiz yapýlsýn mý? Bu, daha sonra kullanmak üzere {2} deðerini döndürecektir. Tüm kargo ve mürettebat nakledilecek.
+$ConfirmNew_HC	Start a new game on Survival?	 Survival'da yeni bir oyun mu baþlatacaksýnýz?
+$ConfirmNew_HC_Mods	Start a new game on Survival? Mods are currently loaded. Note: Achievements are disabled.	 Survival'da yeni bir oyun mu baþlatacaksýnýz? Modlar þu anda yüklü. Not: Baþarýlar devre dýþýdýr.
+$ConfirmNew_Mods	Start a new game? Mods are currently loaded. Note: Achievements are disabled.	 Yeni bir oyun mu baþlatacaksýnýz? Modlar þu anda yüklü. Not: Baþarýlar devre dýþýdýr.
+$ConfirmOutpostRemoval	Removing an outpost is permanent. Proceed with removal?	 Bir karakolun kaldýrýlmasý kalýcýdýr. Kaldýrma iþlemine devam edilsin mi?
+$ConfirmPerkSelect	Confirm selection?	 Seçim onaylansýn mý?
+$ConfirmSellShip	Sell Ship for {1} Credits?	 {1} Kredi karþýlýðýnda Gemi Satýlsýn mý?
+$ConfirmSellShipInsufficientFunds	This vendor does not have enough credits. Sell Ship for {1} Credits?	 Bu satýcýnýn yeterli kredisi yok. {1} Kredi karþýlýðýnda Gemi Satýlsýn mý?
+$ConfirmStarborn	Start as new game as Starborn?	 Starborn gibi yeni bir oyuna mý baþlansýn?
+$CONNECT INPUT	CONNECT INPUT	 GÝRÝÞÝ BAÐLA
+$CONNECT OUTPUT	CONNECT OUTPUT	 ÇIKIÞI BAÐLA
+$ConsoleOpening	Debug	 Hata ayýklama
+$ConsoleOpening_Screenshot_KBM	Screenshot	 Ekran görüntüsü
+$Constellation	Constellation	 takýmyýldýz
+$CONTAINER	CONTAINER	 KONTEYNER
+$Container_Weight	Container Weight	 Konteyner Aðýrlýðý
+$CONTEST	CONTEST	 YARIÞMA
+$ContextForSaveHeader	Enter some information about this save game	 Bu kayýtlý oyun hakkýnda bazý bilgiler girin
+$ContextForSavePrompt	Context for this save	 Bu kaydetmenin baðlamý
+$CONTINUE	CONTINUE	 DEVAM ETMEK
+$Contraband	Contraband	 Kaçak
+$Contrast	Contrast	 Zýtlýk
+$Controller	Controller	 Denetleyici
+$Controller Cursor Sensitivity	Controller Cursor Sensitivity	 Denetleyici Ýmleç Hassasiyeti
+$Controller Cursor Sensitivity Desc	Scales the speed of the game cursor when using the controller.	 Denetleyiciyi kullanýrken oyun imlecinin hýzýný ölçeklendirir.
+$Controller Look Sensitivity	Controller Look Sensitivity	 Kontrol Cihazý Görünüm Hassasiyeti
+$Controller Look Sensitivity Desc	Controls the sensitivity of the looking stick on controller.	Denetleyicideki görünümlü çubuðun hassasiyetini kontrol eder.
+$ControllerHotswap	Controller Hotswap	 Denetleyici Hotswap'ý
+$ControllerHotswap Desc	If enabled, using the controller will toggle off keyboard controls, and vice versa.	 Etkinleþtirilirse, denetleyicinin kullanýlmasý klavye kontrollerini devre dýþý býrakacaktýr (veya bunun tersi de geçerlidir).
+$CONTROLS	CONTROLS	 KONTROLLER
+$Controls	Controls	 Kontroller
+$COOK	COOK	 AÞÇI
+$CookConfirm1	Prepare using:	 Aþaðýdakileri kullanarak hazýrlayýn:
+$CookingStation	Cooking Station	 Piþirme Ýstasyonu
+$COORDINATES:	COORDINATES:	 KOORDÝNATLAR:
+$CoppaText	I have read and agree to the Terms of Service and the Privacy Policy and the Code of Conduct.	 Hizmet Koþullarýný, Gizlilik Politikasýný ve Davranýþ Kurallarýný okudum ve kabul ediyorum.
+$CORROSIVE RESISTANCE	CORROSIVE RESISTANCE	 AÞINDIRICI DÝRENÇ
+$COST	COST	 MALÝYET
+$Count	Count	 Saymak
+$CRAFT	CRAFT	 ZANAAT
+$Craft	CRAFT	 ZANAAT
+$CRAFTING	CRAFTING	 ÜRETMEK
+$Crafting	Crafting	 Üretmek
+$CRATERFACE	CRATERS	 KRATERLER
+$CREATE CONNECTION	CREATE CONNECTION	 BAÐLANTI OLUÞTURUN
+$CREATE OUTPUT LINK	CREATE OUTPUT LINK	 ÇIKTI BAÐLANTISI OLUÞTURUN
+$CREATE TRANSFER LINK	CREATE TRANSFER LINK	 AKTARIM BAÐLANTISI OLUÞTURUN
+$CreateAcct_BNET_BEAM_EMAIL_ADDRESS_ALREADY_TAKEN	That email address has already been used to create an account.	 Bu e-posta adresi zaten bir hesap oluþturmak için kullanýlmýþ.
+$CreateAcct_BNET_BEAM_INVALID_EMAIL_ADDRESS	The email address entered was invalid.	 Girilen e-posta adresi geçersiz.
+$CreateAcct_BNET_BEAM_INVALID_USERNAME	The username entered was invalid.	 Girilen kullanýcý adý geçersiz.
+$CreateAcct_BNET_BEAM_USERNAME_ALREADY_TAKEN	That username has already been used to create an account.	 Bu kullanýcý adý zaten bir hesap oluþturmak için kullanýlmýþ.
+$CreateAcct_BNET_CANNOT_CONNECT	Couldn't connect to the Bethesda.net servers.	 Bethesda.net sunucularýna baðlanýlamadý.
+$CreateAcct_BNET_TIMEOUT	The connection has timed out.	 Baðlantý zaman aþýmýna uðradý.
+$CreateOutputLink	Create Output Link	 Çýkýþ Baðlantýsý Oluþtur
+$CreatePowerLink	Create Power Link	 Güç Baðlantýsý Oluþtur
+$Creating quick account...	Creating quick account...	 Hýzlý hesap oluþturuluyor...
+$CREDITS	CREDITS	 KREDÝ
+$CREW	CREW	 MÜRETTEBAT
+$CREW MAXIMUM	MAX CREW	 MAX MÜRETTEBAT
+$CREW ROSTER	CREW ROSTER	 EKÝP KADROSU
+$Crime	Crime	 Suç
+$CRIME	CRIME	SUÇ
+$CrimsonFleet	Crimson Fleet	 Kýzýl Filo
+$CRIT	CRIT	 KRÝTÝK
+$CRITICAL	CRITICAL	 KRÝTÝK
+$CRITICAL SUCCESS!	CRITICAL SUCCESS!	 KRÝTÝK BAÞARI!
+$Crosshair	Crosshair	 Artý iþareti
+$Crosshair Desc	Enables the HUD crosshair.	 HUD artý iþaretini etkinleþtirir.
+$CURRENT BIOME:	CURRENT BIOME:	 MEVCUT BÝYOM:
+$CURRENT MODS	CURRENT MODS	 GÜNCEL MODLAR
+$CURRENT MODS:	CURRENT MODS:	 MEVCUT MODLAR:
+$CurrentlyBuilt	Currently Built	 Þu anda inþa edilmiþ
+$CURRENT_LINK:	CURRENT LINK:	 GÜNCEL BAÐLANTI:
+$CURRENT_RANK	CURRENT RANK	 MEVCUT SIRALAMA
+$CURRENT_RANK:	CURRENT RANK	 MEVCUT SIRALAMA
+$CUSTOMIZE	CUSTOMIZE	 ÖZELLEÞTÝRMEK
+$CYCLE DAMAGE	CYCLE DAMAGE	 DÖNGÜ HASARI
+$Cycle Parts	CYCLE PART	 DÖNGÜ PARÇASI
+$CycleSystem	CYCLE SYSTEM	 DÖNGÜ SÝSTEMÝ
+$CycleTarget	CYCLE TARGET	 DÖNGÜ HEDEFÝ
+$CYCLE_COLUMN	CYCLE COLUMN	 ÇEVRÝM SÜTUNU
+$DAMAGE	DAMAGE	 ZARAR
+$Damage Rating:	Damage Rating:	 Hasar Derecesi:
+$Damage Resistance	Damage Resistance	 Hasar direnci
+$DAMAGE RESISTANCES	DAMAGE RESISTANCES	 HASAR DÝRENÇLERÝ
+$DAMAGE TYPES	DAMAGE TYPES	 HASAR TÜRLERÝ
+$DANGER	DANGER	 TEHLÝKE
+$DATA	DATA	 VERÝ
+$DataMenu	DATA MENU	 VERÝ MENÜSÜ
+$DataMenu_Cancel	Exit	 çýkýþ
+$DataMenu_Pause	Open Pause Menu	 Duraklat Menüsünü Aç
+$DataSlate_AudioLog	AUDIO LOG	 SES KAYDI
+$DataSlate_ImageLog	IMAGE LOG	 GÖRÜNTÜ GÜNLÜÐÜ
+$DataSlate_TextLog	TEXT LOG	 METÝN GÜNLÜÐÜ
+$DAY	DAY	 GÜN
+$DAYS	DAYS	 GÜNLER
+$DECLINE	DECLINE	 REDDETMEK
+$DeconnectedController	Connect a controller and press A button to continue.	 Bir denetleyici baðlayýn ve devam etmek için A düðmesine basýn.
+$DECORATE	DECORATE	 SÜSLEMEK
+$Default	Default	 Varsayýlan
+$DEFAULTS	DEFAULTS	 VARSAYILANLAR
+$DEFAULT_COLOR	Default	 Varsayýlan
+$DEFAULT_COLOR_ALL	Default All	 Varsayýlan Tümü
+$DELETE	DELETE	 SÝLMEK
+$Delete	Delete	 Silmek
+$Delete Photo?	Delete Photo?	 Fotoðrafý sil?
+$Delete this save?	Delete this save?	 Bu kaydetme silinsin mi?
+$DeleteAllMods	Delete All Mods	 Tüm Modlarý Sil
+$DeleteAllMods_Confirm	Do you really want to delete all downloaded mods?	 Ýndirilen tüm modlarý gerçekten silmek istiyor musunuz?
+$DeleteLibraryMod_Confirm	Are you sure you want to delete this mod?  If this mod is not registered with Bethesda.net, it will no longer be recoverable.	 Bu modu silmek istediðinizden emin misiniz? Bu mod Bethesda.net'te kayýtlý deðilse artýk kurtarýlamaz.
+$DeleteMod_Confirm	Do you want to delete this mod?	Bu modu silmek istiyor musunuz?
+$DELETE_BINDING	DELETE BINDING	 BAÐLAMAYI SÝL
+$Deleting	Deleting...	 Siliniyor...
+$Depth of Field	Depth of Field	 Alan derinliði
+$DERMAESTHETIC	DERMAESTHETIC	 DERMAESTETÝK
+$DESCENDING	DESC	 TANIM
+$Description	DESCRIPTION	 TANIM
+$DescriptionLabel	Description:	 Taným:
+$DESELECT	DESELECT	 SEÇÝMÝ KALDIR
+$Designation	DESIGNATION	 GÖREV
+$Desktop	Desktop	 Masaüstü
+$DESKTOP	DESKTOP	 MASAÜSTÜ
+$DEST	DEST	 HEDEF
+$DESTINATION	DESTINATION	 VARIÞ NOKTASI
+$Detach	DETACH	 AYRIL
+$DETAILED SPECS	DETAILED SPECS	 DETAYLI ÖZELLÝKLER
+$DETAILS	DETAILS	 DETAYLAR
+$DetailsPageError_ExtractFail	This mod has failed to install completely.	 Bu mod tamamen yüklenemedi.
+$DetailsPageError_ExtractInvalidMod	This mod is invalid and cannot be installed.	 Bu mod geçersiz ve yüklenemiyor.
+$DetailsPageError_ExtractTooLarge	Not enough free memory to install this mod.	 Bu modu yüklemek için yeterli boþ hafýza yok.
+$DetailsPageError_Generic	The operation could not be completed.	 Operasyon tamamlanamadý.
+$DetailsPageError_ModDeleted	This mod is no longer available.	 Bu mod artýk mevcut deðil.
+$DetailsPageError_ModDownloadFail	This mod has failed to download.	 Bu mod indirilemedi.
+$DetailsPageError_ModTooLarge	Not enough free memory to download this mod.	 Bu modu indirmek için yeterli boþ hafýza yok.
+$DETECTED	DETECTED	 SAPTANMIÞ
+$DETECTION WARNING	DETECTION WARNING	 ALGILAMA UYARISI
+$Detrimental	Detrimental	 Zararlý
+$DEV_CREW	CREW	 MÜRETTEBAT
+$Dialogue Camera	Dialogue Camera	 Diyalog Kamerasý
+$Dialogue Subtitles	Dialogue Subtitles	 Diyalog Altyazýlarý
+$Dialogue Subtitles Desc	Enables subtitles during dialogue.	 Diyalog sýrasýnda altyazýlarý etkinleþtirir.
+$DialogueNegative	Negative	 Olumsuz
+$DialogueNeutral	Neutral	 Doðal
+$DialoguePositive	Positive	 Pozitif
+$DialogueQuestion	Question	 Soru
+$Difficulty	Difficulty	 Zorluk
+$DIGIPICKLINKED	DIGIPICK LINKED	 DIGIPICK BAÐLANTILI
+$DIGIPICKS	DIGIPICKS	 DIGIPICK'LER
+$Directory	Directory	 Rehber
+$DIRT	DIRT	 KÝR
+$DisableAllMods	Disable All Mods	 Tüm Modlarý Devre Dýþý Býrak
+$Disabled	Disabled	 Engelli
+$DisableMod	Disable	 Devre dýþý býrakmak
+$Disarm	Disarm	 Etkisiz hale getirmek
+$DiscoveredText	Discovered	 Keþfetti
+$DISMISS	DISMISS	 AZLETMEK
+$DISPLAY	DISPLAY	 GÖRÜNTÜLEMEK
+$Display	Display	Görüntülemek
+$DISTANCE	DISTANCE	 MESAFE
+$Distance	Distance	 Mesafe
+$distance (ly)	DISTANCE (LY)	 MESAFE (LY)
+$dmg	Damage	 Zarar
+$DMG	DMG	 DMG
+$DOCK	DOCK	 RIHTIM
+$DOCKED	DOCKED	 YERLEÞTÝRÝLDÝ
+$DocsHeader	Updated Agreement	 Güncellenmiþ Sözleþme
+$DocsInstructions	By clicking ‘Accept’ I confirm I have read and acknowledged the ZeniMax Media Privacy Policy and I agree to the ZeniMax Media Terms of Service and Code of Conduct	 'Kabul Et'i týklayarak ZeniMax Medya Gizlilik Politikasýný okuyup kabul ettiðimi ve ZeniMax Medya Hizmet Þartlarý ve Davranýþ Kurallarýný kabul ettiðimi onaylýyorum
+$DONE	DONE	 TAMAMLAMAK
+$Download	Download	 Ýndirmek
+$Downloading...	Downloading...	 Ýndiriliyor...
+$DownloadSize:	Download Size:	 Ýndirme Boyutu:
+$DPS	DPS	 DPS
+$dr	DMG Resist	 DMG Direnci
+$DRAirborne	Airborne	 Havadan
+$DRAirborne_LRG	Airborne	 Havadan
+$DRCorrosive	Corrosive	 Aþýndýrýcý
+$DRCorrosive_LRG	Corrosive	 Aþýndýrýcý
+$DRIVE DAMAGE	DRIVE DAMAGE	 SÜRÜCÜ HASARI
+$DROP	DROP	 DÜÞÜRMEK
+$Drop:	Drop:	 Düþürmek:
+$DRRadiation	Radiation	 Radyasyon
+$DRRadiation_LRG	Radiation	 Radyasyon
+$DRThermal	Thermal	 Termal
+$DRThermal_LRG	Thermal	 Termal
+$DTI	DTI	 DTI
+$DUPLICATE	DUPLICATE	 KOPYALAMAK
+$Easy	Easy	 Kolay
+$Edit	Edit	 Düzenlemek
+$EDIT	EDIT	 DÜZENLEMEK
+$EDIT COLOR	COLOR	 RENK
+$Effects	Effects	 Etkileri
+$EFFECTS	EFFECTS	 ETKÝLERÝ
+$Effects Audio Desc	Controls the volume of the sound effects.	 Ses efektlerinin ses düzeyini kontrol eder.
+$ELC	ELC	 ELC
+$ELECTROMAGNETIC	ELECTROMAGNETIC	 ELEKTROMANYETÝK
+$ELECTROMAGNETIC DAMAGE	ELECTROMAGNETIC DMG	 ELEKTROMANYETÝK HASAR
+$ELEMENTAL STATS	ELEMENTAL STATS	 ELEMENT ÝSTATÝSTÝKLERÝ
+$EliminateUnusedKeys	Eliminate Unused Keys	 Kullanýlmayan Anahtarlarý Ortadan Kaldýrýn
+$ELM	ELM	 KARAAÐAÇ
+$EM	EM	 EM
+$Email Address	Email Address	 E-posta Adresi
+$EMPLOYEE NUMBER:	EMPLOYEE NUMBER:	 ÇALIÞAN SAYISI:
+$EMPTY	EMPTY	 BOÞ
+$EMPTY SLOT	EMPTY SLOT	 BOÞ YUVA
+$Enable Depth of Field	Enable Depth of Field	 Alan Derinliðini Etkinleþtir
+$Enable Depth of Field Desc	Enables depth of field effects.	 Alan derinliði efektlerini etkinleþtirir.
+$Enable Motion Blur	Enable Motion Blur	 Hareket Bulanýklýðýný Etkinleþtir
+$Enable Motion Blur Desc	Enables the motion blur effect.	 Hareket bulanýklýðý efektini etkinleþtirir.
+$Enable RTX	Raytraced Global Illumination	 Raytraced Küresel Aydýnlatma
+$Enable RTX Desc	Enables raytracing for indirect lighting. (*Enabling/disabling this setting requires a game restart.)	Dolaylý aydýnlatma için ýþýn izlemeyi etkinleþtirir. (*Bu ayarýn etkinleþtirilmesi/devre dýþý býrakýlmasý oyunun yeniden baþlatýlmasýný gerektirir.)
+$Enable VRS	Enable VRS	 VRS'yi etkinleþtir
+$Enable VRS Desc	Enables variable rate shading during rendering.	 Oluþturma sýrasýnda deðiþken oranlý gölgelemeyi etkinleþtirir.
+$EnableMod	Enable	 Olanak vermek
+$ENDURANCE	ENDURANCE	 DAYANIKLILIK
+$ENERGY	ENERGY	 ENERJÝ
+$ENG	ENG	 TR
+$ENGINES	ENGINES	 MOTORLAR
+$English	English	 Ýngilizce
+$Enhancer	Enhancer	 Arttýrýcý
+$ENLARGE	ENLARGE	 BÜYÜT
+$ENTER	ENTER	 GÝRMEK
+$Enter name.	Enter name.	 Ýsim giriniz.
+$ENTER SCAN RANGE	ENTER SCAN RANGE TO REGISTER BODY DATA	 GÖVDE VERÝLERÝNÝ KAYIT ETMEK ÝÇÝN TARAMA ARALIÐINA GÝRÝN
+$ENTER TEXT	ENTER TEXT	 METÝN GÝRÝN
+$Entering Patrolled Area	ENTERING PATROLLED AREA	 DEVRÝYE ALANINA GÝRÝÞ
+$ENTER_NAME	ENTER NAME	 ÝSÝM GÝRÝNÝZ
+$Environment	Environment	 Çevre
+$ENVIRONMENT RATING	ENVIRONMENT RATING	 ÇEVRE DERECESÝ
+$EQUIP	EQUIP	 DONATMAK
+$EQUIP HOLD	HOLD TO EQUIP	 DONANMAK ÝÇÝN TUTUN
+$EQUIP POWER	EQUIP POWER	 GÜCÜ DONAT
+$Equipped Item	Equipped Item	 Donanýmlý Öðe
+$ERROR	ERROR	 HATA
+$ERRORS	ERRORS	 HATALAR
+$Errors	Errors	 Hatalar
+$ET	ET	 ET
+$EULAHeader	EULA applicable to residents of North America and Latin America:	 EULA, Kuzey Amerika ve Latin Amerika'da ikamet edenler için geçerlidir:
+$Excessive Drive Damage	Excessive Drive Damage	 Aþýrý Tahrik Hasarý
+$EXECUTE	EXECUTE	 UYGULAMAK
+$Execute	EXECUTE	 UYGULAMAK
+$Execute Critical	EXECUTE CRITICAL	 KRÝTÝK UYGULAMA
+$EXIT	EXIT	 ÇIKIÞ
+$Exit	Exit	 çýkýþ
+$EXIT AND CANCEL	EXIT AND CANCEL	 ÇIKIÞ VE ÝPTAL
+$EXIT ANYWAY	EXIT ANYWAY	 YÝNE ÇIKIN
+$EXIT HOLD	HOLD TO EXIT	 ÇIKMAK ÝÇÝN BASILI TUTUN
+$EXIT HOLD_LRG	EXIT	 ÇIKIÞ
+$Exit Monocle	Exit Scanner	 Tarayýcýdan Çýk
+$EXIT SHIP	EXIT SHIP	 GEMÝDEN ÇIK
+$Exit Targeting	Exit Targeting	 Hedeflemeden Çýk
+$ExitConfirmHeader	Confirm Exit	 Çýkýþý Onayla
+$EXITSAVE	EXIT SAVE	 ÇIKIÞ KAYDET
+$ExitSurvivalConfirmMessage	Are you sure you wish to lower the difficulty? This character will not be able to opt back into Survival in the future.	 Zorluðu azaltmak istediðinizden emin misiniz? Bu karakter gelecekte Hayatta Kalma moduna geri dönemeyecek.
+$Exotic	Exotic	 Acayip
+$EXPERIENCE	EXPERIENCE	DENEYÝM
+$Expert	Expert	 Uzman
+$EXPLORATION	EXPLORATION	 KEÞÝF
+$ExplorationBodiesExplored	Planets/Moons Explored	 Keþfedilen Gezegenler/Aylar
+$ExplorationBodiesScanned	Planets/Moons Scanned	 Taranan Gezegenler/Aylar
+$ExplorationOrganicsScanned	Organics Scanned	 Taranan Organikler
+$ExplorationStarSystemsVisited	Star Systems Visited	 Yýldýz Sistemleri Ziyaret Edildi
+$Explored	Explored	 Keþfedilen
+$Expression	Expression	 Ýfade
+$EXTRAS	EXTRAS	 EKSTRALAR
+$EXTRAS HOLD	HOLD FOR EXTRAS	 EKSTRALAR ÝÇÝN BEKLEYÝN
+$Extreme environment	Extreme environment	 Aþýrý ortam
+$EYE COLOR	EYE COLOR	 GÖZ RENGÝ
+$EYELINERLOWER	EYE LINER LOWER	 GÖZ ASTARI ALT
+$EYELINERUPPER	EYE LINER UPPER	 GÖZ ASTARI ÜST
+$EYESHADOWLOWER	EYE SHADOW LOWER	 GÖZ FAR ALT
+$EYESHADOWUPPER	EYE SHADOW UPPER	 GÖZ FAR ÜST
+$FACE	FACE	 YÜZ
+$FacePaint	FACE PAINT	 YÜZ BOYASI
+$FACEPAINT	FACE PAINT	 YÜZ BOYASI
+$FACIAL HAIR	FACIAL HAIR	 SAKAL
+$FACIALFEATURES	FACIAL FEATURES	 YÜZ HATLARI
+$FACIALFORMS	FACIAL FORMS 2	 YÜZ FORMLARI 2
+$Faction	FACTION	 HÝZÝP
+$FACTION	FACTION	 HÝZÝP
+$FACTIONS	FACTIONS	 GRUPLAR
+$Fanfare_Epic	EPIC ITEM ACQUIRED	 EPÝK ÜRÜN ELDE EDÝLDÝ
+$Fanfare_Legendary	LEGENDARY ITEM ACQUIRED	 EFSANEVÝ ÜRÜN ELDE EDÝLDÝ
+$Fanfare_Rare	RARE ITEM ACQUIRED	 ELDE EDÝLEN NADÝR ÜRÜN
+$Fanfare_SkillBook	SKILL BONUS ACQUIRED	 KAZANILAN BECERÝ BONUSU
+$Far Plane	Far Plane	 Uzak Düzlem
+$Far Start	Far Start	 Uzak Baþlangýç
+$FAR_TRAVEL	FAR TRAVEL	 UZAK SEYAHAT
+$FAST	FAST	 HIZLI
+$FAST TRAVEL SHIP	Fast Travel To Ship	 Gemiye Hýzlý Seyahat
+$FastTravel	FAST TRAVEL	 HIZLI YOLCULUK
+$FastTravelContraband	You cannot fast travel to this location because your ship is carrying contraband.	 Geminiz kaçak mal taþýdýðý için bu konuma hýzlý yolculuk yapamazsýnýz.
+$FastTravelInsufficientFuel	You cannot fast travel to this location because you do not have sufficient fuel.	 Yeterli yakýtýnýz olmadýðý için bu konuma hýzlý yolculuk yapamazsýnýz.
+$FastTravelOutOfRange	You cannot fast travel to this location because it is out of range.	 Menzil dýþýnda olduðundan bu konuma hýzlý seyahat edemezsiniz.
+$FastTravelUndiscoveredNotInOrbit	You have not discovered this location yet.  Plot a grav jump?	 Bu konumu henüz keþfetmediniz. Yer çekimi sýçramasý mý planlýyorsunuz?
+$FastTravelUndiscoveredOnBody	You have not discovered this location yet.	Bu konumu henüz keþfetmediniz.
+$FAUNA	FAUNA	 FAUNA
+$FAV	FAV	 Favorim
+$FAVORITE	FAVORITE	 FAVORÝ
+$Favorites	Favorites	 Favoriler
+$FEMALE	FEMALE	 DÝÞÝ
+$FEMININE	FEMININE	 KADINSI
+$Field of View	Field of View	 Görüþ alaný
+$FIELD RESEARCH TERMINAL	RESEARCH LABORATORY	 ARAÞTIRMA LABORATUVARI
+$FIELD RESEARCH TERMINAL CATEGORY	RESEARCH LABORATORY - {0}	 ARAÞTIRMA LABORATUVARI - {0}
+$Film Grain	Film Grain Intensity	 Film Tane Yoðunluðu
+$Film Grain Desc	Sets the intensity of the film grain effect.	 Film greni efektinin yoðunluðunu ayarlar.
+$Filter	Filter	 Filtre
+$FILTER	FILTER	 FÝLTRE
+$Filter Intensity	Filter Intensity	 Filtre Yoðunluðu
+$Filters	Filters	 Filtreler
+$FILTER_BIOME_ARCHIPELAGO	Archipelago	 Takýmadalar
+$FILTER_BIOME_CRATERED	Cratered	 Kraterli
+$FILTER_BIOME_DESERT	Desert	 Çöl
+$FILTER_BIOME_FOREST	Forest	 Orman
+$FILTER_BIOME_HILL	Hill	 Tepe
+$FILTER_BIOME_MOUNTAIN	Mountain	 Dað
+$FILTER_BIOME_OCEAN	Ocean	 Okyanus
+$FILTER_BIOME_POLAR	Polar	 Kutupsal
+$FILTER_BIOME_SAVANNAH	Savannah	 Savan
+$FILTER_BIOME_SNOWFIELD	Snowfield	 Kar alaný
+$FILTER_BIOME_TYPE	Biome Type	 Biyom Türü
+$FILTER_BIOME_VOLCANIC	Volcanic	 Volkanik
+$FILTER_BIOME_WETLANDS	Wetlands	 Sulak alanlar
+$FILTER_BODY_TYPE	Body Type	 Gövde Tipi
+$FILTER_BODY_TYPE_ASTEROID_BELT	Asteroid Belt	 Asteroit Kuþaðý
+$FILTER_BODY_TYPE_MOON	Moon	 Ay
+$FILTER_BODY_TYPE_PLANET	Planet	 Gezegen
+$FILTER_BODY_TYPE_SATELLITE	Satellite	 Uydu
+$FILTER_BODY_TYPE_STATION	Station	 Ýstasyon
+$FILTER_IN_RANGE	Filter: In Range	 Filtre: Aralýk Ýçinde
+$FILTER_NONE	Filter: None	 Filtre: Yok
+$FILTER_SYSTEM_IN_RANGE	In Jump Range	 Atlama Aralýðýnda
+$FILTER_SYSTEM_VISITED	Visited	 Ziyaret
+$FINISH	FINISH	 SONA ERMEK
+$FIRST	FIRST	 BÝRÝNCÝ
+$Flashlight	Flashlight	 El feneri
+$FLIGHT CHECK	FLIGHT CHECK	 UÇUÞ KONTROLÜ
+$Flight Control Alternate Controls	Alternate Flight Controls	 Alternatif Uçuþ Kontrolleri
+$Flight Control Alternate Controls_Desc	An alternate set of flight controls.	 Alternatif bir uçuþ kontrol seti.
+$Flight Control Roll Dominant	Roll Dominant	 Rulo Baskýn
+$Flight Control Roll Dominant_Desc	Swap roll and yaw between primary and secondary sticks when flying ships.	 Gemileri uçururken birincil ve ikincil çubuklar arasýnda dönüþ ve yalpalamayý deðiþtirin.
+$Flight Control Stick Swap	Flight Stick Swap	 Uçuþ Çubuðu Takasý
+$Flight Control Stick Swap_Desc	Swap left and right sticks when flying ships.	 Gemileri uçururken sol ve sað çubuklarý deðiþtirin.
+$FLIP	FLIP	 ÇEVÝRME
+$FLIPPAGE	FLIP PAGE	SAYFAYI ÇEVÝR
+$FLOORDOWN	FLOOR DOWN	 ZEMÝN AÞAÐI
+$FLOORUP	FLOOR UP	 KAT YUKARI
+$FLORA	FLORA	 BÝTKÝ ÖRTÜSÜ
+$Focus Point Teleport	Focus Point Teleport	 Odak Noktasý Iþýnlanmasý
+$Focus Point Teleport Delta	Focus Point Teleport Delta	 Odak Noktasý Iþýnlanma Deltasý
+$Focus_Point_Delta_Desc	Minimum amount there must be between the focus point and the player position to teleport when leaving camera mode.	 Kamera modundan çýkarken ýþýnlanabilmek için odak noktasý ile oyuncu konumu arasýnda minimum miktar bulunmalýdýr.
+$Focus_Point_Teleport_Desc	Try to teleport to the focus point when leaving Outpost FlyCam.	 Outpost FlyCam'den ayrýlýrken odak noktasýna ýþýnlanmaya çalýþýn.
+$Follow	Favorite	 Favori
+$Following	Favoriting...	 Favorilere ekleniyor...
+$FOOD	FOOD	 YÝYECEK
+$Footsteps	Footsteps (Player)	 Ayak Sesleri (Oyuncu)
+$Footsteps Audio Desc	Controls the volume of player footsteps and movement sounds.	 Oyuncunun ayak seslerinin ve hareket seslerinin yüksekliðini kontrol eder.
+$FootstepsNPC	Footsteps (Other)	 Ayak Sesleri (Diðer)
+$FootstepsNPC Audio Desc	Controls the volume of NPC and Creature footsteps and movement sounds.	 NPC'nin ve Yaratýk'ýn ayak seslerinin ve hareket seslerinin ses düzeyini kontrol eder.
+$FOR SALE	FOR SALE	 SATILIK
+$Forward	Forward	 Ýleri
+$Frame	Frame	 Çerçeve
+$Frame Category	Frame Category	 Çerçeve Kategorisi
+$FRECKLES	FRECKLES	 ÇÝLLER
+$Free	Free	 Özgür
+$FreeSpace:	Free Space:	 Boþ alan:
+$FreestarCollective	Freestar Collective	 Freestar Kolektifi
+$French	French	 Fransýzca
+$Friend	Friend	 Arkadaþ
+$FSR2	FSR2	 FSR2
+$FUEL	FUEL	 YAKIT
+$Fuel (l)	Fuel (l)	 Yakýt (l)
+$FUEL CAPACITY	FUEL CAPACITY	 YAKIT KAPASÝTESÝ
+$FUEL CONSUMPTION	FUEL CONSUMPTION	 YAKIT TÜKETÝMÝ
+$FuelFromOutpost	Using fuel from an Outpost	 Bir Karakoldan yakýt kullanmak
+$GALAXY MAP	GALAXY MAP	 GALAXY HARÝTASI
+$GAMEPLAY	GAMEPLAY	 OYNANIÞ
+$Gameplay	Gameplay	 Oynanýþ
+$Gamma	Gamma	 Gama
+$Gamma Desc	Controls the brightness.	 Parlaklýðý kontrol eder.
+$GENDER	GENDER	 CÝNSÝYET
+$GENDERID	GENDER ID	 CÝNSÝYET KÝMLÝÐÝ
+$GENERAL	GENERAL	 GENEL
+$General	General	 Genel
+$General Subtitles	General Subtitles	 Genel Altyazýlar
+$General Subtitles Desc	Enables subtitles while walking around the game.	Oyunda dolaþýrken altyazýlarý etkinleþtirir.
+$German	German	 Almanca
+$GET UP	GET UP	 UYANMAK
+$GI	CATALOGUE ID	 KATALOG KÝMLÝÐÝ
+$Go	GO	 GÝTMEK
+$Grass Fade	Grass Fade	 Çim Solmasý
+$Grass Fade Desc	Controls the distance at which grass fades in.	 Çimlerin kaybolacaðý mesafeyi kontrol eder.
+$GRAV	GRAV	 AÐIR
+$GRAV JUMP Pending	GRAV JUMP PENDING	 GRAV ATLAMA BEKLENÝYOR
+$GRAVITY	GRAVITY	 YER ÇEKÝMÝ
+$GravJumpAborted	Grav Jump aborted.	 Grav Jump iptal edildi.
+$GravJumpInProgress	Grav Jump In Progress.	 Yerçekimi Atlamasý Devam Ediyor.
+$Grenade	Grenade	 El bombasý
+$Grid View	PERK CHART	 AVANTAJ TABLOSU
+$GRV	GRV	 GRV
+$GST	GST	 GST
+$GSTime_Suffix	GST (24 HR)	 GST (24 SAAT)
+$HAIL	HAIL	 DOLU
+$HAIR	HAIR	 SAÇ
+$HAIR COLOR	HAIR COLOR	 SAÇ RENGÝ
+$HAPPINESS	HAPPINESS	 MUTLULUK
+$HAPPY	HAPPY	 MUTLU
+$Hard	Hard	 Zor
+$HardcorePreventedFastTravel	You cannot fast travel to this location. Place marker?	 Bu konuma hýzlý seyahat edemezsiniz. Ýþaretçi yerleþtirilsin mi?
+$HARVEST	Harvest	 Hasat
+$HEALTH	HEALTH	 SAÐLIK
+$health	Health	 Saðlýk
+$HEAVY	HEAVY	 AÐIR
+$HELMET	HELMET	 KASK
+$HELP	HELP	 YARDIM
+$HE_HIM	HE/HIM	 O/ON
+$HIDE	Hide Resources	 Kaynaklarý Gizle
+$HIDE COMPLETED	HIDE COMPLETED	 TAMAMLANANLARI GÝZLE
+$HIDE EFFECTS	HIDE EFFECTS	 ETKÝLERÝ GÝZLE
+$HIDE UI	HIDE UI	 Kullanýcý Arayüzünü Gizle
+$HideCaravans	HIDE SUPPLY LINES	 BESLEME HATLARINI GÝZLE
+$HideQuestSummary	HIDE SUMMARY	 ÖZETÝ GÝZLE
+$HighestRated	Highest Rated	 En yüksek dereceli
+$Hold Breath	Hold Breath	 Nefesini tut
+$HOLD DISTANCE	HOLD DISTANCE	 MESAFE TUTUN
+$HOLD UP	HOLD UP	 GECÝKMEK
+$HolotapePlay	PLAY	 OYNAMAK
+$HolotapeStop	STOP	 DURMAK
+$Hostile	Hostile	 Düþmanca
+$HOUR	HOUR	 SAAT
+$hour.	hour.	 saat.
+$HOURS	HOURS	 SAAT
+$hours.	hours.	 saat.
+$Houseva'Ruun	House Va'Ruun	 Va'Ruun Hanesi
+$HouseVa’ruun	House Va'ruun	 Va'ruun Hanesi
+$HP	HP	 HP
+$HUD	HUD	 HUD
+$Hud Alert Locked On	Enemy Missiles Locked On	 Düþman Füzeleri Kilitlendi
+$HUD Opacity	HUD Opacity	 HUD Opaklýðý
+$HUD Opacity Desc	Controls the transparency of the HUD.	 HUD'un þeffaflýðýný kontrol eder.
+$HUDColorB	HUD Color B	HUD Renk B
+$HUDColorG	HUD Color G	 HUD Renk G
+$HUDColorR	HUD Color R	 HUD Renk R
+$HUDCommandAssign	Assign	 Atamak
+$HUDCommandAttack	Attack	 Saldýrý
+$HUDCommandCall	Call	 Arama
+$HUDCommandEnter	Enter	 Girmek
+$HUDCommandFollow	Follow	 Takip etmek
+$HUDCommandHeal	Heal	 Ýyileþtirmek
+$HUDCommandInspect	Inspect	 Ýncelemek
+$HUDCommandMove	Move	 Taþýnmak
+$HUDCommandRetrieve	Retrieve	 Geri almak
+$HUDCommandRide	Ride	 Sürmek
+$HUDCommandStay	Stay	 Kalmak
+$HUDCompleted	Completed	 Tamamlanmýþ
+$HUDDrink	WATER\nDRINK	 SU\nÝÇECEK
+$HUDFailed	Failed	 Arýzalý
+$HUDMessage_InventoryDisabled	Inventory is unavailable.	 Envanter kullanýlamýyor.
+$HUDRejected	Rejected	 Reddedilmiþ
+$HUDStarted	Started	 Baþlatýldý
+$HUE	HUE	 TON
+$HULL	HULL	 GÖVDE
+$HULL DAMAGE	HULL DMG	 GÖVDE DMG
+$HULL INTEGRITY	HULL INTEGRITY	 GÖVDE BÜTÜNLÜÐÜ
+$HYDRATION	HYDRATION	 NEMLENDÝRME
+$ICON_LABEL_CUSTOM	C	 C
+$ICON_LABEL_DOCUMENT	D	 D
+$ICON_LABEL_FOLDER	F	 F
+$ICON_LABEL_KIOSK	K	 k
+$IGNORE	IGNORE	 GÖRMEZDEN GELMEK
+$IN TRANSIT	IN TRANSIT	 TRANSÝT OLARAK
+$IN/OUT	IN/OUT	 GÝRÝÞ/ÇIKIÞ
+$INCOMING HAIL	INCOMING HAIL	 GELEN DOLU
+$INCOMING RESOURCES:	INCOMING RESOURCES:	 GELEN KAYNAKLAR:
+$Incoming Resources:	Incoming Resources:	 Gelen Kaynaklar:
+$INCOMING TRANSMISSION	INCOMING TRANSMISSION	 GELEN ÝLETÝM
+$IndustrialWorkbench	Industrial Workbench	 Endüstriyel Tezgah
+$INGREDIENTS	INGREDIENTS	 ÝÇÝNDEKÝLER
+$INIT EXIT CONFIRM	Initializing Exit Confirmation...	 Çýkýþ Onayý baþlatýlýyor...
+$Initializing...	Initializing...	 Baþlatýlýyor...
+$INORGANIC	INORGANIC	 ÝNORGANÝK
+$Input	Input	 Giriþ
+$Input Mode	Input Mode	 Giriþ Modu
+$Input Mode Description	Choose the preferred input mode	 Tercih edilen giriþ modunu seçin
+$INPUT REQUIREMENTS:	INPUT REQUIREMENTS:	 GÝRÝÞ GEREKSÝNÝMLERÝ:
+$Input Requirements:	Input Requirements:	 Giriþ Gereksinimleri:
+$Input:	Input:	 Giriþ:
+$InputAmount	Input Amount	 Giriþ Tutarý
+$INSPECT	INSPECT	 ÝNCELEMEK
+$INSTALL	INSTALL	 DÜZENLEMEK
+$INSTALLED	INSTALLED	 KURULMUÞ
+$INSTALLED COMPONENT	INSTALLED COMPONENT	 KURULU BÝLEÞEN
+$Installing	Installing	 Kurulum
+$Insufficient Fuel	Out Of Fuel Range	 Yakýt Menzilinin Dýþýnda
+$Insufficient Power	Insufficient Power	 Yetersiz güç
+$InsufficientFundsHeader	Insufficient Funds	 Yetersiz bakiye
+$InsufficientPilotSkillForDesiredHomeShip	Your Piloting Skill is too low for this ship.	 Pilotluk Beceriniz bu gemi için çok düþük.
+$InsufficientPlayerFunds	You do not have enough credits for this trade.	Bu ticaret için yeterli krediniz yok.
+$InsufficientRegistrationFunds	You do not have enough credits to register.	 Kayýt olmak için yeterli krediniz yok.
+$InsufficientVendorFunds	This vendor does not have enough credits. Accept the trade anyway?	 Bu satýcýnýn yeterli kredisi yok. Yine de takasý kabul ediyor musun?
+$INTEGRITY	INTEGRITY	 BÜTÜNLÜK
+$Integrity	Integrity	 Bütünlük
+$Integrity (%)	Integrity (%)	 Bütünlük (%)
+$INTELLIGENCE	INTELLIGENCE	 ÝSTÝHBARAT
+$INTENSITY	INTENSITY	 YOÐUNLUK
+$INTERACT	INTERACT	 ETKÝLEÞÝME GÝRMEK
+$INV	INV	 INV
+$InvalidTransaction	Could not complete transaction.	 Ýþlem tamamlanamadý.
+$InvCompareLabel_Ammo	AMMO	 CEPHANE
+$InvCompareLabel_Dmg	DMG	 DMG
+$InvCompareLabel_DR	DR	 DR
+$InvCompareLabel_Mass	MASS	 YIÐIN
+$InvCompareLabel_Value	VAL	 VAL
+$Inventory	Inventory	 Envanter
+$INVENTORY	INVENTORY	 ENVANTER
+$Inventory:	Inventory:	 Envanter:
+$InventoryAmount	Inventory Amount	 Stok Tutarý
+$InventoryCategoryAid	AID	 YARDIM
+$InventoryCategoryAidFood	FOOD	 YÝYECEK
+$InventoryCategoryAidMine	MY AID	 YARDIMIM
+$InventoryCategoryAmmo	AMMO	 CEPHANE
+$InventoryCategoryAmmoMine	MY AMMO	 CEPHANEM
+$InventoryCategoryAmmoMisc	Ammo	 Cephane
+$InventoryCategoryApparel	APPAREL	 KONFEKSÝYON
+$InventoryCategoryApparelMine	MY APPAREL	 GÝYSÝLERÝM
+$InventoryCategoryArmorBackpack	Backpacks	 Sýrt çantalarý
+$InventoryCategoryArmorHelmet	Helmets	 Kasklar
+$InventoryCategoryArmorSuit	Suits	 Takým elbise
+$InventoryCategoryEquipment	Equipment	 Teçhizat
+$InventoryCategoryInfo	Info	 Bilgi
+$InventoryCategoryInfoMisc	Info	 Bilgi
+$InventoryCategoryJunk	JUNK	 HURDA
+$InventoryCategoryJunkMine	MY JUNK	 ÇÖPLÜÐÜM
+$InventoryCategoryMisc	MISC	 ÇEÞÝTLÝ
+$InventoryCategoryMiscMine	MY MISC	 ÇEÞÝTLERÝM
+$InventoryCategoryMods	MODS	 MODLAR
+$InventoryCategoryModsMine	MY MODS	 MODLARIM
+$InventoryCategoryResources	Resources	 Kaynaklar
+$InventoryCategoryResourcesMisc	Resources	 Kaynaklar
+$InventoryCategoryWeaponMisc	Weapons	 Silahlar
+$InventoryCategoryWeapons	WEAPONS	 SÝLAHLAR
+$InventoryCategoryWeaponsMine	MY WEAPONS	 SÝLAHLARIM
+$InventoryCategoryWeaponThrowable	Explosives	 Patlayýcýlar
+$INVENTORYMine	MY INVENTORY	 ENVANTERÝM
+$INVENTORYVendor	Vendor	 SATICI
+$INVENTORY_HELMET_HIDE	HIDE HELMET IN BREATHABLE AREAS	 KASKI NEFES ALABÝLEN ALANLARA GÝZLEYÝN
+$INVENTORY_HELMET_HIDE_LRG	HIDE (IN BREATHABLE AREAS)	 GÝZLE (NEFES ALABÝLÝR ALANLARDA)
+$INVENTORY_HELMET_SHOW	SHOW HELMET IN BREATHABLE AREAS	 KASKI NEFES ALABÝLÝR ALANLARDA GÖSTERÝN
+$INVENTORY_HELMET_SHOW_LRG	SHOW (ALWAYS)	 GÖSTER (HER ZAMAN)
+$INVENTORY_SUIT_HIDE	HIDE SPACESUIT IN SETTLEMENTS	 YERLEÞÝMLERDE UZAY KIYAFETÝNÝ GÝZLE
+$INVENTORY_SUIT_HIDE_LRG	HIDE (IN SETTLEMENTS)	 GÝZLE (YERLEÞÝMLERDE)
+$INVENTORY_SUIT_SHOW	SHOW SPACESUIT IN SETTLEMENTS	 YERLEÞÝMLERDE UZAY KIYAFETÝNÝ GÖSTER
+$INVENTORY_SUIT_SHOW_LRG	SHOW (ALWAYS)	 GÖSTER (HER ZAMAN)
+$Invert Flight Y	Invert Flight Y	 Uçuþ Y'yi Ters Çevir
+$Invert Menu X	Invert Menu Camera X	 Menüyü Ters Çevir Kamera X
+$Invert Menu X Desc	Inverts the X-axis camera controls in menus.	 Menülerdeki X ekseni kamera kontrollerini tersine çevirir.
+$Invert Menu Y	Invert Menu Camera Y	Menüyü Ters Çevir Kamera Y
+$Invert Menu Y Desc	Inverts the Y-axis camera controls in menus.	 Menülerdeki Y ekseni kamera kontrollerini tersine çevirir.
+$Invert Pitch	Invert Pitch	 Perdeyi Tersine Çevir
+$Invert Y	Invert Y	 Y'yi Ters Çevir
+$Invert Yaw	Invert Yaw	 Yaw'ý ters çevir
+$Invert_Flight_Y_Desc	Inverts the vertical looking controls while flying a spaceship.	 Bir uzay gemisini uçururken dikey görünümlü kontrolleri tersine çevirir.
+$Invert_Pitch_Flycam_Desc	Invert the vertical look direction when in Outpost FlyCam.	 Outpost FlyCam'deyken dikey bakýþ yönünü tersine çevirin.
+$Invert_Yaw_Flycam_Desc	Invert the horizontal look direction when in Outpost FlyCam.	 Outpost FlyCam'deyken yatay bakýþ yönünü tersine çevirin.
+$Invert_Y_Desc	Inverts the vertical looking controls while walking.	 Yürürken dikey görünümlü kontrolleri tersine çevirir.
+$INVEST	INVEST	 YATIRIM
+$Item Fade	Item Fade	 Öðe Solmasý
+$Item Fade Desc	Controls the distance at which playable items fade in.	 Oynatýlabilir öðelerin yavaþ yavaþ kaybolacaðý mesafeyi kontrol eder.
+$Item HoldAndDrag	Item Rotation Hold and Drag	 Öðe Döndürme Tutma ve Sürükleme
+$Item HoldAndDrag Desc	Change hold-and-drag-mouse to rotate items in menus to a click-and-mouse-move instead.	 Menülerdeki öðeleri týklatýp fareyle hareket ettirerek döndürmek için fareyi basýlý tutup sürükleyin.
+$Item Type	Item Type	 Öðe türü
+$ITEM VIEW	ITEM VIEW	 ÖÐE GÖRÜNÜMÜ
+$ItemInfo_AR	AR	 AR
+$ItemInfo_CND	CND	 CND
+$ItemInfo_DMG	DMG	 DMG
+$ItemInfo_Stolen	STOLEN	 ÇALINDI
+$ItemInfo_VAL	VAL	 VAL
+$ItemInfo_WT	WT	 WT
+$ItemNameInvalid	Cannot rename item, item name is too long or contains invalid characters.	" Öðe yeniden adlandýrýlamýyor; öðe adý çok uzun veya geçersiz karakterler içeriyor."
+$ItemRarity_Epic	Epic	 Epik
+$ItemRarity_Legendary	Legendary	 Efsanevi
+$ItemRarity_Rare	Rare	 Nadir
+$ItemRename	Enter item name	 Öðe adýný girin
+$ITEMS:	ITEMS:	 ÖÐELER:
+$ItemsToCargoHold	All items will be moved to the cargo hold.	 Tüm eþyalar kargo ambarýna taþýnacaktýr.
+$Japanese	Japanese	 Japonca
+$Jettison	JETTISON	 ATILMA
+$JETTISON ALL	JETTISON ALL	 HEPSÝNÝ ATIN
+$Jump	Jump	 Zýplamak
+$JUMP	JUMP	 ZIPLAMAK
+$JUMP DATA	JUMP DATA	 VERÝLERÝ ATLAMA
+$JUMP RANGE	JUMP RANGE	 ATLAMA ARALIÐI
+$JUMP TO	TRAVEL	 SEYAHAT
+$JUMPS	JUMPS	 ATLAMALAR
+$JUNK JET	JUNK JET	 hurda jet
+$KeyboardMouse	Keyboard & Mouse	Klavye fare
+$KG	KG	 KÝLOGRAM
+$Kill On Sight	Kill On Sight	 Gördüðü Yerde Öldür
+$KM	 KM	 KM
+$LAND	LAND	 KARA
+$LAND INSPECT	LAND/INSPECT	 ARAZÝ/ÝNCELEME
+$LANDED	LANDED	 ÝNDÝ
+$LANDING	LANDING	 ÝNÝÞ
+$LANDING GRAV JUMPING	INITIATING GRAV JUMP	 GRAV JUMP'U BAÞLATMA
+$LANDING IN COMBAT	IN COMBAT	 SAVAÞTA
+$LANDING INVALID POINT	CANNOT LAND HERE	 BURAYA ÝNEMEZ
+$LANDING NO MARKER	PLACE LANDING MARKER	 ÝNÝÞ ÝÞARETÝ YERÝNDE
+$LANDING NO SURFACE	NO SUITABLE SURFACE	 UYGUN YÜZEY YOK
+$LANDING NOT CLEARED	NOT CLEARED FOR LANDING	 ÝNÝÞE ÝZÝN VERÝLMEDÝ
+$LANDING OUT OF RANGE	SHIP NOT IN RANGE TO LAND	 GEMÝ KARAYA MENZÝLDE DEÐÝL
+$LANDING RECORDED	LANDING RECORDED	 ÝNÝÞ KAYDEDÝLMÝÞTÝR
+$LANDING UNAVAILABLE	Landing Unavailable	 Ýniþ Yapýlamýyor
+$LANDING ZONE	LANDING ZONE	 ÝNÝÞ BÖLGESÝ
+$LandingBountyMoon	This faction has placed a bounty on you.  Add a destination to the moon's orbit?	 Bu grup sana bir ödül verdi. Ayýn yörüngesine bir hedef eklensin mi?
+$LandingBountyPlanet	This faction has placed a bounty on you.  Add a destination to the planet's orbit?	 Bu grup sana bir ödül verdi. Gezegenin yörüngesine bir hedef eklensin mi?
+$LandingContrabandMoon	You have contraband.  Settled systems require scanning of your ship’s cargo before attempting to land here.  Add a destination to the moon's orbit?	 Kaçak malýnýz var. Yerleþik sistemler, buraya inmeden önce geminizin kargosunun taranmasýný gerektirir. Ayýn yörüngesine bir hedef eklensin mi?
+$LandingContrabandPlanet	You have contraband.  Settled systems require scanning of your ship’s cargo before attempting to land here.  Add a destination to the planet's orbit?	 Kaçak malýnýz var. Yerleþik sistemler, buraya inmeden önce geminizin kargosunun taranmasýný gerektirir. Gezegenin yörüngesine bir hedef eklensin mi?
+$LandingFailed	Unable to land at this location.	 Bu konuma iniþ yapýlamýyor.
+$LARGE	LARGE	 BÜYÜK
+$Large Menu Fonts	Large Menu Fonts	 Büyük Menü Yazý Tipleri
+$Large Menu Fonts Desc	Use larger font size in menus where possible. Only adjustable from the main menu.	Mümkün olduðunca menülerde daha büyük yazý tipi boyutu kullanýn. Yalnýzca ana menüden ayarlanabilir.
+$Last Used	Last Used	 Son kullanýlan
+$Latest	Latest	 En sonuncu
+$LEAN	THIN	 ÝNCE
+$LEARN HOLD	HOLD TO LEARN	 ÖÐRENMEK ÝÇÝN BASILI TUTUN
+$LeaveMinigame	Quit game?	 Oyundan çýk?
+$LegalScreen	Starfield™ © 2023 ZeniMax Media Inc. Starfield, Bethesda, Bethesda Softworks, Bethesda Game Studios, ZeniMax, and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. All Rights Reserved. Havok software is ©2016 Microsoft. All rights reserved.\n\nMoon maps Image Credit: NASA’s Scientific Visualization Studio. Jupiter maps Image Credit: NASA Goddard Space Flight Center, Space Telescope Science Institute. Mars data compiled by the U.S. Geological Survey.\n\nPHOTOSENSITIVITY WARNING: A small percentage of people may experience seizures when exposed to certain lights, patterns or images, even with no history of epilepsy or seizures. Please review the safety information in our Terms of Services at https://bethesda.net/en/document/terms-of-service.	 Starfield™ © 2023 ZeniMax Media Inc. Starfield, Bethesda, Bethesda Softworks, Bethesda Game Studios, ZeniMax ve ilgili logolar, ZeniMax Media Inc.'in ABD ve/veya diðer ülkelerdeki tescilli ticari markalarý veya ticari markalarýdýr. Her hakký saklýdýr. Havok yazýlýmý ©2016 Microsoft'a aittir. Tüm haklarý saklýdýr.\n\nAy haritalarý Image Credit: NASA'nýn Bilimsel Görselleþtirme Stüdyosu. Jüpiter haritalarý Resim Kredisi: NASA Goddard Uzay Uçuþ Merkezi, Uzay Teleskobu Bilim Enstitüsü. ABD Jeoloji Araþtýrmasý tarafýndan derlenen Mars verileri.\n\nFOTOSENSÝTLÝK UYARISI: Epilepsi veya nöbet geçmiþi olmasa bile, insanlarýn küçük bir yüzdesi belirli ýþýklara, desenlere veya görüntülere maruz kaldýðýnda nöbet geçirebilir. Lütfen https://bethesda.net/en/document/terms-of-service adresindeki Hizmet Þartlarýmýzdaki güvenlik bilgilerini inceleyin.
+$LEGENDARY EFFECT	LEGENDARY EFFECT	 EFSANEVÝ ETKÝ
+$Level	Level	 Seviye
+$LEVEL	LEVEL	SEVÝYE
+$Level #	Level #	 Seviye #
+$LEVEL UP	LEVEL UP	 SEVÝYE ATLAMAK
+$Level {0} Ship	Level {0} Ship	 {0}. Seviye Gemi
+$LEVELUP	LEVEL UP	 SEVÝYE ATLAMAK
+$LIFE	LIFE	 HAYAT
+$Light Fade	Light Fade	 Iþýk Solmasý
+$LINER	LINER	 ASTAR
+$LINER_1_TITLE	PRIMARY LINER	 BÝRÝNCÝL ASTAR
+$LINER_2_TITLE	SECONDARY LINER	 ÝKÝNCÝL ASTAR
+$LINER_3_TITLE	TERTIARY LINER	 ÜÇÜNCÜ ASTAR
+$Linked outpost:	Linked outpost:	 Baðlantýlý karakol:
+$LINKED_OUTPOST:	LINKED OUTPOST:	 BAÐLANTILI KARGO:
+$LIPSTICKACCENTS	LIPSTICK ACCENTS	 RUJ VURGULARI
+$LIPSTICKBASE	LIPSTICK BASE	 RUJ TABANI
+$List View	LIST$	 LÝSTE $
+$LOAD	LOAD	 YÜK
+$Load this game? All unsaved progress will be lost.	Load this game? All unsaved progress will be lost.	 Bu oyun yüklensin mi? Kaydedilmemiþ tüm ilerlemeler kaybolacaktýr.
+$Loading	Loading	 Yükleniyor
+$Loading EULA...	Loading Terms of Service	 Hizmet Þartlarý Yükleniyor
+$Loading mods...	Loading mods...	 Modlar yükleniyor...
+$LoadingModsIntro	Play with Mods at your own risk. You may experience issues with mods. You can disable Mods via Load Order and go back to your original save at anytime using Select Character in the Load menu. Downloading and playing with Mods is subject to our Terms of Service. Note: Achievements are disabled.	 Modlarla oynamak kendi sorumluluðunuzdadýr. Modlarla ilgili sorunlar yaþayabilirsiniz. Yükleme Sýrasý aracýlýðýyla Modlarý devre dýþý býrakabilir ve Yükle menüsündeki Karakter Seç'i kullanarak istediðiniz zaman orijinal kaydýnýza geri dönebilirsiniz. Modlarý indirmek ve oynamak Hizmet Þartlarýmýza tabidir. Not: Baþarýlar devre dýþýdýr.
+$LoadingModsIntro_PS4	Play with Mods at your own risk. You may experience issues with mods. You can disable Mods via Load Order and go back to your original save at anytime using Select Character in the Load menu. Downloading and playing with Mods is subject to our Terms of Service. Note: Trophies are disabled.	 Modlarla oynamak kendi sorumluluðunuzdadýr. Modlarla ilgili sorunlar yaþayabilirsiniz. Yükleme Sýrasý aracýlýðýyla Modlarý devre dýþý býrakabilir ve Yükle menüsündeki Karakter Seç'i kullanarak istediðiniz zaman orijinal kaydýnýza geri dönebilirsiniz. Modlarý indirmek ve oynamak Hizmet Þartlarýmýza tabidir. Not: Kupalar devre dýþýdýr.
+$LoadVanillaSaveWithMods	Mods are currently loaded. Note: Achievements are disabled.  Do you wish to continue loading this save?	Modlar þu anda yüklü. Not: Baþarýlar devre dýþýdýr. Bu kaydetmeyi yüklemeye devam etmek istiyor musunuz?
+$LoadVanillaSaveWithMods_Orbis	Mods are currently loaded. Note: Trophies are disabled.  Do you wish to continue loading this save?	 Modlar þu anda yüklü. Not: Kupalar devre dýþýdýr. Bu kaydetmeyi yüklemeye devam etmek istiyor musunuz?
+$LOCAL HOUR	LOCAL HOUR	 YEREL SAAT
+$LOCAL HOURS	LOCAL HOURS	 YEREL SAATLER
+$Local Map	LOCAL MAP	 YEREL HARÝTA
+$LocalTime	Local Time	 Yerel zaman
+$LocalTime_Suffix	({0} HR Solar Cycle)	 ({0} HR Güneþ Döngüsü)
+$LocalTime_ZeroHoursPerDay	--:-- (0 HR Solar Cycle)	 --:-- (0 SAAT Güneþ Döngüsü)
+$LOCAL_HOUR	LOCAL HOUR	 YEREL SAAT
+$LOCAL_HOURS	LOCAL HOURS	 YEREL SAATLER
+$LOCATION	LOCATION	 KONUM
+$LocationCleared	[CLEARED]	 [TEMÝZLENDÝ]
+$LocationDiscovered	LOCATION DISCOVERED	 KONUM KEÞFEDÝLDÝ
+$Lock	Lock	 Kilit
+$LOCKED	LOCKED	 KÝLÝTLÝ
+$LockedContainer	[LOCKED]	 [KÝLÝTLÝ]
+$LOCKED_SKILL_TEXT	Spend {0} more points in {1} to unlock {2}	 {2}'nin kilidini açmak için {1}'de {0} puan daha harcayýn
+$LOCKED_SKILL_TEXT_SINGLE	Spend {0} more point in {1} to unlock {2}	 {2}'nin kilidini açmak için {1}'de {0} puan daha harcayýn
+$LOCKING	LOCKING	 KÝLÝTLEME
+$Lockpicks Left	Bobby Pins Remaining	 Kalan Bobby Pinler
+$Log	Log	 Kayýt
+$LOG	STATS	 ÝSTATÝSTÝKLER
+$Logging you in...	Logging in...	 Giriþ...
+$Login failed.	Login failed.	 Giriþ baþarýsýz oldu.
+$LoginError_AgeRestrict	Parental controls have disabled online media sharing.	 Ebeveyn denetimleri çevrimiçi medya paylaþýmýný devre dýþý býraktý.
+$LoginError_BNET_CANNOT_CONNECT	Couldn't connect to the Bethesda.net servers.	 Bethesda.net sunucularýna baðlanýlamadý.
+$LoginError_BNET_CDP_AUTHENTICATION_FAILED	Could not login to the Bethesda.net server.	 Bethesda.net sunucusuna giriþ yapýlamadý.
+$LoginError_BNET_CLIENT_ERROR	The operation could not be completed.	 Operasyon tamamlanamadý.
+$LoginError_BNET_DNS_ERROR	Could not connect to the Bethesda.net servers.	 Bethesda.net sunucularýna baðlanýlamadý.
+$LoginError_BNET_INTERNAL	Could not log into the Bethesda.net servers.	 Bethesda.net sunucularýna giriþ yapýlamadý.
+$LoginError_BNET_INVALID_CREDENTIALS	The username/password is invalid.	 Kullanýcý adý/þifre geçersiz.
+$LoginError_BNET_OUTSIDE_GRACE_PERIOD	Please complete your Bethesda.net account registration and verify your email.	 Lütfen Bethesda.net hesap kaydýnýzý tamamlayýn ve e-posta adresinizi doðrulayýn.
+$LoginError_BNET_SERVER_ERROR	Could not login to the Bethesda.net servers.	 Bethesda.net sunucularýna giriþ yapýlamadý.
+$LoginError_BNET_TIMEOUT	The connection has timed out.	 Baðlantý zaman aþýmýna uðradý.
+$LoginError_BNET_UNACCEPTED_LEGAL_DOCUMENT	EULA hasn't been accepted.  Log in to Bethesda.net on your browser.	EULA kabul edilmedi. Tarayýcýnýzdan Bethesda.net'te oturum açýn.
+$LoginError_BNET_UNKNOWN_ERROR	The operation could not be completed.	 Operasyon tamamlanamadý.
+$LoginError_BNET_WINHTTP_INVALID_SERVER_RESPONSE	Could not connect to the Bethesda.net servers.	 Bethesda.net sunucularýna baðlanýlamadý.
+$LoginError_BNET_XBOX_ONE_USER_ERROR	Could not connect to the Bethesda.net servers.	 Bethesda.net sunucularýna baðlanýlamadý.
+$LoginError_Needs1stPartyUpdate	An update is required in order to continue.	 Devam etmek için güncelleme gerekiyor.
+$LoginError_NotSignedIn1stPartyDurango	You must be signed into an Xbox account to continue.	 Devam etmek için bir Xbox hesabýnda oturum açmalýsýnýz.
+$LoginError_NotSignedIn1stPartyOrbis	You must be signed into a Sony Entertainment Network account to continue.	 Devam etmek için bir Sony Entertainment Network hesabýnda oturum açmalýsýnýz.
+$LoginPage_Footer	Play with Mods at your own risk. You may experience issues with mods. You can disable Mods via Load Order and go back to your original save at anytime using Select Character in the Load menu. Downloading and playing with Mods is subject to our Terms of Service. Note: Achievements are disabled.	 Modlarla oynamak kendi sorumluluðunuzdadýr. Modlarla ilgili sorunlar yaþayabilirsiniz. Yükleme Sýrasý aracýlýðýyla Modlarý devre dýþý býrakabilir ve Yükle menüsündeki Karakter Seç'i kullanarak istediðiniz zaman orijinal kaydýnýza geri dönebilirsiniz. Modlarý indirmek ve oynamak Hizmet Þartlarýmýza tabidir. Not: Baþarýlar devre dýþýdýr.
+$LoginPage_Footer_PS4	Play with Mods at your own risk. You may experience issues with mods. You can disable Mods via Load Order and go back to your original save at anytime using Select Character in the Load menu. Downloading and playing with Mods is subject to our Terms of Service. Note: Trophies are disabled.	 Modlarla oynamak kendi sorumluluðunuzdadýr. Modlarla ilgili sorunlar yaþayabilirsiniz. Yükleme Sýrasý aracýlýðýyla Modlarý devre dýþý býrakabilir ve Yükle menüsündeki Karakter Seç'i kullanarak istediðiniz zaman orijinal kaydýnýza geri dönebilirsiniz. Modlarý indirmek ve oynamak Hizmet Þartlarýmýza tabidir. Not: Kupalar devre dýþýdýr.
+$LoginPage_Header	Sign in to explore mods from the Bethesda.net community. Signing in will link your Bethesda.net account for automatic logging in.	 Bethesda.net topluluðundaki modlarý keþfetmek için oturum açýn. Oturum açmak, otomatik oturum açma için Bethesda.net hesabýnýzý baðlayacaktýr.
+$Login_CreateNew	CREATE NEW ACCOUNT	 YENÝ HESAP OLUÞTUR
+$LOOK	LOOK	 BAKMAK
+$Look Horizontal Sensitivity	Look Sensitivity H	 Görünüm Hassasiyeti H
+$Look Horizontal Sensitivity Desc	Controls the general sensitivity of horizontal looking.	 Yatay görünümün genel hassasiyetini kontrol eder.
+$Look Sensitivity	Look Sensitivity	 Görünüm Hassasiyeti
+$Look Vertical Sensitivity	Look Sensitivity V	 Görünüm Hassasiyeti V
+$Look Vertical Sensitivity Desc	Controls the general sensitivity of vertical looking.	 Dikey bakmanýn genel hassasiyetini kontrol eder.
+$LOWER	LOWER	 DAHA DÜÞÜK
+$LUCK	LUCK	 ÞANS
+$LY	LY	 LY
+$MAG	MAG	 MAG
+$MAG_LRG	MAG	 MAG
+$MAGAZINE	MAGAZINE	 DERGÝ
+$MAGNETOSPHERE	MAGNETOSPHERE	 MANYETOSFER
+$MAGNITUDE	MAGNITUDE	 BÜYÜKLÜK
+$Main	MAIN	 ANA
+$MAIN MENU	MAIN MENU	 ANA MENÜ
+$Main Menu	Main Menu	 Ana menü
+$MainGameplay	MAIN GAMEPLAY	 ANA OYNANIÞ
+$MainGameplay_Activate	Activate	 Etkinleþtir
+$MainGameplay_AltAttack	Throw Grenade	 El bombasý at
+$MainGameplay_AutoMove	Auto-Move	 Otomatik hareket
+$MainGameplay_Back	Back	 Geri
+$MainGameplay_DataMenu	Open Data Menu	 Veri Menüsünü Aç
+$MainGameplay_Flashlight	Toggle Flashlight	 El Fenerini Aç/Kapat
+$MainGameplay_Forward	Forward	 Ýleri
+$MainGameplay_Jump	Jump	 Zýplamak
+$MainGameplay_Melee	Melee	 Yakýn Dövüþ
+$MainGameplay_Monocle	Hand Scanner/Flashlight	 El Tarayýcý/El Feneri
+$MainGameplay_Pause	Pause	 Duraklat
+$MainGameplay_PrimaryAttack	Primary Attack	 Birincil Saldýrý
+$MainGameplay_QuickHeal	Quick-Heal	 Çabuk iyileþme
+$MainGameplay_QuickInventory	Quick-Inventory	 Hýzlý Envanter
+$MainGameplay_Quickkey1	Quick-Key 1	 Hýzlý Tuþ 1
+$MainGameplay_Quickkey10	Quick-Key 10	 Hýzlý Tuþ 10
+$MainGameplay_Quickkey11	Quick-Key 11	 Hýzlý Tuþ 11
+$MainGameplay_Quickkey12	Quick-Key 12	Hýzlý Tuþ 12
+$MainGameplay_Quickkey2	Quick-Key 2	 Hýzlý Tuþ 2
+$MainGameplay_Quickkey3	Quick-Key 3	 Hýzlý Tuþ 3
+$MainGameplay_Quickkey4	Quick-Key 4	 Hýzlý Tuþ 4
+$MainGameplay_Quickkey5	Quick-Key 5	 Hýzlý Tuþ 5
+$MainGameplay_Quickkey6	Quick-Key 6	 Hýzlý Tuþ 6
+$MainGameplay_Quickkey7	Quick-Key 7	 Hýzlý Tuþ 7
+$MainGameplay_Quickkey8	Quick-Key 8	 Hýzlý Tuþ 8
+$MainGameplay_Quickkey9	Quick-Key 9	 Hýzlý Tuþ 9
+$MainGameplay_QuickkeyDown	Quick-Key Down	 Hýzlý Tuþ Aþaðý
+$MainGameplay_QuickkeyLeft	Quick-Key Left	 Hýzlý Tuþ Sol
+$MainGameplay_QuickkeyRight	Quick-Key Right	 Hýzlý Tuþ Sað
+$MainGameplay_Quickkeys	Open Quick-Keys	 Hýzlý Tuþlarý Aç
+$MainGameplay_QuickkeyUp	Quick-Key Up	 Hýzlý Tuþ Açma
+$MainGameplay_Quickload	Quick-Load	 Hýzlý yükleme
+$MainGameplay_QuickMap	Quick-Map	 Hýzlý Harita
+$MainGameplay_QuickMission	Quick-Mission	 Hýzlý Görev
+$MainGameplay_QuickPowers	Quick-Powers	 Hýzlý Güçler
+$MainGameplay_QuickRadio	Quick-Radio	 Hýzlý Radyo
+$MainGameplay_Quicksave	Quick-Save	 Hýzlý kaydet
+$MainGameplay_QuickShip	Quick-Ship	 Hýzlý Gemi
+$MainGameplay_QuickSkills	Quick-Skills	 Hýzlý Beceriler
+$MainGameplay_QuickStats	Quick-Status	 Hýzlý Durum
+$MainGameplay_ReadyWeapon	Toggle Sheathe Weapon	 Silahýn Kýlýfýný Deðiþtir
+$MainGameplay_ReloadWeapon	Reload Weapon	 Silahý doldur
+$MainGameplay_Run	Hold To Run	 Çalýþtýrmak için Basýlý Tutun
+$MainGameplay_SecondaryAttack	Secondary Attack	 Ýkincil Saldýrý
+$MainGameplay_Sneak	Sneak	 Gizlice
+$MainGameplay_Sprint	Sprint	 Sprint
+$MainGameplay_StarbornPower	Power	 Güç
+$MainGameplay_StrafeLeft	Strafe Left	 Strafe Sol
+$MainGameplay_StrafeRight	Strafe Right	 Strafe Sað
+$MainGameplay_ToggleAlwaysRun	Toggle Always-Run	 Her Zaman Çalýþtýr'ý aç/kapat
+$MainGameplay_TogglePOV	Toggle POV	 Bakýþ Açýsýný Deðiþtir
+$MainGameplay_WeaponReadyReload	Reload/Sheathe Weapon	 Silahý Yeniden Doldur/Kýlýfla
+$MainGameplay_ZoomIn	Camera Zoom In	 Kamerayý Yakýnlaþtýr
+$MainGameplay_ZoomOut	Camera Zoom Out	 Kamerayý Uzaklaþtýr
+$MainKey	Main Key	 Ana Anahtar
+$Make	Make	 Yapmak
+$MAKE	MAKE	 YAPMAK
+$MAKE_HOME_SHIP	Make Home Ship	 Ev Gemisi Yap
+$MALE	MALE	 ERKEK
+$MANAGE GOODS	Manage Goods	 Mallarý Yönet
+$ManualSaveMsg	Saving...	 Kaydediliyor...
+$Manufacturer_Generic	GENERIC	 GENEL
+$MAP	MAP	 HARÝTA
+$MapMarkerGenericTypeAsteroids	Asteroids	 Asteroitler
+$MapMarkerGenericTypeHazard	Hazard	 Tehlike
+$MapMarkerGenericTypeLandmark	Natural	 Doðal
+$MapMarkerGenericTypeLifeSigns	Life Signs	 Hayat Ýþaretleri
+$MapMarkerGenericTypeShip	Ship	 Gemi
+$MapMarkerGenericTypeSpaceLandmark	Anomaly	 Anomali
+$MapMarkerGenericTypeStation	Starstation	 Yýldýz istasyonu
+$MapMarkerGenericTypeStructure	Structure	 Yapý
+$MARKINGS	MARKINGS	 ÝÞARETLER
+$MASCULINE	MASCULINE	 ERÝL
+$MASS	MASS	 YIÐIN
+$mass	MASS	 YIÐIN
+$Mass (All)	Mass (All)	 Kütle (Tümü)
+$MASS (KG)	MASS (KG)	 KÜTLE (KG)
+$Mass (KG)	Mass (KG)	Kütle (KG)
+$MASS_LRG	MASS	 YIÐIN
+$Master	Master	 Usta
+$Master Audio Desc	Controls the overall game volume.	 Genel oyun ses düzeyini kontrol eder.
+$Mastered_Skill	You have mastered this skill.	 Bu beceride ustalaþtýnýz.
+$Material	Material	 Malzeme
+$Material Available	Material Available	 Mevcut Malzeme
+$MAX	MAX	 MAKS
+$MAX HEALTH INCREASED BY	MAX HEALTH INCREASED BY {0}	 MAKS SAÐLIK {0} ORANINDA ARTTI
+$Max Range Exceeded	Out Of Range	 Aralýk Dýþý
+$MAXIMUM_RANK	MAXIMUM RANK	 MAKSÝMUM SIRALAMA
+$Medical	Medical	 Týbbi
+$MEDIUM	MEDIUM	 ORTA
+$Melee	Bash/Power Attack	 Bash/Güç Saldýrýsý
+$MENU	MENU	 MENÜ
+$Menu3DModelRotation	MENU 3D MODEL ROTATION	 MENÜ 3D MODEL DÖNDÜRME
+$Menu3DModelRotation_Rotate	Rotate Model	 Modeli Döndür
+$Menu3DModelZoom	MENU 3D MODEL ZOOM	 MENÜ 3D MODEL YAKINLAÞTIRMA
+$Menu3DModelZoom_ZoomModelIn	Zoom Model In	 Modeli Yakýnlaþtýr
+$Menu3DModelZoom_ZoomModelOut	Zoom Model Out	 Modeli Uzaklaþtýr
+$MenuDisplayAutosaveName	AUTOSAVE	 OTOMATÝK KAYIT
+$MenuDisplayExitsaveName	EXITSAVE	 ÇIKIÞKAYDET
+$MenuDisplayQuicksaveName	QUICKSAVE	 HIZLI KAYDET
+$MenuDisplayUnknownLocationString	UNKNOWN	 BÝLÝNMEYEN
+$MESSAGES	MESSAGES	 MESAJLAR
+$Meter_Abbreviation	m	 M
+$MICROGEOMETRY	FACIAL FORMS 1	 YÜZ FORMLARI 1
+$MINE	MINE	 BANA AÝT
+$MINUTE	MINUTE	 DAKÝKA
+$MinuteAbbreviation	Min	 Min.
+$MINUTES	MINUTES	 DAKÝKA
+$Misc	MISC	 ÇEÞÝTLÝ
+$Missing Requirements	Missing Requirements	 Eksik Gereksinimler
+$MISSION	MISSION	 MÝSYON
+$MISSION COMPLETE	MISSION COMPLETE	 GÖREV TAMAMLANDI
+$Mission Data	MISSION DATA	 GÖREV VERÝLERÝ
+$MISSION FAILED	MISSION FAILED	 GÖREV BAÞARISIZ
+$Mission Info	MISSION INFO	 GÖREV BÝLGÝSÝ
+$Mission name	MISSION NAME	 MÝSYON ADI
+$MISSION REWARDS	MISSION REWARDS	 GÖREV ÖDÜLLERÝ
+$MISSION STATUS	MISSION STATUS	 GÖREV DURUMU
+$MISSION UPDATED	MISSION UPDATED	 GÖREV GÜNCELLENDÝ
+$MissionAdded	ADDED TO MISSION MENU	 GÖREV MENÜSÜNE EKLENDÝ
+$MissionComplete	MISSION COMPLETE	 GÖREV TAMAMLANDI
+$MissionFailed	MISSION FAILED	 GÖREV BAÞARISIZ
+$MissionMenu	MISSION MENU	 GÖREV MENÜSÜ
+$MissionMenu_ShowOnMap	Show On Map	 Haritada Göster
+$MissionNew	NEW MISSION	 YENÝ MÝSYON
+$MISSIONS	MISSIONS	 GÖREVLER
+$MissionUpdate	MISSION UPDATED	 GÖREV GÜNCELLENDÝ
+$MOBILITY	MOBILITY	 HAREKETLÝLÝK
+$MOD SLOTS	MOD SLOTS	 MOD YUVALARI
+$ModCurrentlyInstalled	Already installed	 Zaten yüklenmiþ
+$ModHasNoRequirements	This mod requires no components to install.	 Bu modun yüklenmesi için hiçbir bileþen gerekmez.
+$MODIFIER	MODIFIER	 DEÐÝÞTÝRÝCÝ
+$MODIFY	MODIFY	 DEÐÝÞTÝR
+$MODIFY BODY SHAPE	MODIFY BODY SHAPE	 VÜCUT ÞEKLÝNÝ DEÐÝÞTÝRÝN
+$MODIFY MODE	MODIFY MODE	 MODU DEÐÝÞTÝR
+$MODS	MODS	 MODLAR
+$MODS_LRG	MODS	 MODLAR
+$Mods	Mods	 Modlar
+$MODS LOADED	MODS LOADED	MODLAR YÜKLENDÝ
+$ModSpace:	Total:	 Toplam:
+$Mod_AccountSettings	OPTIONS	 SEÇENEKLER
+$Mod_Details	DETAILS	 DETAYLAR
+$Mod_LibraryDelete	DELETE	 SÝLMEK
+$Mod_LibraryDisable	DISABLE	 DEVRE DIÞI BIRAKMAK
+$Mod_LibraryEnable	ENABLE	 OLANAK VERMEK
+$Mod_MyLibrary	LOAD ORDER	 YÜKLEME SÝPARÝÞÝ
+$Mod_Reorder	REORDER	 YENÝDEN SÝPARÝÞ VER
+$Mod_Search	SEARCH	 ARAMAK
+$MonitorSelect	Select Monitor	 Monitörü Seçin
+$MonitorSelectDesc	Sets the monitor used in full screen borderless mode.	 Tam ekran kenarlýksýz modda kullanýlan monitörü ayarlar.
+$Monocle	Hand Scanner	 El Tarayýcý
+$Moon	MOON	 AY
+$MOON OF VECTERA	MOON OF VECTERA	 VEKTERA'NIN AYI
+$MOONS	MOONS	 AYLAR
+$More...	More...	 Daha fazla...
+$MostFavorited	Most Favorited	 En Beðenilenler
+$MostPopularAllTime	Most Popular - All Time	 En Popüler - Tüm Zamanlar
+$MostPopularThisMonth	Most Popular - This Month	 En Popüler - Bu Ay
+$MostPopularThisWeek	Most Popular - This Week	 En Popüler - Bu Hafta
+$MostPopularToday	Most Popular - Today	 En Popüler - Bugün
+$Mouse Look Sensitivity	Mouse Look Sensitivity	 Fare Görünümü Hassasiyeti
+$Mouse Look Sensitivity Desc	Controls the sensitivity of the looking controls via the mouse.	 Görünüm kontrollerinin hassasiyetini fare aracýlýðýyla kontrol eder.
+$Mouse Move	Mouse Move	 Fare Hareketi
+$Move	Move	 Taþýnmak
+$MOVE	MOVE	 TAÞINMAK
+$MoveMarker	Move Marker	 Ýþaretçiyi Taþý
+$MoveMarkerQuestion	Move your current marker or remove it?	 Mevcut iþaretçiniz taþýnsýn mý yoksa kaldýrýlsýn mý?
+$MultiActivate_A_QCAButton	Take Item	 Öðeyi Al
+$MultiActivate_B_QCBButton	Perk Action 2	 Avantaj Eylemi 2
+$MultiActivate_X_QCXButton	Open Transfer Menu	 Transfer Menüsünü Aç
+$MultiActivate_Y_QCYButton	Perk Action 1	 Avantaj Eylemi 1
+$MUSCULAR	MUSCULAR	 KAS
+$Music	Music	 Müzik
+$Music Audio Desc	Controls the volume of the background music.	 Arka plan müziðinin ses düzeyini kontrol eder.
+$My Creations	My Creations	 Kreasyonlarým
+$My Favorites	My Favorites	 Favorilerim
+$My Home Ship	Home Ship	 Ana Sayfa Gemi
+$My Library	My Library	 Benim kutuphanem
+$My Perks	MY PERKS	 AVANTAJLARIM
+$MY SHIP	MY SHIP	 GEMÝM
+$MY SHIPS	MY SHIPS ({0}/{1})	 GEMÝLERÝM ({0}/{1})
+$NAME	NAME	 ÝSÝM
+$Name:	Name:	 Ýsim:
+$NAME_CHARACTER	NAME CHARACTER	 ADI KARAKTER
+$NavigateObjectives	NAVIGATE OBJECTIVES	 HEDEFLERE GÝRÝÞ YAPIN
+$Near Plane	Near Plane	 Uçaða Yakýn
+$Near Start	Near Start	 Baþlangýca Yakýn
+$Need Updates	Updates Available	 Güncellemeler mevcut
+$NEEDED PWR	NEEDED PWR	GEREKLÝ GÜÇ
+$Neutral	Neutral	 Doðal
+$NEW	NEW	 YENÝ
+$NEW DATA	NEW DATA	 YENÝ VERÝ
+$New Game Difficulty	New Game Difficulty	 Yeni Oyun Zorluðu
+$NEW ORGANIC DISCOVERED	NEW ORGANIC DISCOVERED	 YENÝ ORGANÝK KEÞFEDÝLDÝ
+$New Perks	ALL PERKS	 TÜM AVANTAJLAR
+$NewsOptInMessage	Send me news about Bethesda!	 Bana Bethesda ile ilgili haberleri gönder!
+$NEW_LINK:	NEW LINK:	 YENÝ BAÐLANTI:
+$NEXT	NEXT	 SONRAKÝ
+$NEXT HAIL	NEXT HAIL	 SONRAKÝ SEVGÝ
+$NEXT PERK	NEXT RANK	 SONRAKÝ SIRALAMA
+$NEXTCATEGORY	NEXT CATEGORY	 SONRAKÝ KATEGORÝ
+$NEXTVARIANT	NEXT VARIANT	 SONRAKÝ VARYANT
+$NEXT_KEY	NEXT KEY	 SONRAKÝ ANAHTAR
+$No	No	 HAYIR
+$NO	NO	 HAYIR
+$No content found.	No content found.	 Ýçerik bulunamadý.
+$NO CONTRABAND	NO CONTRABAND ON SHIP	 GEMÝDE KAÇAK MALZEME YOK
+$No docking	No docking	 Yerleþtirme yok
+$NO ITEMS	NO ITEMS	 ÜRÜN YOK
+$NO SYSTEM SELECTED	NO SYSTEM SELECTED	 HÝÇBÝR SÝSTEM SEÇÝLMEDÝ
+$NoDeviceSelected	You have not selected a storage device.  You will need to select one before you can save.  Until then, Autosave is disabled.	 Bir depolama cihazý seçmediniz. Kaydetmeden önce birini seçmeniz gerekecek. O zamana kadar Otomatik kaydetme devre dýþý býrakýlýr.
+$NoGravDrivePower	No Grav Drive Power	 Yerçekimi Tahrik Gücü Yok
+$NoGravityToJump	Add power to the Grav Drive before jumping.	 Atlamadan önce Grav Drive'a güç ekleyin.
+$NoJumpDuringScene	Cannot jump when being hailed.	 Seslenildiðinde atlanamaz.
+$Nominal	Nominal	 Nominal
+$NoModSelected	No mod selected	 Mod seçilmedi
+$NON-BINARY	NON-BINARY	 ÝKÝLÝ OLMAYAN
+$NONE	NONE	 HÝÇBÝRÝ
+$None	None	 Hiçbiri
+$NoProfileSelected	You have not signed into a profile. You will need to sign into a profile in order to save progress. Do you want to sign in now?	 Bir profile giriþ yapmadýnýz. Ýlerlemeyi kaydetmek için bir profilde oturum açmanýz gerekecektir. Þimdi oturum açmak istiyor musunuz?
+$Normal	Normal	 Normal
+$NOSHIPSAVAILABLE	NO SHIPS AVAILABLE	 GEMÝ MEVCUT DEÐÝL
+$NOT INSTALLED	NOT INSTALLED	 YÜKLÜ DEÐÝL
+$NotEnoughFuelToJump	You don't have enough fuel to execute your route.	 Rotanýzý gerçekleþtirmek için yeterli yakýtýnýz yok.
+$NO_ITEM_EQUIPPED	NO WEAPON EQUIPPED	 SÝLAH DONANIMLI DEÐÝL
+$O2	O2	 O2
+$O2 RATING	O2 RATING	 O2 DEÐERLENDÝRMESÝ
+$Object Fade	Object Fade	 Nesne Solmasý
+$Object Fade Desc	Controls the distance at which world objects fade in.	Dünya nesnelerinin yavaþ yavaþ kaybolduðu mesafeyi kontrol eder.
+$OFF	OFF	 KAPALI
+$OK	OK	 TAMAM
+$ON	ON	 AÇIK
+$OPEN	OPEN	 AÇIK
+$Open	OPEN	 AÇIK
+$OPEN_BUILDER	Ship Builder	 Gemi Ýnþaatçýsý
+$OPEN_PLANET_MAP	OPEN PLANET MAP	 GEZEGEN HARÝTASINI AÇ
+$Operating Cost:	Operating Cost:	 Ýþletme maliyeti:
+$OPTION1	1	 1
+$OPTION2	2	 2
+$OPTIONS	OPTIONS	 SEÇENEKLER
+$OR	OR	 VEYA
+$Orbit	Orbit	 Yörünge
+$Orbital	Orbital	 Orbital
+$OTHER	OTHER	 DÝÐER
+$OUTBOUND TRANSMISSION	OUTBOUND TRANSMISSION	 GÝDEN ÝLETÝM
+$OUTGOING RESOURCES	OUTGOING RESOURCES	 GÝDEN KAYNAKLAR
+$Outpost	Outpost	 Karakol
+$OUTPOST	OUTPOST	 ileri karakol
+$OUTPOST CARGO LINK	OUTPOST CARGO LINK	 KARGO KARGO BAÐLANTISI
+$OUTPOST DEPLOYED:	OUTPOST DEPLOYED:	 KARAYOL AÇILDI:
+$Outpost FlyCam Distance Speed	Outpost FlyCam Distance Speed	 Karakol FlyCam Mesafe Hýzý
+$Outpost FlyCam Distance Speed Desc	Outpost FlyCam speed for zooming.	 Yakýnlaþtýrma için Karakol FlyCam hýzý.
+$Outpost FlyCam Rotation Speed	Outpost FlyCam Rotation Speed	 Karakol FlyCam Dönüþ Hýzý
+$Outpost FlyCam Rotation Speed Desc	Outpost FlyCam speed for rotating.	 Karakol FlyCam'in dönme hýzý.
+$Outpost FlyCam Starting Distance	Outpost FlyCam Starting Distance	 Karakol FlyCam Baþlangýç Mesafesi
+$Outpost FlyCam Starting Distance Desc	Default starting distance for Outpost FlyCam.	 Outpost FlyCam için varsayýlan baþlangýç mesafesi.
+$Outpost FlyCam Starting Pitch	Outpost FlyCam Starting Pitch	 Karakol FlyCam Baþlangýç Sahasý
+$Outpost FlyCam Starting Pitch Desc	Default starting pitch for Outpost FlyCam (degrees).	 Outpost FlyCam için varsayýlan baþlangýç adýmý (derece).
+$Outpost FlyCam Translation Speed	Outpost FlyCam Translation Speed	 Karakol FlyCam Çeviri Hýzý
+$Outpost FlyCam Translation Speed Desc	Outpost FlyCam speed for panning.	 Kaydýrma için Karakol FlyCam hýzý.
+$Outpost Item Rotation Speed	Outpost Item Rotation Speed	 Karakol Eþyasý Dönüþ Hýzý
+$Outpost Item Rotation Speed Desc	Item rotation speed when building/placing items.	 Öðeleri oluþtururken/yerleþtirirken öðe dönüþ hýzý.
+$OutpostName	{1} Outpost {2}	 {1} Karakol {2}
+$OutpostQuickMenu	Hold to Open Quick Menu	 Hýzlý Menüyü Açmak için Basýlý Tutun
+$OUTPOSTS	OUTPOSTS	 KARAYOLLAR
+$OutpostTargetMenu_ChangeLink	Do you want to change outpost link?	 Karakol baðlantýsýný deðiþtirmek istiyor musunuz?
+$OutpostTargetMenu_CreateLink	Are you sure you want to link these?	 Bunlarý baðlamak istediðinizden emin misiniz?
+$OutpostTargetMenu_RemoveLink	Do you want to remove link?	Baðlantýyý kaldýrmak istiyor musunuz?
+$Outpost_AvailableOutposts	Available Outposts	 Mevcut Karakollar
+$Outpost_AvailableTargets	Available Targets	 Mevcut Hedefler
+$Outpost_ConfirmBreakLinks	Confirm breaking invalid connections?	 Geçersiz baðlantýlarýn kesilmesini onaylýyor musunuz?
+$Outpost_Rename	Enter outpost name	 Karakol adýný girin
+$Outpost_WarnBreakLinks	Some connections will become invalid by changing to this item.	 Bu öðeye geçildiðinde bazý baðlantýlar geçersiz hale gelecektir.
+$OutputLink	Output Link	 Çýkýþ Baðlantýsý
+$OVERALL	Overall	 Etraflý
+$OVERFLOW	Overflow	 Taþma
+$Overlays	Overlays	 Kaplamalar
+$Overwrite?	Overwrite?	 Üzerine yazýlsýn mý?
+$OWNED	OWNED	 SAHÝP OLDUÐUMUZ
+$OWNED [NEEDS GAME RESET]	OWNED [READY TO ENABLE]	 SAHÝP OLDUÐUMUZ [ETKÝNLEÞTÝRMEYE HAZIR]
+$OWNED [NOT DOWNLOADED]	OWNED [NOT DOWNLOADED]	 SAHÝP OLDUÐUMUZ [ÝNDÝRÝLMEMÝÞTÝR]
+$PACK	PACK	 AMBALAJ
+$PAN	PAN	 TAVA
+$PAN DISTANCE	PAN DISTANCE	 PAN MESAFESÝ
+$PART	PART	 PARÇA
+$PartiallyExplored	Partially Explored	 Kýsmen Keþfedildi
+$Password	Password	 Þifre
+$Pause	Pause	 Duraklat
+$PC	 PC	 bilgisayar
+$PENETRATION	PENETRATION	 PENETRASYON
+$PEOPLE	PEOPLE	 ÝNSANLAR
+$PERCEPTION	PERCEPTION	 ALGI
+$Performance mode	Performance Mode	 Performans modu
+$Performance mode Desc	When enabled, reduces the resolution ratio to 50% and enables dynamic resolution.	 Etkinleþtirildiðinde çözünürlük oranýný %50'ye düþürür ve dinamik çözünürlüðü etkinleþtirir.
+$PerksLowReqs	Requirements not met.	 Þartlar saðlanmadý.
+$Perk_NextRankAvailable	NEXT RANK AVAILABLE!	 SONRAKÝ SIRA MEVCUT!
+$PERSONNEL RECORD	PERSONNEL RECORD	 PERSONEL KAYDI
+$PERSUASION	PERSUASION	 ÝKNA
+$Persuasion_AutoWin	AUTO-PERSUADE	 OTOMATÝK ÝKNA
+$PharmaceuticalLab	Pharmaceutical Lab	 Ýlaç Laboratuvarý
+$PHOTO GALLERY	PHOTO GALLERY	 FOTOÐRAF GALERÝSÝ
+$PhotoMode	PHOTO MODE	 FOTOÐRAF MODU
+$PHOTOMODE	PHOTO MODE	 FOTOÐRAF MODU
+$PhotoMode_Cancel	Exit	 çýkýþ
+$PhotoMode_Down	Down	 Aþaðý
+$PhotoMode_HeadTrack	Toggle Headtracking	 Headtracking'i aç / kapat
+$PhotoMode_Left	Left	 Sol
+$PhotoMode_LShoulder	Previous Category	 Önceki Kategori
+$PhotoMode_MoveDown	Move Camera Down	 Kamerayý aþaðý indir
+$PhotoMode_MoveUp	Move Camera Up	 Kamerayý Yukarý Taþý
+$PhotoMode_NextMode	Next Mode	 Sonraki Mod
+$PhotoMode_Reset	Reset Settings	 Ayarlarý Sýfýrla
+$PhotoMode_Right	Right	 Sað
+$PhotoMode_RShoulder	Next Category	 Sonraki Kategori
+$PhotoMode_Snapshot	Snapshot	 Enstantane fotoðraf
+$PhotoMode_ToggleHelmet	Toggle Helmet	 Kaský Deðiþtir
+$PhotoMode_ToggleUI	Toggle UI	 Kullanýcý arayüzünü deðiþtir
+$PhotoMode_Up	Up	Yukarý
+$PHY	PHYS	 FÝZÝK
+$Physical	Physical	 Fiziksel
+$PHYSICAL	PHYSICAL	FÝZÝKSEL
+$PHYSICAL_SKILLS	PHYSICAL	FÝZÝKSEL
+$PHYSICAL_SKILLS_ADVANCED	Advanced Physical skills	 Geliþmiþ Fiziksel beceriler
+$PHYSICAL_SKILLS_EXPERT	Expert Physical skills	 Uzman Fiziksel beceriler
+$PHYSICAL_SKILLS_MASTER	Master Physical skills	 Usta Fiziksel beceriler
+$Pickpocket	Pickpocket	 Yankesici
+$PICKPOCKET_EMPTYITEMMESSAGE	NO ITEMS TO STEAL	 ÇALINACAK ÜRÜN YOK
+$PIPBOY	PIP-BOY	 PIP-BOY
+$Pipboy	Pip-Boy	 Pip-Boy
+$PipboyColorB	Pip-Boy Color B	 Pip-Boy Renk B
+$PipboyColorG	Pip-Boy Color G	 Pip-Boy Renk G
+$PipboyColorR	Pip-Boy Color R	 Pip-Boy Renkli R
+$PipboyConditionCategory	STATUS	 DURUM
+$PipboyPerksCategory	PERKS	 AVANTAJLAR
+$PipboySPECIALCategory	SPECIAL	 ÖZEL
+$PLACE	PLACE	 YER
+$Place	Place	 Yer
+$PlaceMarker	Place Marker	 Yer Ýþareti
+$PLACEMARKER	PLACE MARKER	 YER ÝÞARETÝ
+$PLACE_BEACON	PLACE BEACON	 YER ÝÞARETÝ
+$PLANET	PLANET	 GEZEGEN
+$Planet	PLANET	 GEZEGEN
+$PlanetNotLandable	This location cannot be landed on.	 Bu konuma inilemiyor.
+$PLANETS	PLANETS	 GEZEGENLER
+$PLANETS WITH LIFE	PLANETS WITH LIFE	 HAYAT ÝÇEREN GEZEGENLER
+$PLAY	PLAY	 OYNAMAK
+$Player	Player	 oyuncu
+$PLAYER SHIP	PLAYER SHIP	 OYUNCU GEMÝSÝ
+$Player Voice	Player Voice	 Oyuncu Sesi
+$PlayerSetMarkerName	Custom Destination	 Özel Hedef
+$PlayerSetMarkerReplaceRemove	Replace or Remove Custom Destination?	 Özel Hedef Deðiþtirilsin mi Kaldýrýlsýn mý?
+$PLOT	ADD DESTINATION	 HEDEF EKLE
+$PLOT AND TRANSFER	TRANSFER FROM OUTPOST	 KARAYOLDAN TRANSFER
+$PLOT COURSE	SET COURSE	 ROTA AYARLA
+$PLOT HOLD ADD	HOLD TO ADD ORBIT	 YÖRÜNGE EKLEMEK ÝÇÝN BASILI TUTUN
+$PLOT HOLD REMOVE	HOLD TO REMOVE ORBIT	 YÖRÜNGEYÝ KALDIRMAK ÝÇÝN BASILI TUTUN
+$PLOT LANDINGMARKER	SET LANDING TARGET	 ÝNÝÞ HEDEFÝNÝ BELÝRLEYÝN
+$PLOT ORBIT	ADD ORBIT	 YÖRÜNGE EKLE
+$PLOT TRANSFER HOLD	HOLD TO PLOT AND TRANSFER	 ARSA VE DEVÝR ÝÇÝN TUTUN
+$POCKS	POCKMARKS	 POCK ÝÞARETÝ
+$POINT AVAILABLE	POINT AVAILABLE	 NOKTA MEVCUT
+$POINTS AVAILABLE	POINTS AVAILABLE	 MEVCUT NOKTALAR
+$Pose	Pose	 Poz
+$Pose Category	Pose Category	 Poz Kategorisi
+$POSITION	POSITION	 KONUM
+$Power	Power	 Güç
+$POWER	POWER	 GÜÇ
+$POWER NAMES	TOGGLE POWER NAMES	 GÜÇ ADLARINI DEÐÝÞTÝR
+$Power up GRav Drive	POWER UP GRAV DRIVE	 GRAV SÜRÜCÜNÜ GÜÇLENDÝRÝN
+$Power:	Power:	 Güç:
+$PowerArmorMarkerName	Power Armor	 Güç Zýrhý
+$PowerLink	Power Link	 Güç Baðlantýsý
+$POWERS	POWERS	 GÜÇLER
+$POWERS_ACTIVATEESSENCE	USE QUANTUM ESSENCE	 KUANTUM ÖZÜ KULLANIN
+$Powers_EssenceTooltip	Quantum Essences grant invulnerability but wipe all Normal Skill Challenge Progress	Kuantum Özleri hasar almazlýk saðlar ancak tüm Normal Beceri Mücadelesi Ýlerlemesini siler
+$POWERS_HOVER	(ACTIVE)	 (AKTÝF)
+$POWERS_UNDISCOVERED	{0} UNDISCOVERED TEMPLES	 {0} KEÞFEDÝLMEMÝÞ TAPINAK
+$PrecogResponse_Empty	(Future unclear...)	 (Geleceði belirsiz...)
+$PREPARE	PREPARE	 HAZIRLANMAK
+$Present	Present	 Sunmak
+$PRESENTS	PRESENTS	 HEDÝYELER
+$PRESETS	PRESETS	 ÖN AYARLAR
+$Press any button to start	Press any button to start	 Baþlamak için herhangi bir düðmeye basýn
+$PREV	PREV	 ÖNCEKÝ
+$PREV PERK	PREV RANK	 ÖNCEKÝ SIRALAMA
+$PREVCATEGORY	PREVIOUS CATEGORY	 ÖNCEKÝ KATEGORÝ
+$PREVIOUS_KEY	PREVIOUS KEY	 ÖNCEKÝ ANAHTAR
+$PREVVARIANT	PREVIOUS VARIANT	 ÖNCEKÝ VARYANT
+$PrimaryAttack	Attack	 Saldýrý
+$PRODUCES	PRODUCES	 ÜRETÝR
+$Produces:	Produces:	 Üretir:
+$PRODUCES:	PRODUCES:	 ÜRETÝR:
+$PRODUCTION	PRODUCTION	 ÜRETME
+$Progress	Progress	 Ýlerlemek
+$ProjectName	Project Name	 proje Adý
+$PRONOUN	PRONOUN	 ZAMÝR
+$PURCHASE SHIP	Purchase	 Satýn almak
+$PURCHASE SHIP CANNOT PILOT PROMPT	Your Piloting Skill is too low for this ship class. Purchase Ship for {1} Credits?	 Pilotluk Beceriniz bu gemi sýnýfý için çok düþük. {1} Kredi karþýlýðýnda Gemi satýn alýnsýn mý?
+$PURCHASE SHIP PROMPT	Purchase Ship for {1} Credits?	 {1} Kredi karþýlýðýnda Gemi satýn alýnsýn mý?
+$QUANTITY	QUANTITY	 MÝKTAR
+$Quantity:	Quantity:	 Miktar:
+$QuantityWarning_BadTransaction	WARNING: YOU WILL GET LESS THAN THE ITEM WAS WORTH	 UYARI: ÜRÜNÜN DEÐERÝNDEN DAHA AZINI ALACAKSINIZ
+$Quantity_BarterBuy	SELECT AMOUNT TO BUY	 SATIN ALINACAK MÝKTARI SEÇÝN
+$Quantity_BarterSell	SELECT AMOUNT TO SELL	 SATILACAK MÝKTARI SEÇÝN
+$Quantity_ContainerTransfer	SELECT AMOUNT	 MÝKTAR SEÇÝN
+$Quantity_InventoryDrop	SELECT AMOUNT TO DROP	 DÜÞECEK MÝKTARI SEÇÝN
+$QUEST	MISSION	 MÝSYON
+$Quest	Mission	 Misyon
+$QUESTS	MISSIONS	 GÖREVLER
+$Queued...	Queued...	 Sýraya alýndý...
+$Quick Inventory	Quick Inventory	 Hýzlý Envanter
+$Quick Magic	Quick Magic	 Hýzlý Büyü
+$Quick Map	Quick Map	 Hýzlý Harita
+$Quick Stats	Quick Stats	 Hýzlý Ýstatistikler
+$QuickContainer	QUICK CONTAINER	 HIZLI KONTEYNER
+$QuickContainerTransfer	TRANSFER	 AKTAR
+$QuickContainer_Down	Down	 Aþaðý
+$QuickContainer_Left	Left	 Sol
+$QuickContainer_Right	Right	 Sað
+$QuickContainer_Up	Up	Yukarý
+$QuickData	Quick Data	 Hýzlý Veri
+$QuickHeal	Quick Heal	 Çabuk iyileþme
+$QuickInventory	Quick Inventory	 Hýzlý Envanter
+$Quickkeys	Favorites	 Favoriler
+$Quickload	Quickload	 Hýzlý yükleme
+$QuickMap	Quick Map	 Hýzlý Harita
+$QuickMission	Quick Mission	 Hýzlý Görev
+$QuickRadio	Quick Radio	 Hýzlý Radyo
+$QUICKSAVE	QUICKSAVE	 HIZLI KAYDET
+$Quicksave	Quicksave	Hýzlý kaydet
+$Quicksaving...	Quicksaving...	 Hýzlý kaydetme...
+$QuicksavingMsg	Quicksaving...	 Hýzlý kaydetme...
+$QuickShip	Quick Ship	 Hýzlý Gemi
+$QuickStats	Quick Stats	 Hýzlý Ýstatistikler
+$Quit	Quit	 Çýkýþ yapmak
+$QUIT	QUIT	 ÇIKIÞ YAPMAK
+$QuitToDesktop	Quit to desktop?	 Masaüstünden çýkýlsýn mý?
+$QuitToMainMenu	Save and quit to main menu?	 Kaydedip ana menüden çýkýlsýn mý?
+$RAD RESISTANCE	RAD RESISTANCE	 RAD DÝRENCÝ
+$Radaway	RADAWAY	 RADAWAY
+$Radio	Radio	 Radyo
+$RADIO	RADIO	 RADYO
+$RadioOff	TURN OFF RADIO	 RADYOYU KAPATIN
+$RADIUS	RADIUS	 YARIÇAP
+$RADS	RADS	 RADS
+$RAISE	RAISE	 ARTIRMAK
+$RANDOM	RANDOM	 RASTGELE
+$Randomize	Randomize	 Rastgeleleþtir
+$RANGE	RANGE	 MENZÝL
+$RANGE_LRG	RANGE	 MENZÝL
+$Range	Range	 Menzil
+$RANK	RANK	 RÜTBE
+$Rank {0}	Rank {0}	 {0}. sýra
+$Rank {0} Available	Rank {0} Available	 Sýra {0} Mevcut
+$Rank:	Rank:	 Rütbe:
+$RANK_AVAILABLE	RANK AVAILABLE	 SIRALAMA MEVCUT
+$RANK_UP	RANK UP	 RÜTBE
+$Rare	Rare	 Nadir
+$Rate	Rate	 Oran
+$RATE_OF_FIRE	RATE OF FIRE	 ATEÞ HIZI
+$RATING	RATING	 DEÐERLENDÝRME
+$REACTOR	REACTOR	 REAKTÖR
+$Reactor power	Reactor Power	 Reaktör Gücü
+$REACTOR POWER	REACTOR POWER	 REAKTÖR GÜCÜ
+$READ	READ	 OKUMAK
+$ReadyWeapon	Ready/Reload	 Hazýr/Yeniden Yükle
+$RECENT	RECENT	 SON
+$RECENTER CAMERA	Recenter Camera	 Daha Yakýn Kamera
+$RECIPES	RECIPES	 TARÝFLER
+$RECLAIM	RECLAIM	 GERÝ AL
+$RECORD_LOCATOR	RECORD LOCATOR	 KAYIT BULUCU
+$REDO	REDO	 YENÝLE
+$REFINE	REFINE	 RAFÝNE
+$Refuel	REFUEL	 YAKIT ÝKLÝMÝ
+$Refuel Hold	HOLD TO REFUEL	 YAKIT DOLDURMAK ÝÇÝN TUTUN
+$Refuel Ship	REFUEL SHIP	 YAKIT GEMÝSÝ
+$Refuels	REFUELS	 YAKIT ÝKLÝMLERÝ
+$REGISTERED	Registered	 Kayýtlý
+$REGISTER_CONFIRM	Register ship for {1} credits?	 {1} kredi karþýlýðýnda gönderim kaydedilsin mi?
+$REGISTER_SHIP	REGISTER	 KAYIT OLMAK
+$REGISTRATION FORM	REGISTRATION FORM	 KAYIT FORMU
+$REJECT	REJECT	 REDDETMEK
+$ReloadWeapon	Reload Weapon	 Silahý doldur
+$REMAINING PROGRESS	REMAINING PROGRESS	 KALAN ÝLERLEME
+$Remap_BindingConflictsWarning	Controls binding conflicts were found. Exit anyway?	 Kontrol baðlayýcý çakýþmalar bulundu. Yine de çýkýlsýn mý?
+$Remap_BindingRequiredHint	* Denotes actions that require a binding.	 * Baðlama gerektiren eylemleri belirtir.
+$Remap_ButtonNotAllowedForEvent	This key is not allowed for this mapping.	 Bu eþleme için bu anahtara izin verilmiyor.
+$Remap_ButtonReservedError	That button is reserved.	 Bu düðme ayrýlmýþtýr.
+$Remap_ChordedButtonContextError	Chorded buttons are not allowed for this context.	Bu baðlamda akortlu düðmelere izin verilmez.
+$Remap_ChordedButtonDeviceError	Chorded buttons are not allowed for this device.	 Bu cihazda akortlu tuþlara izin verilmiyor.
+$Remap_InvalidDeviceError	Remap interrupted by invalid device state or device mismatch.	 Geçersiz cihaz durumu veya cihaz uyumsuzluðu nedeniyle yeniden eþleme kesintiye uðradý.
+$Remap_MainBindingOverrideWarning	Button is in use as main binding for another entry. Proceed with remap?	 Düðme baþka bir giriþ için ana ciltleme olarak kullanýlýyor. Yeniden eþlemeye devam edilsin mi?
+$Remap_MissingBindingsError	Missing bindings for required actions.	 Gerekli eylemler için baðlamalar eksik.
+$Remap_Prompt	Press a button to map to this action.	 Bu eylemi eþleþtirmek için bir düðmeye basýn.
+$REMOVE	REMOVE	 KALDIRMAK
+$REMOVE LINK	REMOVE LINK	 BAÐLANTIYI KALDIR
+$REMOVE PLOT	REMOVE DESTINATION	 HEDEFÝ KALDIR
+$REMOVE PLOT ORBIT	REMOVE ORBIT	 Yörüngeyi Kaldýr
+$RemoveMarker	Remove Marker	 Ýþaretçiyi Kaldýr
+$RemoveMoonDestination	You already have a destination set for this moon.  Would you like to remove it?	 Bu ay için zaten belirlenmiþ bir varýþ noktanýz var. Bunu kaldýrmak ister misiniz?
+$RemoveOutpost	Remove Outpost	 Karakolu Kaldýr
+$RemovePlanetDestination	You already have a destination set for this planet.  Would you like to remove it?	 Bu gezegen için zaten belirlenmiþ bir varýþ noktanýz var. Bunu kaldýrmak ister misiniz?
+$RemoveShipPrompt	Are you sure you want to remove this ship from your ownership?	 Bu gemiyi mülkiyetinizden çýkarmak istediðinizden emin misiniz?
+$REMOVE_ALL	REMOVE ALL	 HEPSÝNÝ KALDIR
+$REMOVE_ALL_HOLD	HOLD TO REMOVE ALL	 TÜMÜNÜ KALDIRMAK ÝÇÝN BASILI TUTUN
+$REMOVE_LAST	REMOVE LAST	 SON KALDIR
+$RENAME	RENAME	 YENÝDEN ÝSÝMLENDÝRMEK
+$RENAME SHIP	RENAME SHIP	 GEMÝYÝ YENÝDEN ADLANDIRIN
+$Repair	Repair	 Tamirat
+$REPAIR	REPAIR	 TAMÝRAT
+$REPAIR HULL	REPAIR HULL	 GÖVDE ONARIM
+$REPAIR MODULES	REPAIR MODULES	 ONARIM MODÜLLERÝ
+$REPAIR WITH	REPAIR WITH	 ÝLE ONARIM
+$RepairConfirm	Repair part using:	 Aþaðýdakileri kullanarak parçayý onarýn:
+$REPLACE	REPLACE	 YER DEÐÝÞTÝRMEK
+$Report	Report	 Rapor
+$Reported	Reported	 Bildirildi
+$Reporting...	Reporting...	 Raporlanýyor...
+$ReportModCat_Explicit	Explicit Content	 Açýk Ýçerik
+$ReportModCat_General	Other	 Diðer
+$ReportModCat_Harassment	Harassment	 Taciz
+$ReportModCat_Impersonation	Impersonation of User	Kullanýcýnýn Kimliðine Bürünme
+$ReportModCat_PrivateInfo	Use of Private Information	 Özel Bilgilerin Kullanýmý
+$ReportModCat_Profanity	Profanity	 Küfür
+$ReportModCat_Racial	Racial Discrimination	 Irkçýlýk
+$ReportModCat_Religious	Religious Discrimination	 Dini Ayrýmcýlýk
+$ReportModCat_Slander	Slander	 Ýftira
+$ReportModCat_Spam	Spam	 Ýstenmeyen e-posta
+$ReportMod_ChooseCategory	What Terms of Service violation is this mod being reported for?	 Bu mod hangi Hizmet Þartlarý ihlali nedeniyle rapor ediliyor?
+$ReportMod_Confirm	Report mod for explicit content, general abuse or violations of Code of Conduct/Terms of Service?	 Açýk içerik, genel suiistimal veya Davranýþ Kurallarý/Hizmet Þartlarý ihlallerini rapor etmek ister misiniz?
+$Req:	Req: Rank 	 Talep: Sýralama
+$REQUIRED ATTRIBUTES:	REQUIRED ATTRIBUTES:	 GEREKLÝ ÖZELLÝKLER:
+$REQUIRED SKILLS:	REQUIRED SKILLS:	 ÝSTENEN YETENEKLER:
+$REQUIRED:	REQUIRED:	 GEREKLÝ:
+$RequiredMaterials	Required Materials	 Gerekli malzemeler
+$RequiredResearch	Required Research	 Gerekli Araþtýrma
+$RequiredSkills	Required Skills	 Ýstenen yetenekler
+$REQUIREMENTS	REQUIREMENTS	 GEREKSÝNÝMLER
+$REQUIREMENTS:	REQUIREMENTS:	 GEREKSÝNÝMLER:
+$REQUIRES	REQUIRES	 GEREKLÝLÝKLER
+$REQUIRES:	REQUIRES:	 GEREKLÝLÝKLER:
+$Requires_Scanning	Requires Scanning	 Tarama Gerektirir
+$Research_AllMaterialsWillBeConsumed	All materials supplied for research will be consumed.	 Araþtýrma için saðlanan tüm materyaller tüketilecektir.
+$Research_AllResearchComplete	All Research Complete	 Tüm Araþtýrmalar Tamamlandý
+$RESEARCH_FILTER_CAN_COMPLETE	FILTER (HAVE ALL MATERIALS)	 FÝLTRE (TÜM MALZEMELER VARDIR)
+$RESEARCH_FILTER_CAN_CONTRIBUTE	FILTER (HAVE AVAILABLE MATERIALS)	 FÝLTRE (MALZEMELER MEVCUTTUR)
+$RESEARCH_FILTER_CAN_PROGRESS	FILTER (UNLOCKED PROJECTS)	 FÝLTRE (KÝLÝDÝ AÇILMIÞ PROJELER)
+$RESEARCH_FILTER_COMPLETED_ONLY	FILTER (COMPLETED ONLY)	 FÝLTRE (SADECE TAMAMLANDI)
+$RESEARCH_FILTER_HIDE_COMPLETED	FILTER (HIDING COMPLETED)	 FÝLTRE (GÝZLEME TAMAMLANDI)
+$RESEARCH_FILTER_NONE	FILTER (NONE)	 FÝLTRE (YOK)
+$Research_InProgress	Projects In Progress	 Devam Eden Projeler
+$Research_Materials	Research Materials	 Araþtýrma Materyalleri
+$Research_NewProjectUnlocked	New research projects unlocked!	 Yeni araþtýrma projelerinin kilidi açýldý!
+$Research_NoneInProgress	No Research In Progress	 Devam Eden Araþtýrma Yok
+$Research_OverflowDetails	Research progress overflow will be distributed through other aspects of the project.	Araþtýrma ilerlemesi akýþý projenin diðer yönlerine daðýtýlacaktýr.
+$Research_ProjectComplete	PROJECT COMPLETE	 PROJE TAMAMLANDI
+$Research_ProjectCompleted	Research project {0} has been completed.	 {0} araþtýrma projesi tamamlandý.
+$Research_Projects	Research Projects	 Araþtýrma projeleri
+$RESEARCH_SORT_DEFAULT	SORT (DEFAULT)	 SIRALAMA (VARSAYILAN)
+$RESEARCH_SORT_INPUT_AMOUNT	SORT (INPUT AMOUNT)	 SIRALAMA (GÝRÝÞ MÝKTARI)
+$RESEARCH_SORT_NAME	SORT (NAME)	 SIRALAMA (ÝSÝM)
+$RESEARCH_SORT_STATE	SORT (PROGRESS)	 SIRALAMA (ÝLERLEME)
+$Research_Tree	Research Tree	 Araþtýrma Aðacý
+$Reset	Reset	 Sýfýrla
+$RESET	RESET	 SIFIRLA
+$RESET CAMERA	RESET CAMERA	 KAMERAYI SIFIRLA
+$RESET CATEGORY	RESET CATEGORY	 KATEGORÝSÝ SIFIRLA
+$Reset settings to default values?	Reset settings to default values?	 Ayarlar varsayýlan deðerlere sýfýrlansýn mý?
+$RESETTRADE	RESET TRADE	 TÝCARETÝ SIFIRLAYIN
+$Resistance	Resistance	 Rezistans
+$RESOURCES	RESOURCES	 KAYNAKLAR
+$RESPOND	RESPOND	 YANITLAMAK
+$ResultsFor	Results For	 Sonuçlar
+$RESUME	RESUME	 SÜRDÜRMEK
+$RETURN	RETURN	 GERÝ DÖNMEK
+$RETURN TO BUILDER	RETURN TO BUILDER	 ÝNÞAATÇIYA DÖNÜÞ
+$RETURN TO CONTROLS	RETURN TO CONTROLS	 KONTROLLERE GERÝ DÖN
+$Return to Seat	Return to Seat	 Koltuða Dönüþ
+$RETURNTOGAME	RETURN TO GAME	 OYUNA DÖN
+$REV	REV	 GERÝ
+$REVERT	REVERT	 GERÝ DÖN
+$Reward	REWARD	 ÖDÜL
+$REWARD TITLE	REWARD	 ÖDÜL
+$Rewards	Rewards	 Ödüller
+$REWARDS	REWARDS	 ÖDÜLLER
+$rng	Range	 Menzil
+$ROF	Fire Rate	 Ateþ Hýzý
+$ROF_LRG	ROF	 ÇATI
+$ROTATE	ROTATE	 DÖNDÜR
+$ROTATE_DIGIPICK	ROTATE	 DÖNDÜR
+$ROUND	ROUND	 YUVARLAK
+$ROUNDS	ROUNDS	 YUVARLAKLAR
+$ROUNDS_LRG	ROUNDS	 YUVARLAKLAR
+$Run	Run	 Koþmak
+$RyujinIndustries	Ryujin Industries	 Ryujin Endüstrileri
+$SAFETY	DEFENSE	 SAVUNMA
+$Sanctuary	Sanctuary	 Barýnak
+$SANCTUARY	WORKSHOPS	 ATÖLYELER
+$Satellite	SATELLITE	 UYDU
+$SATURATION	SATURATION	 DOYMA
+$Saturation	Saturation	 Doyma
+$SAVE	SAVE	 KAYDETMEK
+$SAVE AND EXIT	SAVE AND EXIT	 KAYDET VE ÇIK
+$SAVE CORRUPT	SAVE CORRUPT	 BOZUKLARI KAYDET
+$Save in Pipboy	Save in Pip-Boy	 Pip-Boy'da kaydet
+$SAVE OBSOLETE	SAVE OBSOLETE	 ESKÝ KAYDET
+$Save on Pause	Save on Pause	 Duraklatýldýðýnda Kaydet
+$Save on Pause Desc	Enables an autosave when pausing the game after the specified time.	 Belirtilen süreden sonra oyunu duraklattýðýnýzda otomatik kaydetmeyi etkinleþtirir.
+$Save on Rest	Save on Rest	Dinlenmede Kaydet
+$Save on Rest Desc	Enables autosaving on sleeping.	 Uyurken otomatik kaydetmeyi etkinleþtirir.
+$Save on Travel	Save on Travel	 Seyahatte Tasarruf Edin
+$Save on Travel Desc	Enables autosaving on fast travel.	 Hýzlý seyahatte otomatik kaydetmeyi etkinleþtirir.
+$Save on Wait	Save on Wait	 Beklemede Kaydet
+$Save on Wait Desc	Enables autosaving on waiting.	 Beklemede otomatik kaydetmeyi etkinleþtirir.
+$Save over this game?	Save over this game?	 Bu oyun kaydedilsin mi?
+$SaveGameDeviceError	There was an error accessing the device.  Please try again.	 Cihaza eriþimde bir hata oluþtu. Lütfen tekrar deneyin.
+$SaveGameError_MissingFile	The savegame cannot be loaded because it is missing.	 Kayýtlý oyun eksik olduðundan yüklenemiyor.
+$SaveGameError_MissingFileHeader	Missing File	 Eksik Dosya
+$SaveGameFailed	Failed to create save game.	 Kayýtlý oyun oluþturulamadý.
+$SaveGameFailedOutOfDiskSpace	Failed to create save game.  You are low on space to save your progress. Please delete some of your existing saved content.	 Kayýtlý oyun oluþturulamadý. Ýlerlemenizi kaydetmek için alanýnýz azaldý. Lütfen mevcut kayýtlý içeriðinizin bir kýsmýný silin.
+$SaveGameOutOfDiskSpace	Caution!  You are low on space to save your progress. Please delete some of your existing saved content.	 Dikkat! Ýlerlemenizi kaydetmek için alanýnýz azaldý. Lütfen mevcut kayýtlý içeriðinizin bir kýsmýný silin.
+$SaveUploaded	Save Uploaded	 Yükleneni Kaydet
+$SaveUploadNotAllowed 	Save Upload Not Allowed	 Kaydet Yüklemeye Ýzin Verilmiyor
+$Saving...	Saving...	 Kaydediliyor...
+$SB_ALL_SYSTEMS_NOMINAL	All Systems Nominal	 Tüm Sistemler Nominal
+$SB_ERRORBODY_COST	Ship cost exceeds available credits.	 Gemi maliyeti mevcut kredileri aþýyor.
+$SB_ERRORBODY_COUNT	Ship has too many modules.	 Geminin çok fazla modülü var.
+$SB_ERRORBODY_DOCKER_CANNOT_REACH_COCKPIT	Docker modules need to have an interior connection to the cockpit.	 Docker modüllerinin kokpite dahili bir baðlantýsý olmasý gerekir.
+$SB_ERRORBODY_DOCKER_INVALID_POSITION	Docker modules need to be on an outside edge of the ship.	 Docker modüllerinin geminin dýþ kenarýnda olmasý gerekir.
+$SB_ERRORBODY_DUPLICATION_EXCEEDED	Too many modules selected for duplication. Deselect modules before trying again.	 Çoðaltýlmak üzere çok fazla modül seçildi. Tekrar denemeden önce modüllerin seçimini kaldýrýn.
+$SB_ERRORBODY_LANDINGBAY_CANNOT_REACH_COCKPIT	Landing bay needs to be connected to the cockpit.	Ýniþ alanýnýn kokpite baðlanmasý gerekiyor.
+$SB_ERRORBODY_LANDINGENGINE_NOT_ALIGNED_WITH_LANDINGBAY	Landing gear touch down points must be aligned with landing bay.	 Ýniþ takýmýnýn konma noktalarý iniþ alanýyla ayný hizada olmalýdýr.
+$SB_ERRORBODY_LIMIT_EXCEEDED	This action would exceed the module limit. Delete modules before adding more.	 Bu eylem modül sýnýrýný aþacaktýr. Daha fazlasýný eklemeden önce modülleri silin.
+$SB_ERRORBODY_MODULE_BELOW_LANDINGBAY	All modules must be above the landing bay.	 Tüm modüller iniþ alanýnýn üzerinde olmalýdýr.
+$SB_ERRORBODY_NOT_ATTACHED	Ship has unattached modules.	 Geminin baðýmsýz modülleri vardýr.
+$SB_ERRORBODY_REACTOR_CLASS	Ship contains modules that exceed reactor class.	 Gemi, reaktör sýnýfýný aþan modüller içeriyor.
+$SB_ERRORBODY_SHIP_TOO_HEAVY_TO_GRAVJUMP	Ship is too heavy to grav jump. Reduce mass or increase grav jump thrust.	 Gemi yerçekimiyle atlamak için çok aðýr. Kütleyi azaltýn veya yerçekimi sýçrama itme kuvvetini artýrýn.
+$SB_ERRORBODY_SIZE	Ship exceeds max length, width, or height.	 Gemi maksimum uzunluðu, geniþliði veya yüksekliði aþýyor.
+$SB_ERRORHEADER_COST	Ship Cost	 Gemi Maliyeti
+$SB_ERRORHEADER_COUNT	Ship Module Count	 Gemi Modülü Sayýsý
+$SB_ERRORHEADER_DOCKER_CANNOT_REACH_COCKPIT	Cannot reach cockpit from docker	 Liman iþçisinden kokpite ulaþýlamýyor
+$SB_ERRORHEADER_DOCKER_INVALID_POSITION	Invalid Docker Module Position	 Geçersiz Docker Modülü Konumu
+$SB_ERRORHEADER_LANDINGBAY_CANNOT_REACH_COCKPIT	Cannot reach Cockpit from landing bay	 Ýniþ alanýndan Kokpit'e ulaþýlamýyor
+$SB_ERRORHEADER_LANDINGENGINE_NOT_ALIGNED_WITH_LANDINGBAY	Landing gear misaligned	 Ýniþ takýmý yanlýþ hizalanmýþ
+$SB_ERRORHEADER_MODULE_BELOW_LANDINGBAY	Module below Landing Bay	 Ýniþ Körfezinin altýndaki modül
+$SB_ERRORHEADER_NOT_ATTACHED	Unattached Modules	 Eksiz Modüller
+$SB_ERRORHEADER_REACTOR_CLASS	Ship Reactor Class	 Gemi Reaktör Sýnýfý
+$SB_ERRORHEADER_SHIP_TOO_HEAVY_TO_GRAVJUMP	Need More Grav Jump Thrust	 Daha Fazla Yer Çekimi Atlama Ýtiþine Ýhtiyaç Var
+$SB_ERRORHEADER_SIZE	Ship Size	 Gemi Boyutu
+$SB_LIMITBODY_EXCESS_POWER_ENGINE	Ship is using too much power for engines. Reduce engine count.	 Gemi motorlar için çok fazla güç kullanýyor. Motor sayýsýný azaltýn.
+$SB_LIMITBODY_EXCESS_POWER_WEAPON	Ship is using too much power for weapons. Reduce weapon count.	 Gemi silahlar için çok fazla güç kullanýyor. Silah sayýsýný azaltýn.
+$SB_LIMITBODY_MAX_COCKPIT	Only one cockpit is allowed.	 Sadece bir kokpite izin veriliyor.
+$SB_LIMITBODY_MAX_DOCKER	Only one docker is allowed.	 Yalnýzca bir liman iþçisine izin verilir.
+$SB_LIMITBODY_MAX_GRAV_DRIVE	Only one grav drive is allowed.	Yalnýzca bir yerçekimi tahrikine izin verilir.
+$SB_LIMITBODY_MAX_LANDING_BAY	Only one landing bay is allowed.	 Yalnýzca bir iniþ alanýna izin verilir.
+$SB_LIMITBODY_MAX_REACTOR	Only one reactor is allowed.	 Yalnýzca bir reaktöre izin verilir.
+$SB_LIMITBODY_MAX_SHIELD	Only one shield module is allowed..	 Yalnýzca bir kalkan modülüne izin verilir.
+$SB_LIMITBODY_MAX_WEAPONS	Ship has too many weapons.	 Gemide çok fazla silah var.
+$SB_LIMITBODY_MAX_WEAPONS_TYPES	Ship has more than three different weapons.	 Geminin üçten fazla farklý silahý var.
+$SB_LIMITBODY_MIN_ENGINE	Ship has too few engines.	 Gemide çok az motor var.
+$SB_LIMITBODY_MIN_FUEL_TANK	Ship does not have at least one fuel tank.	 Gemide en az bir yakýt tanký bulunmamaktadýr.
+$SB_LIMITBODY_MIN_LANDING_GEAR	Ship has too few landing gears.	 Gemide çok az iniþ takýmý var.
+$SB_LIMITBODY_MISSING_COCKPIT	Ship is missing a cockpit.	 Geminin kokpiti eksik.
+$SB_LIMITBODY_MISSING_DOCKER	Ship is missing a docker.	 Gemide bir liman iþçisi eksik.
+$SB_LIMITBODY_MISSING_GRAV_DRIVE	Ship is missing a grav drive.	 Gemide yerçekimi tahriki eksik.
+$SB_LIMITBODY_MISSING_LANDING_BAY	Ship is missing a landing bay.	 Geminin iniþ yeri eksik.
+$SB_LIMITBODY_MISSING_REACTOR	Ship is missing a reactor.	 Gemide bir reaktör eksik.
+$SB_LIMITBODY_MISSING_SHIELD	Ship is missing a shield.	 Geminin kalkaný eksik.
+$SB_LIMITBODY_NOT_ENOUGH_TURN_POWER	Reduce mass or add engines to improve mobility.	 Hareket kabiliyetini artýrmak için kütleyi azaltýn veya motor ekleyin.
+$SB_LIMITHEADER_EXCESS_POWER_ENGINE	Excess Engine Power Usage	 Aþýrý Motor Gücü Kullanýmý
+$SB_LIMITHEADER_EXCESS_POWER_WEAPON	Excess Weapon Power Usage	 Aþýrý Silah Gücü Kullanýmý
+$SB_LIMITHEADER_MAX_COCKPIT	Multiple Cockpits	 Çoklu Kokpit
+$SB_LIMITHEADER_MAX_DOCKER	Multiple Dockers	 Çoklu Docker'lar
+$SB_LIMITHEADER_MAX_GRAV_DRIVE	Multiple Grav Drives	 Çoklu Yerçekimi Sürücüleri
+$SB_LIMITHEADER_MAX_LANDING_BAY	Multiple Landing Bays	 Çoklu Ýniþ Bölmeleri
+$SB_LIMITHEADER_MAX_REACTOR	Multiple Reactors	 Çoklu Reaktörler
+$SB_LIMITHEADER_MAX_SHIELD	Multiple Shields	 Çoklu Kalkanlar
+$SB_LIMITHEADER_MAX_WEAPONS	Maximum Weapon Count	 Maksimum Silah Sayýsý
+$SB_LIMITHEADER_MIN_ENGINE	Minimum Engine Count	 Minimum Motor Sayýsý
+$SB_LIMITHEADER_MIN_FUEL_TANK	Minimum Fuel Tank Count	 Minimum Yakýt Tanký Sayýsý
+$SB_LIMITHEADER_MIN_LANDING_GEAR	Minimum Landing Gear Count	 Minimum Ýniþ Takýmý Sayýsý
+$SB_LIMITHEADER_MISSING_COCKPIT	Missing Cockpit	 Eksik Kokpit
+$SB_LIMITHEADER_MISSING_DOCKER	Missing Docker	 Eksik Docker
+$SB_LIMITHEADER_MISSING_GRAV_DRIVE	Missing Grav Drive	 Yerçekimi Sürücüsü Eksik
+$SB_LIMITHEADER_MISSING_LANDING_BAY	Missing Landing Bay	Eksik Ýniþ Körfezi
+$SB_LIMITHEADER_MISSING_REACTOR	Missing Reactor	 Eksik Reaktör
+$SB_LIMITHEADER_MISSING_SHIELD	Missing Shield	 Eksik Kalkan
+$SB_LIMITHEADER_NOT_ENOUGH_TURN_POWER	Low Mobility	 Düþük Hareketlilik
+$SB_WEAPONBODY_MISSING_ASSIGNMENT	Ship is missing a weapon assignment.	 Gemide silah atamasý eksik.
+$SB_WEAPONBODY_WEAPONS_MUST_BE_DIFFERENT	Ship does not have at least three different weapon types.	 Gemide en az üç farklý silah türü bulunmamaktadýr.
+$SB_WEAPONBODY_WEAPONS_UNASSIGNED	Ship has weapons that must be assigned to a group.	 Geminin bir gruba atanmasý gereken silahlarý var.
+$SB_WEAPONHEADER_MISSING_ASSIGNMENT	Missing Weapon Assignment	 Eksik Silah Atamasý
+$SB_WEAPONHEADER_WEAPONS_MUST_BE_DIFFERENT	Weapon Types	 Silah Türleri
+$SB_WEAPONHEADER_WEAPONS_UNASSIGNED	Unassigned Weapon	 Atanmamýþ Silah
+$SCALE	SCALE	 ÖLÇEK
+$SCAN	SCAN	 TARAMA
+$SCAN ARCHIVE	Scan Archive	 Arþivi Tara
+$SCAN COMPLETE	100% SCANNED	 %100 TARANMIÞ
+$SCAN COMPLETE CONTRABAND	SCAN COMPLETE	 TARAMA TAMAMLANDI
+$SCAN DATA TYPE	Scan Data Type	 Veri Türünü Tara
+$SCAN EVADED	SCAN EVADED	 TARAMADAN KAÇINILDI
+$SCAN IN PROGRESS	SCAN IN PROGRESS	 TARAMA DEVAM EDÝYOR
+$SCAN PASSED	SCAN PASSED	 TARAMA BAÞARILI
+$SCAN UNAVAILABLE	Scan Unavailable	 Tarama Kullanýlamýyor
+$ScanMapMarker_Unscanned	UNKNOWN	 BÝLÝNMEYEN
+$SCANNED	SCANNED	 TARANDI
+$scanned	scanned	 taranmýþ
+$SCANNING LANDED MUST ORBIT	GO TO ORBIT TO SCAN	 TARAMA ÝÇÝN YÖRÜNGEYE GÝT
+$SCANNING OUT OF RANGE	SHIP NOT IN RANGE TO SCAN	 GEMÝ TARAMA MENZÝLÝNDE DEÐÝL
+$sCantSaveNow	You cannot save right now.	 Þu anda kaydedemezsiniz.
+$SCAN_RANGE:	SCAN RANGE:	 TARAMA ARALIÐI:
+$SCAR	SCAR	 YARA ÝZÝ
+$SCARS	SCARS	 YARALAR
+$SCIENCE	SCIENCE	 BÝLÝM
+$Science	Science	 Bilim
+$SCIENCE_SKILLS	SCIENCE	 BÝLÝM
+$SCIENCE_SKILLS_ADVANCED	Advanced Science skills	 Ýleri Bilim becerileri
+$SCIENCE_SKILLS_EXPERT	Expert Science skills	 Uzman Bilim becerileri
+$SCIENCE_SKILLS_MASTER	Master Science skills	 Yüksek Lisans Bilim becerileri
+$Scope	SCOPE	 KAPSAM
+$Scope_Steady	Steady	 Sabit durmak
+$SCRAP	SCRAP	 HURDA
+$Scrap	Scrap	 Hurda
+$SCRAP VALUE	SCRAP VALUE	 HURDA DEÐERÝ
+$SCROLL	SCROLL	 TASLAK
+$SCULPT	SCULPT	 ÞEKÝL VERMEK
+$Search	Search	 Aramak
+$Season Pass	Season Pass	 Sezon geçiþi
+$SECOND	SECOND	 SANÝYE
+$SecondaryAttack	Aim/Block	 Niþan al/Engelle
+$Security	SECURITY	 GÜVENLÝK
+$SECURITYLEVEL	SECURITY LEVEL	 GÜVENLÝK SEVÝYESÝ
+$SecurityMenuConfirmEliminateUnusedKeys	Eliminate Unused Keys? This will cost a Digipick.	 Kullanýlmayan Anahtarlar Ortadan Kaldýrýlsýn mý? Bu bir Digipick'e mal olacak.
+$SecurityMenuConfirmExit	Exit?  Re-entering will cost a Digipick.	Çýkýþ? Yeniden giriþ Digipick'e mal olacaktýr.
+$Security_CancelPick	Cancel Pick	 Seçimi Ýptal Et
+$Security_EliminateUnusedKeys	Eliminate Unused Keys	 Kullanýlmayan Anahtarlarý Ortadan Kaldýrýn
+$Security_Left	Rotate Left	 Sola dön
+$Security_Right	Rotate Right	 Saða Döndür
+$SELECT	SELECT	 SEÇME
+$Select	SELECT	 SEÇME
+$SELECT A QUICKSLOT	SELECT A QUICKSLOT	 BÝR HIZLI SLOT SEÇÝN
+$SELECT CHARACTER	SELECT CHARACTER	 KARAKTER SEÇÝN
+$SELECT DESTINATION	SELECT DESTINATION	 VARIÞ YERÝNÝ SEÇÝN
+$SELECT MODE	SELECT MODE	 MOD SEÇ
+$SELECT PROFILE	SELECT PROFILE	 PROFÝL SEÇ
+$SELECT SYSTEM	SELECT SYSTEM	 SÝSTEM SEÇÝN
+$SELECT TARGET	Select Target	 Hedef seç
+$SELECTALL	SELECT ALL	 HEPSÝNÝ SEÇ
+$SELECTE PROFILE	SELECT PROFILE	 PROFÝL SEÇ
+$SelectL	Select	 Seçme
+$Selfie	Selfie	 Özçekim
+$SELL	SELL	 SATMAK
+$SELL ALL	SELL ALL	 HEPSÝNÝ SAT
+$SELL FROM SHIP INVENTORY	SELL FROM SHIP INVENTORY	 GEMÝ ENVANTERÝNDEN SATIÞ
+$SELL SHIP	SELL	 SATMAK
+$SELL SHIPS	SELL SHIPS	 GEMÝ SAT
+$SELLFROM	SELL FROM	 SATIÞ NOKTASI
+$SET COURSE	Set Course	 Rotayý Ayarla
+$SET COURSE HOLD	Hold to Set Course	 Rotayý Ayarlamak için Basýlý Tutun
+$SET MISSION ACTIVE	SET MISSION ACTIVE	 GÖREVÝ ETKÝN AYARLA
+$SetCourseToBody	Set course to {1}?	 Rota {1}'a ayarlansýn mý?
+$SettingDifficultyGuideText	All Difficulty levels affect damage and the chance to encounter Legendary enemies.	 Tüm Zorluk seviyeleri hasarý ve Efsanevi düþmanlarla karþýlaþma þansýný etkiler.
+$SETTINGS	SETTINGS	 AYARLAR
+$Settings	Settings	 Ayarlar
+$SETTINGS_CATEGORY_ACCESSIBILITY	ACCESSIBILITY	 ULAÞILABÝLÝRLÝK
+$SETTINGS_CATEGORY_AUDIO	AUDIO	 SES
+$SETTINGS_CATEGORY_CONTROLS	CONTROLS	 KONTROLLER
+$SETTINGS_CATEGORY_CONTROL_MAPPINGS	BINDINGS	 BAÐLAMALAR
+$SETTINGS_CATEGORY_DISPLAY	DISPLAY	 GÖRÜNTÜLEMEK
+$SETTINGS_CATEGORY_GAMEPLAY	GAMEPLAY	 OYNANIÞ
+$SETTINGS_CATEGORY_INTERFACE	INTERFACE	 ARAYÜZ
+$Settings_ContactShadowQuality	Contact Shadows	 Ýletiþim Gölgeleri
+$Settings_ContactShadowQuality Desc	Sets the quality of contact shadows.	 Temas gölgelerinin kalitesini ayarlar.
+$Settings_CrowdQuality	Crowd Density	 Kalabalýk Yoðunluðu
+$Settings_CrowdQuality Desc	Sets the density of crowds.	 Kalabalýðýn yoðunluðunu ayarlar.
+$Settings_DisplayResolution	Window Size	 Pencere boyutu
+$Settings_DisplayResolution Desc	Sets the game resolution in windowed mode.	 Pencereli modda oyun çözünürlüðünü ayarlar.
+$Settings_DynamicResolution	Dynamic Resolution	 Dinamik Çözünürlük
+$Settings_DynamicResolution Desc	When enabled, this allows the game resolution to be reduced dynamically in high intensity scenes in order to maintain framerate.	 Etkinleþtirildiðinde bu, kare hýzýný korumak için yüksek yoðunluklu sahnelerde oyun çözünürlüðünün dinamik olarak azaltýlmasýna olanak tanýr.
+$Settings_FullScreenMode	Borderless Full Screen	Kenarlýksýz Tam Ekran
+$Settings_FullScreenMode Desc	Sets the game to be in either full screen borderless mode or windowed mode.	 Oyunu tam ekran kenarlýksýz modda veya pencereli modda olacak þekilde ayarlar.
+$Settings_GraphicPreset	Graphics Preset	 Grafik Ön Ayarý
+$Settings_GraphicPreset Desc	Sets the overall graphics quality.	 Genel grafik kalitesini ayarlar.
+$Settings_GrassQuality	Grass Quality	 Çim Kalitesi
+$Settings_GrassQuality Desc	Sets the quality and lushness of grass.	 Çim kalitesini ve gürlüðünü ayarlar.
+$Settings_GTAOQuality	GTAO Quality	 GTAO Kalitesi
+$Settings_GTAOQuality Desc	Sets the quality of ambient occlusion.	 Ortam týkanmasýnýn kalitesini ayarlar.
+$Settings_IndirectLighting	Indirect Lighting	 Dolaylý Aydýnlatma
+$Settings_IndirectLighting Desc	Sets the quality of indirect lighting.	 Dolaylý aydýnlatmanýn kalitesini ayarlar.
+$Settings_MotionBlur	Motion Blur	 Hareket bulanýklýðý
+$Settings_MotionBlur Desc	Sets the quality of motion blur.	 Hareket bulanýklýðýnýn kalitesini ayarlar.
+$Settings_ParticleQuality	Particle Quality	 Partikül Kalitesi
+$Settings_ParticleQuality Desc	Sets the quality of particle lighting.	 Parçacýk aydýnlatmasýnýn kalitesini ayarlar.
+$Settings_Quality_Custom	Custom	 Gelenek
+$Settings_Quality_High	High	 Yüksek
+$Settings_Quality_Low	Low	 Düþük
+$Settings_Quality_Medium	Medium	 Orta
+$Settings_Quality_Off	Off	 Kapalý
+$Settings_Quality_Ultra	Ultra	 Ultra
+$Settings_Reflections	Reflections	 Yansýmalar
+$Settings_Reflections Desc	Sets the quality of reflections.	 Yansýmalarýn kalitesini ayarlar.
+$Settings_ResolutionRatio	Render Resolution Scale	 Render Çözünürlüðü Ölçeði
+$Settings_ResolutionRatio Desc	Controls what percentage of the display resolution to render the game at. Reduce to increase performance.	 Oyunun ekran çözünürlüðünün yüzde kaçýnda oluþturulacaðýný kontrol eder. Performansý artýrmak için azaltýn.
+$Settings_ShadowQuality	Shadow Quality	 Gölge kalitesi
+$Settings_ShadowQuality Desc	Sets the quality of shadows.	 Gölgelerin kalitesini ayarlar.
+$Settings_Sharpening	Sharpening	 Bileme
+$Settings_Sharpening Desc	Sets the sharpness applied by the upscaling method	 Yükseltme yöntemiyle uygulanan keskinliði ayarlar
+$Settings_Upscaling	Upscaling	 Yükseltme
+$Settings_UpscalingDesc	Sets the resolution upscaling method between AMD FidelityFX Super Resolution 2 (FSR2), AMD FidelityFX Contrast Adaptive Sharpening (CAS), or Off.  When Off, the game will always run at full resolution.	Çözünürlük yükseltme yöntemini AMD FidelityFX Süper Çözünürlük 2 (FSR2), AMD FidelityFX Kontrast Uyarlamalý Keskinleþtirme (CAS) veya Kapalý arasýnda ayarlar. Kapalýyken oyun her zaman tam çözünürlükte çalýþýr.
+$Settings_VolumetricLighting	Volumetric Lighting	 Hacimsel Aydýnlatma
+$Settings_VolumetricLighting Desc	Sets the quality of volumetric lighting.	 Hacimsel aydýnlatmanýn kalitesini ayarlar.
+$Settings_VsyncEnabled	VSync	 VSync
+$Settings_VsyncEnabled Desc	When enabled, the game will cap the framerate to monitor refresh rate, preventing screen tearing.	 Etkinleþtirildiðinde oyun, yenileme hýzýný izlemek için kare hýzýný sýnýrlayarak ekranýn yýrtýlmasýný önler.
+$SETTLED SYSTEMS - FREESTAR COLLECTIVE SPACE	SETTLED SYSTEMS - FREESTAR COLLECTIVE SPACE	 YERLEÞÝK SÝSTEMLER - FREESTAR TOPLU ALAN
+$SETTLEMENTS	SETTLEMENTS	 YERLEÞMELER
+$SetToSurvivalConfirmMessage	"Survival adds additional challenges including no fast travel, saving only when you sleep, increased lethality, sickness, fatigue & more. See the ""Survival"" entry in Help for details."	" Hayatta kalma, hýzlý seyahat etmeme, yalnýzca uyurken tasarruf etme, artan ölümcüllük, hastalýk, yorgunluk ve daha fazlasýný içeren ek zorluklar ekler. Ayrýntýlar için Yardým'daki ""Hayatta Kalma"" giriþine bakýn."
+$SEX	SEX	 SEKS
+$SEXID	Sex Id	 Seks Kimliði
+$Shadow Distance	Shadow Distance	 Gölge Mesafesi
+$SHD	SHD	 SHD
+$SHE_HER	SHE/HER	 O/O
+$SHIELD	SHIELD	 KALKAN
+$SHIELD DAMAGE	SHIELD DMG	 KALKAN HASARI
+$SHIELD OFFLINE	SHIELD OFFLINE	 SHIELD ÇEVRÝMDIÞI
+$shieldedcapacity	SHIELDED CAPACITY:	 KORUNMALI KAPASÝTE:
+$SHIELDS	SHIELDS	 KALKANLAR
+$SHIELDWT	Shielded	 Korumalý
+$SHIP	SHIP	 GEMÝ
+$Ship	Ship	 Gemi
+$SHIP INFORMATION	SHIP INFORMATION	 GEMÝ BÝLGÝLERÝ
+$Ship Overview	Ship Overview	 Gemiye Genel Bakýþ
+$Ship Reticle Sensitivity	Ship Reticle Sensitivity	 Gemi Niþangah Hassasiyeti
+$Ship Reticle Sensitivity Desc	Adjust the sensitivity of the ship reticle.	 Gemi niþangahýnýn hassasiyetini ayarlayýn.
+$SHIP SPECS	SHIP SPECS	 GEMÝ ÖZELLÝKLERÝ
+$SHIP SYSTEMS	SHIP SYSTEMS	 GEMÝ SÝSTEMLERÝ
+$SHIP TANK	SHIP TANK	 GEMÝ TANKI
+$SHIP TOO LARGE	SHIP TOO LARGE	GEMÝ ÇOK BÜYÜK
+$ShipBuilderUnresolvedErrors	Ship cannot be finalized due to errors in Flight Check. Exit will undo all changes. Exit Ship Builder?	 Uçuþ Kontrolündeki hatalar nedeniyle gemi sonlandýrýlamýyor. Çýkýþ tüm deðiþiklikleri geri alacaktýr. Ship Builder'dan çýkýlsýn mý?
+$ShipBuilderUnresolvedErrorsTitle	UNRESOLVED ERRORS	 ÇÖZÜLMEYEN HATALAR
+$ShipBuilder_Add	SHIPBUILDER (ADD)	 GEMÝ ÝNÞAATI (EKLE)
+$ShipBuilder_Add_Change	Change Piece	 Parçayý Deðiþtir
+$ShipBuilder_Add_Down	Down	 Aþaðý
+$ShipBuilder_Add_Flip	Flip Piece	 Çevirme Parçasý
+$ShipBuilder_Add_NextCategory	Next Category	 Sonraki Kategori
+$ShipBuilder_Add_NextModule	Next Module	 Sonraki Modül
+$ShipBuilder_Add_NextVariant	Next Variant	 Sonraki Varyant
+$ShipBuilder_Add_PrevCategory	Previous Category	 Önceki Kategori
+$ShipBuilder_Add_PrevModule	Previous Module	 Önceki Modül
+$ShipBuilder_Add_PrevVariant	Previous Variant	 Önceki Varyant
+$ShipBuilder_Add_Up	Up	Yukarý
+$ShipBuilder_Color	SHIPBUILDER (COLOR)	 GEMÝ YAPIMCISI (RENKLÝ)
+$ShipBuilder_Color_Accept	Accept	 Kabul etmek
+$ShipBuilder_Color_Cancel	Cancel	 Ýptal etmek
+$ShipBuilder_Color_Default	Default	 Varsayýlan
+$ShipBuilder_Color_NextColor	Next Color	 Sonraki Renk
+$ShipBuilder_Color_NextControl	Next Control	 Sonraki Kontrol
+$ShipBuilder_Color_NextValue	Next Value	 Sonraki Deðer
+$ShipBuilder_Color_PrevColor	Previous Color	 Önceki Renk
+$ShipBuilder_Color_PrevControl	Previous Control	 Önceki Kontrol
+$ShipBuilder_Color_PrevValue	Previous Value	 Önceki deðer
+$ShipBuilder_Edit	SHIPBUILDER (EDIT)	 GEMÝ ÝNÞAATI (DÜZENLE)
+$ShipBuilder_Edit_Accept	Accept	 Kabul etmek
+$ShipBuilder_Edit_Delete	Delete Piece	 Parçayý Sil
+$ShipBuilder_Edit_Flip	Flip Piece	 Çevirme Parçasý
+$ShipBuilder_Edit_FlipDelete	Flip/Delete Piece	 Parçayý Çevir/Sil
+$ShipBuilder_Edit_NextVariant	Next Variant	 Sonraki Varyant
+$ShipBuilder_Edit_PrevVariant	Previous Variant	 Önceki Varyant
+$ShipBuilder_Edit_Select	Select Piece	 Parça Seç
+$ShipBuilder_Empty	SHIPBUILDER (EMPTY)	 GEMÝ ÝNÞAATI (BOÞ)
+$ShipBuilder_Empty_Add	Add	 Eklemek
+$ShipBuilder_Empty_Color	Color	 Renk
+$ShipBuilder_Empty_Delete	Delete	 Silmek
+$ShipBuilder_Empty_Edit	Edit	 Düzenlemek
+$ShipBuilder_Empty_Exit	Exit	 çýkýþ
+$ShipBuilder_Empty_FlightCheck	Flight Check	 Uçuþ Kontrolü
+$ShipBuilder_Empty_Redo	Redo	 Yinele
+$ShipBuilder_Empty_Select	Select	 Seçme
+$ShipBuilder_Empty_TemplateColor	Template Color Mode	 Þablon Renk Modu
+$ShipBuilder_Empty_TemplateColorApply	Template Color Apply	 Þablon Rengi Uygula
+$ShipBuilder_Empty_TemplateColorSave	Template Color Save	 Þablon Rengi Kaydet
+$ShipBuilder_Empty_Undo	Undo	 Geri alma
+$ShipBuilder_ExitConfirm	SHIPBUILDER (EXIT CONFIRM)	 GEMÝ ÝNÞAATÇISI (ÇIKIÞ ONAYLA)
+$ShipBuilder_ExitConfirm_Accept	Accept	 Kabul etmek
+$ShipBuilder_ExitConfirm_Cancel	Cancel	 Ýptal etmek
+$ShipBuilder_ExitConfirm_Exit	Exit	 çýkýþ
+$ShipBuilder_FlightCheck	SHIPBUILDER (FLIGHT CHECK)	 GEMÝ ÝNÞAATI (UÇUÞ KONTROLÜ)
+$ShipBuilder_FlightCheck_Accept	Accept	 Kabul etmek
+$ShipBuilder_FlightCheck_Cancel	Cancel	 Ýptal etmek
+$ShipBuilder_FlightCheck_Exit	Exit	 çýkýþ
+$ShipBuilder_FlightCheck_NextCategory	Next Category	 Sonraki Kategori
+$ShipBuilder_FlightCheck_PrevCategory	Previous Category	 Önceki Kategori
+$ShipBuilder_FlightCheck_Rename	Rename	 Yeniden isimlendirmek
+$ShipBuilder_Selection	SHIPBUILDER (SELECTION)	 GEMÝ ÝNÞAATI (SEÇÝM)
+$ShipBuilder_Selection_Add	Add	 Eklemek
+$ShipBuilder_Selection_Cancel	Cancel	 Ýptal etmek
+$ShipBuilder_Selection_Color	Color	 Renk
+$ShipBuilder_Selection_Delete	Delete	 Silmek
+$ShipBuilder_Selection_Edit	Edit	 Düzenlemek
+$ShipBuilder_Selection_Redo	Redo	 Yinele
+$ShipBuilder_Selection_Select	Select	 Seçme
+$ShipBuilder_Selection_Undo	Undo	 Geri alma
+$ShipBuilder_Upgrade	SHIPBUILDER (UPGRADE)	 GEMÝ ÝNÞAATI (YÜKSELTME)
+$ShipBuilder_Upgrade_Accept	Accept	 Kabul etmek
+$ShipBuilder_Upgrade_Down	Down	 Aþaðý
+$ShipBuilder_Upgrade_Exit	Exit	 çýkýþ
+$ShipBuilder_Upgrade_NextCategory	Next Category	 Sonraki Kategori
+$ShipBuilder_Upgrade_PrevCategory	Previous Category	 Önceki Kategori
+$ShipBuilder_Upgrade_Up	Up	Yukarý
+$ShipBuilder_Upgrade_ZoomModelIn	Zoom In	 Yakýnlaþtýr
+$ShipBuilder_Upgrade_ZoomModelOut	Zoom Out	 Uzaklaþtýr
+$ShipCannotBeRemoved	This ship cannot be removed at this time.	 Bu gemi þu anda kaldýrýlamaz.
+$ShipCannotBeSold	This ship cannot be sold at this time.	 Bu gemi þu anda satýlamaz.
+$ShipCrewAssign	Choose a new assignment for {0}.	 {0} için yeni bir ödev seçin.
+$ShipCrewAssignTo	Assign {0} to {1}?	 {0}, {1}'a atansýn mý?
+$ShipCrewChangeAssignment	Change {0}'s assignment to {1}?	{0}'ýn atamasý {1} olarak deðiþtirilsin mi?
+$ShipCrewNoAssignments	No assignments are currently available for {0}.	 {0} için þu anda kullanýlabilir ödev yok.
+$ShipCrewNoAssignmentsTip	Crew from any location can be assigned to a landed ship.	 Herhangi bir lokasyondaki mürettebat, karaya çýkan bir gemiye atanabilir.
+$ShipCrewNoSpace	There are no {0} to assign crew to.	 Mürettebatýn atanacaðý {0} yok.
+$ShipCrewUnassign	Unassign {0} from {1}?	 {0} adlý kiþinin atamasý {1} öðesinden kaldýrýlsýn mý?
+$ShipFlightCam_FreeRot	SHIP CAMERA (DOCKED/GROUNDED)	 GEMÝ KAMERA (YEMÝÞLÝ/TOPRAKLI)
+$ShipFlightCam_FreeRot_FOVZoomIn	Zoom Camera In	 Kamerayý Yakýnlaþtýr
+$ShipFlightCam_FreeRot_FOVZoomOut	Zoom Camera Out	 Kamerayý Uzaklaþtýr
+$ShipHasDecorationsWarning	Modifying this ship will remove any interior decorations.	 Bu gemiyi deðiþtirmek tüm iç dekorasyonlarý kaldýracaktýr.
+$ShipHUD	SPACESHIP (FLIGHT)	 UZAY GEMÝSÝ (UÇUÞ)
+$ShipHUD_AltHold	Ship Alternate Control Hold	 Gemi Alternatif Kontrol Bekletme
+$ShipHUD_Boosters	Fire Boosters	 Yangýn Arttýrýcýlar
+$ShipHUD_Cancel	Cancel	 Ýptal etmek
+$ShipHUD_Cancel_Cancel	Cancel	 Ýptal etmek
+$ShipHUD_Down	Decrease System Power	 Sistem Gücünü Azaltýn
+$ShipHUD_Left	Previous System	 Önceki Sistem
+$ShipHUD_PhotoMode	Open Photo Mode	 Fotoðraf Modunu Aç
+$ShipHUD_RepairShip_GP	Repair	 Tamirat
+$ShipHUD_RepairShip_KBM	Repair	 Tamirat
+$ShipHUD_Right	Next System	 Sonraki Sistem
+$ShipHUD_SelectTarget	Select Target	 Hedef seç
+$ShipHUD_SHMonocle	Open Scanner	 Tarayýcýyý Aç
+$ShipHUD_SwitchFlightModes	Switch Flight Modes	 Uçuþ Modlarýný Deðiþtir
+$ShipHUD_TogglePOV	Toggle POV	 Bakýþ Açýsýný Deðiþtir
+$ShipHUD_Up	Increase System Power	 Sistem Gücünü Artýrýn
+$ShipHUD_WeaponGroup1	Fire Weapon 0	 Ateþli Silah 0
+$ShipHUD_WeaponGroup2	Fire Weapon 1	 Ateþli Silah 1
+$ShipHUD_WeaponGroup3	Fire Weapon 2	 Ateþli Silah 2
+$ShipHUD_XButton	Ship Action 1	 Gemi Eylemi 1
+$ShipInfo	SHIP INFO	 GEMÝ BÝLGÝLERÝ
+$ShipInfo_BuySell	SHIP INFO TRANSACTION	 GEMÝ BÝLGÝ ÝÞLEMLERÝ
+$ShipInfo_BuySell_Exit	Exit	 çýkýþ
+$ShipInfo_BuySell_ShipTransaction	Ship Transaction	 Gemi Ýþlemi
+$ShipInfo_BuySell_SwitchCategory	Switch Category	 Kategoriyi Deðiþtir
+$ShipInfo_CargoHold	Cargo Hold	 Yük ambarý
+$ShipInfo_Crew	Crew	 Mürettebat
+$ShipInfo_Exit	Exit	 çýkýþ
+$ShipInfo_HomeShip	Home Ship	 Ana Sayfa Gemi
+$ShipInfo_Inspect	Inspect	 Ýncelemek
+$ShipInfo_Modify	SHIP INFO MODIFICATION	 GEMÝ BÝLGÝLERÝNÝN DEÐÝÞTÝRÝLMESÝ
+$ShipInfo_Modify_Crew	Crew	 Mürettebat
+$ShipInfo_Modify_Exit	Exit	 çýkýþ
+$ShipInfo_Modify_HomeShip	Home Ship	 Ana Sayfa Gemi
+$ShipInfo_Modify_ShipBuilder	Open Ship Builder	 Gemi Ýnþaatçýsýný Aç
+$ShipInfo_Modify_UpgradeShip	Upgrade Ship	 Gemiyi Yükselt
+$ShipInfo_NextShip	Next Ship	 Sonraki Gemi
+$ShipInfo_PreviousShip	Previous Ship	 Önceki Gemi
+$ShipInfo_Remove	Remove	 Kaldýrmak
+$ShipInfo_Repair	Repair	 Tamirat
+$ShipInfo_Rotate	Rotate	 Döndür
+$ShipInfo_ShipTransaction	Register Ship	 Gemiyi Kaydet
+$ShipIsNotOwned	You do not own this ship.	 Bu geminin sahibi sen deðilsin.
+$ShipNotAtLandingPad	This ship is not at the landing pad.	 Bu gemi iniþ pistinde deðil.
+$ShipPower_A	A	A
+$ShipPower_B	B	 B
+$ShipPower_C	C	 C
+$ShipPower_M	M	 M
+$ShipRenameHeader	Name	 Ýsim
+$Ship_QuickContainer	SHIP QUICK CONTAINER	 HIZLI GEMÝ KONTEYNER
+$Ship_QuickContainer_Down	Scroll Down	 Aþaðý kaydýr
+$Ship_QuickContainer_Up	Scroll Up	 Yukarý kaydýrmak
+$SHOW	Show Resources	 Kaynaklarý Göster
+$Show Active Effects On HUD	Show Active Effects on HUD	 HUD'da Aktif Efektleri Göster
+$SHOW ALL	SHOW ALL	 HEPSÝNÝ GÖSTER ?
+$Show All Saves	Show All Saves	 Tüm Kayýtlarý Göster
+$Show Damage Numbers	Show Damage Numbers	 Hasar Numaralarýný Göster
+$Show Damage Numbers Desc	Enables showing floating damage numbers on the HUD.	 HUD'da deðiþken hasar sayýlarýnýn gösterilmesini saðlar.
+$SHOW EFFECTS	SHOW EFFECTS	 ETKÝLERÝ GÖSTER
+$Show Floating Markers	Show Floating Markers	 Kayan Ýþaretleyicileri Göster
+$Show Floating Markers Desc	Enables floating mission markers overlayed on the game world.	 Oyun dünyasýnýn üzerine yerleþtirilmiþ kayan görev iþaretlerini etkinleþtirir.
+$SHOW ME	Show Me	 Bana göster
+$Show Item Info	Show Item Information in HUD	 Öðe Bilgilerini HUD'da Göster
+$Show Item Info Desc	Show the item card displaying item information in the HUD.	 HUD'da öðe bilgilerini görüntüleyen öðe kartýný gösterin.
+$Show on Map	SHOW ON MAP	 HARÝTADA GÖSTER
+$Show Player	Show Player	 Oyuncuyu Göster
+$ShowCaravans	SHOW SUPPLY LINES	 BESLEME HATLARINI GÖSTER
+$ShowEULA	View Terms of Service	 Hizmet Þartlarýný Görüntüle
+$SHOWOBJECTIVES	Inspect Objectives	 Hedefleri Denetle
+$SHOWOBJECTIVES	SHOW OBJECTIVES	 HEDEFLERÝ GÖSTER
+$SHOWONMAP	SHOW ON MAP	 HARÝTADA GÖSTER
+$ShowQuestSummary	SHOW SUMMARY	 ÖZETÝ GÖSTER
+$SHOW_QUEST_IN_HUD	Show mission in HUD	 Görevi HUD'da göster
+$SHOW_QUEST_IN_HUD Desc	Enables keeping the active mission visible on the HUD at all times.	 Aktif görevin HUD'da her zaman görünür kalmasýný saðlar.
+$SHOW_RESOURCES	SHOW RESOURCES	 KAYNAKLARI GÖSTER
+$SHRINK	SHRINK	 ÇEKMEK
+$Sign Up for An Account	Sign Up for An Account	 Hesap Kaydolun
+$Sit	Sit	 Oturmak
+$SIZE	SIZE	 BOYUT
+$SKILL POINT AVAILABLE	SKILL POINT AVAILABLE	 BECERÝ PUANI MEVCUT
+$SKILL POINTS	SKILL POINTS	 YETENEK PUANLARI
+$SkillMaxedOut	Skill maxed out	 Beceri maksimuma çýktý
+$SKILLPTS	SKILL PTS	 BECERÝ PUANLARI
+$SKILLS	SKILLS	 YETENEKLER
+$SKILLSET:	BACKGROUND:	 ARKA PLAN:
+$SKIN TONE	SKIN TONE	 CÝLT TONU
+$SKIP	SKIP	 ATLAMAK
+$SLEEP	SLEEP	 UYUMAK
+$SleepPrompt	Sleep for how long?	 Ne kadar süre uyumak?
+$SLOT	SLOT	 YUVASI
+$SLOW	SLOW	YAVAÞ
+$SNAPLEFT	SNAP LEFT	 SOL'A EKLE
+$SNAPRIGHT	SNAP RIGHT	 SAÐA YAKALAN
+$Sneak	Sneak	 Gizlice
+$SneakCaution	CAUTION	 DÝKKAT
+$SneakDanger	DANGER	 TEHLÝKE
+$SneakDetected	DETECTED	 SAPTANMIÞ
+$SneakEvading	CAUTION	 DÝKKAT
+$SneakHidden	HIDDEN	 GÝZLENMÝÞ
+$sNoExitSaveQuit	Exit save is currently disabled.  Quitting to main menu.	 Çýkýþ kaydetme þu anda devre dýþý. Ana menüden çýkýlýyor.
+$sNoExitSaveQuitConfirm	An exit save cannot be made right now.  Would you like to quit to the main menu anyway?	 Þu anda çýkýþ kaydý yapýlamaz. Yine de ana menüden çýkmak istiyor musunuz?
+$sNoExitSaveQuitToDesktopConfirm	An exit save cannot be made right now.  Would you like to quit anyway?	 Þu anda çýkýþ kaydý yapýlamaz. Yine de vazgeçmek ister misin?
+$Social	Social	 Sosyal
+$SOCIAL	SOCIAL	 SOSYAL
+$SOCIAL_ROBOT	ROBOTICS	 ROBOTÝK
+$SOCIAL_SKILLS	SOCIAL	 SOSYAL
+$SOCIAL_SKILLS_ADVANCED	Advanced Social skills	 Geliþmiþ Sosyal beceriler
+$SOCIAL_SKILLS_EXPERT	Expert Social skills	 Uzman Sosyal beceriler
+$SOCIAL_SKILLS_MASTER	Master Social skills	 Sosyal becerilerde ustalaþýn
+$SOCIAL_XENO	XENO-SOCIAL	 KSENO-SOSYAL
+$SOL DATE: MAY 7, 2330	SOL DATE: MAY 7, 2330	 SOL TARÝHÝ: 7 MAYIS 2330
+$SORT	SORT	 DÜZENLEMEK
+$SORT FILTER (TODO)	SORT FILTER (TODO)	 SIRALAMA FÝLTRESÝ (TODO)
+$SORT_ABC	SORT (NAME)	 SIRALAMA (ÝSÝM)
+$SORT_ABC_DESC	SORT (NAME DESC)	 SIRALAMA (ÝSÝM TANIMI)
+$SORT_ACC	SORT (ACC)	 SIRALAMA (ACC)
+$SORT_AMMO	SORT (AMMO)	 SIRALA (CEPHANE)
+$SORT_ARMOR	SORT (ARMOR)	 SIRALA (ZIRH)
+$SORT_COLUMN	SORT (COLUMN)	 SIRALAMA (SÜTUN)
+$SORT_COLUMN_DESC	SORT (COLUMN DESC)	 SIRALAMA (SÜTUN TANIMI)
+$SORT_DMG	SORT (DMG)	 SIRALA (DMG)
+$SORT_RNG	SORT (RNG)	 SIRALA (RNG)
+$SORT_ROF	SORT (ROF)	 SIRALAMA (ROF)
+$SORT_TYPE	SORT (TYPE)	 SIRALAMA (TÜR)
+$SORT_VAL	SORT (VAL)	 SIRALAMA (VAL)
+$SORT_WT	SORT (WT)	 SIRALAMA (WT)
+$Source:	Source:	 Kaynak:
+$SPACEBAR)	SPACE)	 UZAY)
+$SPACESHIP EDITOR	SPACESHIP EDITOR	 UZAY GEMÝSÝ EDÝTÖRÜ
+$SpaceshipEditor	SPACESHIP EDITOR	 UZAY GEMÝSÝ EDÝTÖRÜ
+$SpaceshipEditorSimplified	SHIP BUILDER	 GEMÝ YAPIMCISI
+$SpaceshipEditorSimplified_AddEdit	Add/Edit/Confirm	 Ekle/Düzenle/Onayla
+$SpaceshipEditorSimplified_Left	Undo/Previous Variant	 Geri Al/Önceki Varyant
+$SpaceshipEditorSimplified_Cancel	Cancel	 Ýptal etmek
+$SpaceshipEditorSimplified_Color	Color	 Renk
+$SpaceshipEditorSimplified_Delete	Delete	 Silmek
+$SpaceshipEditorSimplified_DuplicateFlip	Duplicate/Flip	 Çoðalt/Çevir
+$SpaceshipEditorSimplified_FlightCheck	Flight Check	 Uçuþ Kontrolü
+$SpaceshipEditorSimplified_Down	Floor Down	 Yerden Aþaðý
+$SpaceshipEditorSimplified_Up	Floor Up	 Kat Yukarý
+$SpaceshipEditorSimplified_Right	Redo/Next Variant	 Yinele/Sonraki Varyant
+$SpaceshipEditorSimplified_LShoulder	Left Shoulder	 Sol omuz
+$SpaceshipEditorSimplified_RShoulder	Right Shoulder	 Sað omuz
+$SpaceshipEditor_Accept	Accept	 Kabul etmek
+$SpaceshipEditor_EditorTCG	EditorTCG	 EditörTCG
+$SpaceshipEditor_FloorDown	Floor Down	 Yerden Aþaðý
+$SpaceshipEditor_FloorUp	Floor Up	 Kat Yukarý
+$SpaceshipEditor_ModuleDetails	Module Details	 Modül Detaylarý
+$SpaceshipEditor_Options	Options	 Seçenekler
+$SpaceshipEditor_Pan	Pan	Tava
+$SpaceshipEditor_PanDown	Pan Down	 Aþaðý Kaydýr
+$SpaceshipEditor_PanLeft	Pan Left	 Sola Kaydýr
+$SpaceshipEditor_PanRight	Pan Right	 Saða Kaydýr
+$SpaceshipEditor_PanUp	Pan Up	 Yukarý Kaydýr
+$SpaceshipEditor_Rotate	Rotate	 Döndür
+$SpaceshipEditor_ZoomIn	Zoom In	 Yakýnlaþtýr
+$SpaceshipEditor_ZoomOut	Zoom Out	 Uzaklaþtýr
+$Spaceship_Interaction	SPACESHIP (DOCKED/GROUNDED)	 UZAY GEMÝSÝ (YERLEÞTÝRÝLMÝÞ/YERE YERLEÞTÝRÝLMÝÞ)
+$Spaceship_Interaction_Cancel	Get Up	 Uyanmak
+$Spaceship_Interaction_ExitShip	Exit Ship From Cockpit	 Gemiden Kokpitten Çýkýþ
+$Spaceship_Interaction_TakeOff	Undock/Take-Off Ship	 Gemiyi Çýkarma/Kalkýþ
+$SpacesuitWorkbench	Spacesuit Workbench	 Uzay Giysisi Tezgahý
+$Spanish	Spanish	 Ýspanyol
+$SpecialConfirmResetPoints	Reset point allocation and start over?	 Puan tahsisi sýfýrlanýp baþtan mý baþlansýn?
+$SpecialIntroText	Tell us about yourself! Vault-Tec needs to know what kind of citizen you are to ensure your future happiness.	 Bize kendinden bahset! Gelecekteki mutluluðunuzu garanti altýna almak için Vault-Tec'in nasýl bir vatandaþ olduðunuzu bilmesi gerekiyor.
+$SpecialNameCharacter	The name contains forbidden characters.	 Ad yasak karakterler içeriyor.
+$SpecialNameEmpty	You must name your character before proceeding.	 Devam etmeden önce karakterinize isim vermelisiniz.
+$SpecialPointsRemaining	You must use all points before proceeding.	 Devam etmeden önce tüm noktalarý kullanmanýz gerekir.
+$SPECIALTY	Assignment Bonus	 Atama Bonusu
+$Specularity Fade	Specularity Fade	 Spekülerlik Solmasý
+$SPEECH FAILED!	PERSUASION FAIL	 ÝKNA BAÞARISIZLIÐI
+$SPEECH SUCCESSFUL!	PERSUASION SUCCESS	 ÝNA BAÞARISI
+$SpeechTag	[Persuade]	 [Ýkna etmek]
+$SPEED	SPEED	 HIZ
+$speed	Speed	 Hýz
+$SpendAPointToUnlock	Spend a point to unlock this skill	 Bu becerinin kilidini açmak için bir puan harcayýn
+$SPENDING	SPENDING	 HARCAMA
+$SPLOTCHY	SPLOTCHY	 lekeli
+$Sprint	Sprint	 Sprint
+$SQUARE	SQUARE	 KARE
+$sQuestRejectConfirm	Are you sure you want to reject this mission?	 Bu görevi reddetmek istediðinizden emin misiniz?
+$STANDING	STANDING	 AYAKTA
+$Star	STAR	 YILDIZ
+$STAR MAP	STAR MAP	 YILDIZ HARÝTASI
+$STAR TYPE	SPECTRAL CLASS	 SPEKTRAL SINIFI
+$StarbornNewGame	Starborn	 Yýldýzdoðumlu
+$STARBORNPOWER	POWER	 GÜÇ
+$STARMAP	STARMAP	 YILDIZ HARÝTASI
+$StarMap	STARMAP	 YILDIZ HARÝTASI
+$StarMap_ExecuteJump	Execute Jump	 Atlamayý Yürüt
+$StarMap_Filter	Filter	 Filtre
+$StarMap_Inspect	STARMAP (INSPECT)	 YILDIZ HARÝTASI (ÝNCELEME)
+$StarMap_Inspect_OpenResourceView	Open Resource View	 Kaynak Görünümünü Aç
+$StarMap_Inspect_PlaceMarker	Place Marker	 Yer Ýþareti
+$StarMap_Interact	STARMAP (INTERACT)	 YILDIZ HARÝTASI (ETKÝLEÞÝM)
+$StarMap_Interact_Inspect	Inspect	 Ýncelemek
+$StarMap_OpenMissionMenu	Open Mission Menu	 Görev Menüsünü Aç
+$StarMap_OpenMissions	Open Missions	 Açýk Görevler
+$StarMap_OpenResourceView	Open Resource View	 Kaynak Görünümünü Aç
+$StarMap_PanDown	Pan Down	 Aþaðý Kaydýr
+$StarMap_PanLeft	Pan Left	 Sola Kaydýr
+$StarMap_PanRight	Pan Right	 Saða Kaydýr
+$StarMap_PanUp	Pan Up	 Yukarý Kaydýr
+$StarMap_Select	Select	 Seçme
+$StarMap_SetRouteDestination	Set Route Destination	 Rota Hedefini Ayarla
+$StarMap_ShowAllNameplates	Show All Nameplates	Tüm Ýsim Plakalarýný Göster
+$StarMap_ShowMe	Show Me	 Bana göster
+$StarMap_SurfaceMap	Surface Map	 Yüzey Haritasý
+$StarMap_SystemInspect	STARMAP (SYSTEM INSPECT)	 STARMAP (SÝSTEM DENETÝMÝ)
+$StarMap_SystemInspect_AddRemovePlot	Add/Remove Plot	 Grafik Ekle/Kaldýr
+$StarMap_SystemInspect_PlotAndTransfer	Plot And Transfer	 Arsa ve Transfer
+$StarMap_SystemInspect_ResetCamera	Reset Camera	 Kamerayý Sýfýrla
+$StarMap_SystemSelect	System Select	 Sistem Seçimi
+$StarMap_ZoomIn	Zoom In	 Yakýnlaþtýr
+$StarMap_ZoomOut	Zoom Out	 Uzaklaþtýr
+$STARTING_SKILLS	STARTING SKILLS	 BAÞLANGIÇ BECERÝLERÝ
+$START_SECURITY_GAME	START ({0})	 BAÞLANGIÇ ({0})
+$STAT	STAT	 ÝSTATÝSTÝK
+$Station	STATION	 ÝSTASYON
+$STATS	STATS	 ÝSTATÝSTÝKLER
+$STATUS	STATUS	 DURUM
+$STATUS_EFFECTS	STATUS EFFECTS	 DURUM ETKÝLERÝ
+$STEAL	STEAL	 HIRSIZLIK YAPMAK
+$STICKER MODE	STICKER MODE	 ÇIKARTMA MODU
+$Stimpak	STIMPAK	 STÝMPAK
+$Stolen	Stolen	 Çalýntý
+$STORE	STORE	 MAÐAZA
+$STORE ALL	STORE ALL	 TÜMÜNÜ DEPOLA
+$StoreAllJunk	STORE ALL JUNK	 TÜM ÇÖPLERÝ DEPOLAYIN
+$StoreAllResources	STORE ALL RESOURCES	 TÜM KAYNAKLARI DEPOLAYIN
+$StrafeLeft	Strafe Left	 Strafe Sol
+$StrafeRight	Strafe Right	 Strafe Sað
+$StreamInstallCaption	Installing	 Kurulum
+$Strength	Strength	 Kuvvet
+$STRENGTH	STRENGTH	 KUVVET
+$STYLE	STYLE	 STÝL
+$STYLE_BLENDS	SHAPE BLENDS	 ÞEKÝL KARIÞIMLARI
+$SUBJPrepend	SUBJ:	 KONU:
+$Subscribe	Subscribe	 Abone
+$Subscribing	Subscribing...	 Abone olunuyor...
+$Subscribing...	Subscribing...	 Abone olunuyor...
+$SUBTRACT	SUBTRACT	 ÇIKAR
+$Sudden Development	Sudden Development	 Ani Geliþme
+$SUIT	SUIT	 UYGUN OLMAK
+$SUIT RESISTANCE	SUIT RESISTANCE	 TAKIM DÝRENCÝ
+$Super Stimpak	Super Stimpak	 Süper Stimpak
+$Surface	Surface	 Yüzey
+$SURFACE MAP	SURFACE MAP	 YÜZEY HARÝTASI
+$SurfaceMap	SURFACE MAP	 YÜZEY HARÝTASI
+$SurfaceMap_FastTravelShip	Fast Travel To Ship	 Gemiye Hýzlý Seyahat
+$SURVEY	SURVEY	 ANKET
+$SURVEY LEVEL INCREASED	SURVEY LEVEL INCREASED	 ANKET SEVÝYESÝ ARTTI
+$SURVEYED	SURVEYED	 ANKET YAPILDI
+$SURVEYOR	SURVEYOR	 ANKETÖR
+$SURVEY_PCT:	SURVEY PERCENT:	 ANKET YÜZDE:
+$Survival	Survival	 Hayatta kalma
+$Swap System Controls	Swap Controls	 Takas Kontrolleri
+$SWITCH	SWITCH	 ANAHTAR
+$SYRINGER	SYRINGER	 ÞIRINGA
+$System	SYSTEM	 SÝSTEM
+$SYSTEM	SYSTEM	 SÝSTEM
+$SYSTEM INFO	SYSTEM INFO	 SÝSTEM BÝLGÝSÝ
+$SYSTEM MAP	SYSTEM MAP	 SÝSTEM HARÝTASI
+$SYSTEM SUBTITLE	{0} System	 {0} Sistemi
+$SYSTEM SUBTITLE MOON	Moon of {0}, {1} System	 {0} Ayý, {1} Sistemi
+$SYSTEM SURVEY PCT	SYSTEM SURVEY %	 SÝSTEM ANKETÝ %
+$TAG FOR SEARCH	TAG FOR SEARCH	 ARAMA ÝÇÝN ETÝKET
+$TAKE	TAKE	 ALMAK
+$TAKE ALL	TAKE ALL	 HEPSÝNÝ AL
+$TAKE OFF	TAKE OFF	 ÇIKARMAK
+$TAKE PHOTO	TAKE PHOTO	 FOTOÐRAF ÇEK
+$TakeAllResources	TAKE ALL RESOURCES	 TÜM KAYNAKLARI ALIN
+$TALK	TALK	 KONUÞMAK
+$TARGET LOCK	TARGET LOCK	 HEDEF KÝLÝDÝ
+$Target Ship System	Target Ship System	Hedef Gemi Sistemi
+$Target:	Target:	 Hedef:
+$TargetingDestroyed	Destroyed	 Yerlebir edilmiþ
+$TargetingNoAP	Target Lost	 Hedef kayboldu
+$TargetingTargetLost	Target Lost	 Hedef kayboldu
+$TATTOOS	TATTOOS	 DÖVMELER
+$TECH	TECH	 TEKNOLOJÝ
+$Tech	Tech	 Teknoloji
+$TECH_SKILLS	TECH	 TEKNOLOJÝ
+$TECH_SKILLS_ADVANCED	Advanced Tech skills	 Ýleri Teknoloji becerileri
+$TECH_SKILLS_EXPERT	Expert Tech skills	 Uzman Teknoloji becerileri
+$TECH_SKILLS_MASTER	Master Tech skills	 Usta Teknoloji becerileri
+$TEMP	TEMP	 SICAKLIK
+$TEMP RESISTANCE	TEMP RESISTANCE	 SICAKLIK DÝRENCÝ
+$TEMPERATURE	TEMPERATURE	 SICAKLIK
+$Terminal	TERMINAL	 TERMÝNAL
+$Terminal_Left	Left	 Sol
+$Terminal_Right	Right	 Sað
+$Terminal_SwitchView	Switch View	 Görünümü Deðiþtir
+$TERRAIN	TERRAIN	 ARAZÝ
+$Texture	Texture	 Doku
+$Texture Category	Texture Category	 Doku Kategorisi
+$Texture Intensity	Texture Intensity	 Doku Yoðunluðu
+$That button is reserved.	That button is reserved.	 Bu düðme ayrýlmýþtýr.
+$THEIR CREDITS	THEIR CREDITS	 KREDÝLERÝ
+$THEY_THEM	THEY/THEM	 ONLAR / ONLAR
+$THIN	THIN	 ÝNCE
+$THIRD	THIRD	 ÜÇÜNCÜ
+$THR	THR	 TR
+$THRUSTERS	THRUSTERS	 ÝTÝCÝLER
+$TIME	TIME	 ZAMAN
+$time	TIME	 ZAMAN
+$Time of Day	Time of Day	 Günün zamaný
+$TimeFilterAll	Filter By Time (All)	 Zamana Göre Filtrele (Tümü)
+$TimeFilterMonth	Filter By Time (Month)	 Zamana Göre Filtrele (Ay)
+$TimeFilterToday	Filter By Time (Today)	 Zamana Göre Filtrele (Bugün)
+$TimeFilterWeek	Filter By Time (Week)	 Zamana Göre Filtrele (Hafta)
+$TIMEREMAINING	TIME REMAINING	 KALAN SÜRE
+$TO PLACE	TO PLACE	 YERLEÞTÝRMEK
+$TO STEAL	TO STEAL	 ÇALMAK
+$TOGGLE	TOGGLE	 GEÇÝÞ
+$TOGGLE DISTANCE MODE	TOGGLE DISTANCE MODE	 MESAFE MODUNA GEÇÝÞ YAPIN
+$Toggle Edit	Edit Mode	 Düzenleme modu
+$Toggle Edit2	Place Mode	 Yer Modu
+$TOGGLE HEADTRACKING	TOGGLE HEADTRACKING	 HEAD TRACKING'Ý GEÇÝÞTÝR
+$TOGGLE HELMET	TOGGLE HELMET	 GEÇÝÞ KASK
+$Toggle Ironsights	Toggle Ironsights	 Ironsights'ý aç/kapat
+$Toggle Ironsights Desc	Enables the use of iron-sights mode when aiming a weapon as a toggle instead of a hold.	 Bir silahý tutma yerine geçiþ olarak niþan alýrken demir niþangah modunun kullanýlmasýný saðlar.
+$TOGGLE MENU	TOGGLE MENU	 MENÜYE GEÇÝÞ
+$TOGGLE VIEW	TOGGLE VIEW	 GÖRÜNÜMÜ DEÐÝÞTÝR
+$ToggleActive	TOGGLE ACTIVE	 AKTÝF DEÐÝÞTÝR
+$ToggleAlwaysRun	Toggle Always Run	 Her Zaman Çalýþtýr'ý aç/kapat
+$TOGGLEGUIDE	TOGGLE GUIDE	 KILAVUZU DEÐÝÞTÝR
+$TogglePOV	Toggle POV	 Bakýþ Açýsýný Deðiþtir
+$ToggleShowAllQTs	SHOW ALL TARGETS	 TÜM HEDEFLERÝ GÖSTER
+$ToggleShowOnlyActiveQTs	SHOW ONLY ACTIVE TARGETS	 YALNIZCA AKTÝF HEDEFLERÝ GÖSTER
+$TOGGLETRACK	Toggle Tracking	 Takibi Deðiþtir
+$TooManyOwnedShips	You own the maximum allowed ships. You must sell some before more can be purchased.	Ýzin verilen maksimum gemi sayýsýna sahipsiniz. Daha fazlasýný satýn alabilmeniz için biraz satmanýz gerekir.
+$TOP SPEED	TOP SPEED	 EN YÜKSEK HIZ
+$total	Total	 Toplam
+$TOTAL	TOTAL	 TOPLAM
+$TOTAL COST	TOTAL COST	 TOPLAM TUTAR
+$TOTAL PWR	TOTAL PWR	 TOPLAM GÜÇ
+$TOTAL_DAMAGE	DAMAGE	 ZARAR
+$TOTAL_RESISTANCE	RESIST	 DÝRENMEK
+$TRACK	Track	 Ýzlemek
+$TRACK PROJECT	Track Project	 Projeyi Takip Et
+$TRADE	TRADE	 TÝCARET
+$TRAIT DISCOVERED	TRAIT DISCOVERED	 ÖZELLÝK KEÞFEDÝLDÝ
+$TRAITS	TRAITS: {0}	 ÖZELLÝKLER: {0}
+$TraitSelection	{OPTIONAL}	 {ÝSTEÐE BAÐLI}
+$TRAITSHEADER	TRAITS	 ÖZELLÝKLER
+$Transfer	TRANSFER	 AKTAR
+$TransferContainerLabel	CONTAINER	 KONTEYNER
+$TransferLink	Transfer Link	 Aktarým Baðlantýsý
+$TransferPlayerLabel	PLAYER	 OYUNCU
+$TRANSMISSION TERMINATED	TRANSMISSION TERMINATED	 ÝLETÝM SONLANDIRILDI
+$TRAVEL	TRAVEL	 SEYAHAT
+$TRAVEL DATA	TRAVEL DATA	 SEYAHAT VERÝLERÝ
+$TRAVEL NOT ALLOWED	TRAVEL NOT ALLOWED	 SEYAHAT ÝZÝN VERÝLMEZ
+$TravelRestricted	Travel to this area is currently restricted.	 Bu bölgeye seyahat þu anda kýsýtlýdýr.
+$TREATMENT	TREATMENT	 TEDAVÝ
+$TuneToStation	TUNE TO STATION	 ÝSTASYONA AYAR
+$TURNS	TURNS	 DÖNÜÞLER
+$TYPE	TYPE	 TÝP
+$UINamingError_InvalidCharacter	This name contains unsupported characters.	 Bu ad desteklenmeyen karakterler içeriyor.
+$Unable to Jump	Unable to Jump	 Atlanamýyor
+$UNASSIGN	UNASSIGN	 ATANMASINI KALDIR
+$UNASSIGN CREW	UNASSIGN CREW	 MÜRETTEBATIN ATANMASINI KALDIR
+$Unassigned	Unassigned	 Atanmamýþ
+$UNASSIGNED	UNASSIGNED	 ATANMADI
+$Unavailable	Unavailable	 Kullaným dýþý
+$UNCATEGORIZED	UNCATEGORIZED	 KATEGORÝLENMEMÝÞ
+$Uncommon	Uncommon	 Yaygýn olmayan
+$UNDO	UNDO	 GERÝ ALMA
+$UNDOCK	UNDOCK	 ÇIKAR
+$UNEQUIP	UNEQUIP	 EKÝPMANDAN ÇIK
+$UNEXPLORED ROUTE	Unexplored Route	 Keþfedilmemiþ Rota
+$UNEXPLORED ROUTE MSG	Route goes through unexplored system	 Rota keþfedilmemiþ sistemden geçiyor
+$Unfollow	Unfavorite	 Favorilerden kaldýr
+$Unfollowing	Unfavoriting...	 Favorilerden kaldýrýlýyor...
+$Unique	Unique	 Eþsiz
+$UnitedColonies	United Colonies	 Birleþik Koloniler
+$UNIT_ATMOSPHERE	atm	 ATM
+$UNIT_GRAVITY	g	 G
+$UNIT_TEMPERATURE	C	 C
+$UniversalTime_Suffix	UT (24 HR)	 UT (24 SAAT)
+$Unknown	Unknown	 Bilinmeyen
+$UNKNOWN	UNKNOWN	 BÝLÝNMEYEN
+$UNKNOWN FAUNA	UNKNOWN FAUNA	 BÝLÝNMEYEN FAUNA
+$UNKNOWN FLORA	UNKNOWN FLORA	 BÝLÝNMEYEN FLORA
+$Unknown Location	Unknown Location	 Bilinmeyen Konum
+$Unknown Type	UNKNOWN	 BÝLÝNMEYEN
+$Unknown,	Unknown,	 Bilinmeyen,
+$UnlinkAccount	Unlink Bethesda.net Account	 Bethesda.net Hesabýnýn Baðlantýsýný Kaldýrma
+$UNLOAD	UNLOAD	BOÞALT
+$UNLOAD ALL	UNLOAD ALL	 TÜMÜNÜ BOÞALT
+$UNLOCK	UNLOCK:	 KÝLÝDÝNÝ AÇ:
+$UnlockedWithKey	Unlocked with {1}.	 {1} ile kilidi açýldý.
+$UnlockMenuItem	Hack {1} lock?	 {1} kilidi kýrýlsýn mý?
+$UNLOCK_BUTTON	UNLOCK	 KÝLÝDÝNÝ AÇ
+$Unlock_Rank	Unlock this Rank to increase Skill.	 Beceriyi artýrmak için bu Derecenin kilidini açýn.
+$UNOWNED	UNOWNED	 SAHÝPSÝZ
+$UNOWNED/NOT DOWNLOADED	UNOWNED/NOT DOWNLOADED	 SAHÝP OLMADI/ÝNDÝRÝLMEDÝ
+$UNREGISTERED	Unregistered	 Kayýtlý deðil
+$UNSELECT	UNSELECT	 SEÇÝMÝ KALDIR
+$UNSHIELDED CONTRABAND	CONTRABAND ON SHIP	 GEMÝDEKÝ KAÇAK
+$Unsubscribe	Unsubscribe	 Abonelikten çýk
+$Unsubscribing	Unsubscribing...	 Abonelikten çýkýlýyor...
+$UNTRACK	Untrack	 Takibi kaldýr
+$UNTRACK PROJECT	Untrack Project	 Projenin Takibini Kaldýr
+$UNVISITED	UNVISITED	 ZÝYARET EDÝLMEMÝÞ
+$Update	Update	 Güncelleme
+$UPGRADE_SHIP	Upgrade Ship	 Gemiyi Yükselt
+$UPLOAD SAVE	Upload Save	 Yükle Kaydet
+$USE	USE	 KULLANMAK
+$USERID	USER ID	 KULLANICI KÝMLÝÐÝ
+$Username	Username	 Kullanýcý adý
+$UserValidationCancelled	Save storage sync cancelled by user.	 Kaydetme depolama senkronizasyonu kullanýcý tarafýndan iptal edildi.
+$UserValidationFailed	User save storage could not be initialized.  Error code: {1}	 Kullanýcý kaydetme depolama alaný baþlatýlamadý. Hata kodu: {1}
+$$UserValidationOutOfSpace	Storage out of local space.	 Yerel alanýn dýþýnda depolama.
+$USE_KEY	SLOT KEY	 YUVASI ANAHTARI
+$UsingConsoleMayDisableAchievements	Use of certain console commands will disable achievements.	 Belirli konsol komutlarýnýn kullanýlmasý baþarýlarý devre dýþý býrakacaktýr.
+$UT	UT	 UT
+$Va'ruun	Va'ruun	 Va'ruun
+$val	Value	 Deðer
+$value	VALUE	 DEÐER
+$VALUE	VALUE	 DEÐER
+$VALUE_LRG	VALUE	 DEÐER
+$Value (C)	Value (C)	 Deðer (C)
+$VALUE (C)	VALUE (C)	 DEÐER (C)
+$Variant	Variant	 Varyant
+$VARIANT	VARIANT	 VARYANT
+$VARIANTS	VARIANTS	 ÇEÞÝTLER
+$VATS	VATS	 KDV
+$VENDOR	VENDOR	 SATICI
+$VENDOR CREDITS	VENDOR CREDITS	 SATICI KREDÝLERÝ
+$Very Easy	Very Easy	 Çok kolay
+$VERY FAST	V FAST	 V HIZLI
+$Very Hard	Very Hard	 Çok zor
+$VERY SLOW	V SLOW	 V YAVAÞ
+$Vibration	Controller Vibration	 Denetleyici Titreþimi
+$Vibration Desc	Toggles controller vibration on or off.	 Denetleyici titreþimini açar veya kapatýr.
+$VIEW_AVAILABLE	View Available	 Mevcut Görüntüle
+$VIEW_DESKTOP	View Desktop	 Masaüstünü Görüntüle
+$VIEW_OWNED	View Owned	 Sahip Olunanlarý Görüntüle
+$VIEW_WINDOWS	View Windows	 Windows'u görüntüle
+$Vignette Intensity	Vignette Intensity	Vinyet Yoðunluðu
+$VirtualController	VIRTUAL CONTROLLER	 SANAL KONTROL CÝHAZI
+$VirtualController_L3	UI Action 4	 Kullanýcý Arayüzü Eylemi 4
+$VirtualController_LShoulder	Previous Tab	 Önceki Sekme
+$VirtualController_R3	UI Action 5	 Kullanýcý Arayüzü Eylemi 5
+$VirtualController_RShoulder	Next Tab	 Sonraki Sekme
+$VirtualController_Select	UI Action 3	 Kullanýcý Arayüzü Eylemi 3
+$VirtualController_XButton	UI Action 1	 Kullanýcý Arayüzü Eylemi 1
+$VirtualController_YButton	UI Action 2	 Kullanýcý Arayüzü Eylemi 2
+$Voice	Voice	 Ses
+$Voice Audio Desc	Controls the volume of the in-game voices.	 Oyun içi seslerin ses düzeyini kontrol eder.
+$VoiceLanguage	Voice Language	 Ses Dili
+$VoiceLanguageDesc	Change the language for in-game voices	 Oyun içi seslerin dilini deðiþtirme
+$Volume Selection	Volume Selection	 Hacim Seçimi
+$W	W{0}	 W{0}
+$Wait	WAIT	 BEKLEMEK
+$WAIT FOR SCAN	WAIT FOR SCAN	 TARAMA ÝÇÝN BEKLEYÝN
+$Waiting for data...	Waiting for game data to load...	 Oyun verilerinin yüklenmesi bekleniyor...
+$WaitPrompt	Wait for how long?	 Ne kadar bekleyelim?
+$WARNING	WARNING	 UYARI
+$WARNINGS	WARNINGS	 UYARILAR
+$WATER	WATER	 SU
+$WEAPON STATS	WEAPON STATS	 SÝLAH ÝSTATÝSTÝKLERÝ
+$WeaponAssignment	Weapon Assignment	 Silah Atamasý
+$WEAPONGROUPONE	WEAPON ONE	 SÝLAH BÝR
+$WEAPONGROUPTHREE	WEAPON THREE	 SÝLAH ÜÇ
+$WEAPONGROUPTWO	WEAPON TWO	 ÝKÝNCÝ SÝLAH
+$WEAPONGROUPZERO	WEAPON ZERO	 SIFIR SÝLAH
+$WeaponRarityAndType_Epic {0}	Epic {0}	 Epik {0}
+$WeaponRarityAndType_Legendary {0}	Legendary {0}	 Efsanevi {0}
+$WeaponRarityAndType_Rare {0}	Rare {0}	 Nadir {0}
+$WEAPONS	WEAPONS	 SÝLAHLAR
+$WeaponWorkbench	Weapon Workbench	 Silah Tezgahý
+$WEATHER	WEATHER	 HAVA DURUMU
+$Weight	Weight	 Aðýrlýk
+$WIDE	WIDE	 GENÝÞ
+$WIND	WIND	 RÜZGÂR
+$Wire	Wire	 Tel
+$WIRE	WIRE	 TEL
+$WNPC_Caravan	SUPPLY LINE	 TEDARÝK HATTI
+$WNPC_Caravan_Header	Choose a location:	 Bir konum seçin:
+$WNPC_Command	COMMAND	 EMRETMEK
+$WNPC_Move	MOVE	 TAÞINMAK
+$Workshop	OUTPOST	 ileri karakol
+$WORKSHOP	OUTPOST	 ileri karakol
+$WorkshopBuilderMenu	Outpost Builder Menu	 Karakol Oluþturucu Menüsü
+$WorkshopBuilder_RequiresScanning	Requires Additional Scanning	 Ek Tarama Gerektirir
+$WorkshopPower	Power	 Güç
+$WorkshopPower:	Power:	 Güç:
+$Workshop_AltMode	Toggle Alternate Mode	 Alternatif Modu Deðiþtir
+$Workshop_Cancel	Cancel	 Ýptal etmek
+$Workshop_ChangeMode	Change Mode	 Modu Deðiþtir
+$Workshop_Confirm	Build/Confirm/Edit	 Oluþtur/Onayla/Düzenle
+$Workshop_Down	Down	 Aþaðý
+$Workshop_Left	Previous Variant	 Önceki Varyant
+$Workshop_LShoulder	Change Color/Previous Category	 Rengi Deðiþtir/Önceki Kategori
+$Workshop_LTrigger	Rotate Object Left	 Nesneyi Sola Döndür
+$Workshop_Right	Next Variant	 Sonraki Varyant
+$Workshop_RShoulder	Repair Object/Next Category	 Onarým Nesnesi/Sonraki Kategori
+$Workshop_RTrigger	Rotate Object Right/Create Connection	Nesneyi Saða Döndür/Baðlantý Oluþtur
+$Workshop_ToggleDetails	Toggle Details	 Ayrýntýlarý Deðiþtir
+$Workshop_ToggleDistance	Toggle Distance Mode	 Mesafe Modunu Deðiþtir
+$Workshop_ToggleView	Toggle View	 Görünümü Deðiþtir
+$Workshop_Up	Up	Yukarý
+$Workshop_XButton	Delete/Replace Object	 Nesneyi Sil/Deðiþtir
+$World Map	WORLD MAP	 DÜNYA HARÝTASI
+$WS_Beds	Beds	 Yataklar
+$WS_Food	Food	 Yiyecek
+$WS_Happy	Happiness	 Mutluluk
+$WS_People	People	 Ýnsanlar
+$WS_Power	Power	 Güç
+$WS_Safety	Defense	 Savunma
+$WS_Water	Water	 su
+$wt	Weight	 Aðýrlýk
+$XP	XP	 XP
+$Yes	Yes	 Evet
+$YES	YES	 EVET
+$YOU'VE_REACHED_LEVEL	You've reached level	 seviyeye ulaþtýnýz
+$YOUR CREDITS	YOUR CREDITS	 KREDÝLERÝNÝZ
+$ZOOM	ZOOM	 YAKINLAÞTIR
+$ZOOM IN	ZOOM IN	 YAKINLAÞTIR
+$ZOOM OUT	ZOOM OUT	 UZAKLAÞTIR
+$ZoomIn	Zoom In	 Yakýnlaþtýr
+$ZoomOut	Zoom Out	 Uzaklaþtýr
+$[NEW SAVE]	[NEW SAVE]	 [YENÝ KAYIT]
