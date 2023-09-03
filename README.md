@@ -38,11 +38,13 @@ Gönderilen pull requestleri şimdilik ben gözden geçireceğim, zamanla projey
    ![Import .esm](image/README/import_esm.png)
    ![Choose .esm](image/README/choose_esm.png)
 2. Çevirinin kendisini yüklemek gerekiyor
+
    ![Import translation](image/README/import_translation.png)
    ![Choose translation](image/README/choose_translation.png)
    ![Import popup](image/README/overwrite_popup.png)
 3. Yapacağımız değişiklikleri yapıyoruz (Bknz. Çeviri ile ilgili notlar)
 4. Çeviri dışa aktarılır
+
    ![Export translation](image/README/export_translation.png)
    ![Export popup](image/README/export_popup.png)
 
