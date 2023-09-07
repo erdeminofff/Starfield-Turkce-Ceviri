@@ -17,7 +17,7 @@ $ABBREVIATED_PHYSICAL	PHYS	 FÝZÝK
 $ABORT	ABORT	 DURDUR
 $ABORT JUMP	ABORT JUMP	 ATLAMAYI ÝPTAL ET
 $acc	Accuracy	Ýsabet
-$ACCEPT	ACCEPT	 KABUL ETMEK
+$ACCEPT	ACCEPT	 KABUL ET
 $ACCEPTTRADE	ACCEPT TRADE	 TÝCARETÝ KABUL ET
 $ACCURACY	ACCURACY	ÝSABET
 $ACCURACY_LRG	ACC	 ACC
@@ -31,7 +31,7 @@ $Actor Fade Desc	Controls the distance at which actors fade in.	 Aktörlerin yava
 $ADD	ADD	 EKLE
 $ADD ALL	ADD ALL	 HEPSÝNÝ EKLE
 $ADD-ONS	ADD-ONS	 EKLENTÝLER
-$ADJUST	ADJUST	 AYARLAMAK
+$ADJUST	ADJUST	 AYARLA
 $ADJUST HEIGHT	ADJUST HEIGHT	 YÜKSEKLÝÐÝ AYARLAYIN
 $ADJUST_ZOOM	ADJUST ZOOM	 YAKINLAÞTIRMAYI AYARLAYIN
 $Advanced	Advanced	 Geliþmiþ
@@ -53,9 +53,9 @@ $AP	AP	 Eriþim noktasý
 $APPLY	APPLY	 UYGULA
 $ARGOS EXTRACTORS MINING OUTPOST	ARGOS EXTRACTORS MINING OUTPOST	 ARGOS ÇIKARMA MADENCÝLÝK KARAYOLU
 $ARGOS_EXTRACTORS	ARGOS EXTRACTORS	 ARGOS SIKMA MAKÝNALARI
-$Arrest	Arrest	 Tutuklamak
+$Arrest	Arrest	 Tutukla
 $ASCENDING	ASC	 ASC
-$Assign	ASSIGN	 ATAMAK
+$Assign	ASSIGN	 ATA
 $ASSIGN CREW	ASSIGN CREW	 EKÝP ATAYIN
 $ASSIGN FAVORITE	ASSIGN FAVORITE	FAVORÝ ATAMA
 $Assign Weapons	ASSIGN WEAPONS	 SÝLAHLARI ATAYIN
@@ -74,8 +74,8 @@ $AssignmentCategoryShipDescription	Select a ship to assign to	 Atanacak bir gemi
 $Asteroid Belt	ASTEROID BELT	 ASTEROÝD KUÞAÐI
 $ASTEROID BELTS	ASTEROID BELTS	 ASTEROÝD KUÞAKLARI
 $ATMOSPHERE	ATMOSPHERE	 ATMOSFER
-$ATTACH	ATTACH	 EKLEMEK
-$Attach	ATTACH	 EKLEMEK
+$ATTACH	ATTACH	 EKLE
+$Attach	ATTACH	 EKLE
 $ATTACH MOD	ATTACH MOD	 MODU EKLE
 $ATTACH WIRE	ATTACH WIRE	 KABLO TAKIN
 $ATTACHMENTS	Attachments	 Ekler
@@ -107,8 +107,8 @@ $BACKTOGALAXY	BACK TO GALAXY	 GALAXY'E GERÝ DÖN
 $BACKTOSYSTEM	BACK TO SYSTEM	 SÝSTEME GERÝ DÖN
 $Basic	Basic	 Temel
 $BasicMenuNav	MENU NAVIGATION	 MENÜ NAVÝGASYONU
-$BasicMenuNav_Accept	Accept	 Kabul etmek
-$BasicMenuNav_Cancel	Cancel	 Ýptal etmek
+$BasicMenuNav_Accept	Accept	 Kabul et
+$BasicMenuNav_Cancel	Cancel	 Ýptal et
 $BasicMenuNav_Down	Down	 Aþaðý
 $BasicMenuNav_Left	Left	 Sol
 $BasicMenuNav_Right	Right	 Sað
@@ -133,8 +133,8 @@ $BODY MAP	BODY MAP	 VÜCUT HARÝTASI
 $BODY PART	BODY PART	 VÜCUT PARÇASI
 $BodyAlreadyAdded	Can not add the same location to the route twice in a row.	 Ayný konum üst üste iki kez rotaya eklenemez.
 $BONUS	BONUS	 BONUS
-$BOOST	BOOST	 ARTIRMAK
-$BOOSTPACK	BOOST	 ARTIRMAK
+$BOOST	BOOST	 ARTIR
+$BOOSTPACK	BOOST	 ARTIR
 $Both	Both	 Ýkisi birden
 $BOUNDARYREACHED_HEADER	BOUNDARY REACHED	 SINIRLARA ULAÞILDI
 $BOUNDARYREACHED_MESSAGE	Open the map to explore another region, or return to your ship.	 Baþka bir bölgeyi keþfetmek için haritayý açýn veya geminize dönün.
@@ -142,8 +142,8 @@ $BOUNTY	BOUNTY	 ÖDÜL
 $Bounty	Bounty	 Ödül
 $BRIGHTNESS	BRIGHTNESS	 PARLAKLIK
 $Brightness	Brightness	 Parlaklýk
-$Build	Build	 Ýnþa etmek
-$BUILD	BUILD	 ÝNÞA ETMEK
+$Build	Build	 Ýnþa et
+$BUILD	BUILD	 ÝNÞA ET
 $BUILD LIMIT	BUILD LIMIT	 ÝNÞA LÝMÝTÝ
 $Build Mod?	Build Mod?	 Modu Oluþtur?
 $BUILD MODE	BUILD MODE	 ÝNÞA MODU
@@ -159,10 +159,10 @@ $BuildConfirm4	Detach part?	 Parça ayrýlsýn mý?
 $BUILDING SHADERS:	BUILDING SHADERS:	 BÝNA GÖLGELENDÝRÝCÝLERÝ:
 $BuildList	Build List	 Liste Oluþtur
 $Built:	Built:	 Ýnþa edilmiþ:
-$BULLDOZE	BULLDOZE	 GÖZDAÐI VERMEK
+$BULLDOZE	BULLDOZE	 GÖZDAÐI VER
 $BULLDOZE MODE	BULLDOZE MODE	BULLDOZE MODU
 $Bulldozers	Bulldozers	 Buldozerler
-$BUY	BUY	 SATIN ALMAK
+$BUY	BUY	 SATIN AL
 $BUY ALL	BUY ALL	 HEPSÝNÝ AL
 $BUY BACK	BUY BACK	 GERÝ AL
 $BUY SHIPS	BUY SHIPS	 GEMÝ SATIN ALIN
@@ -170,8 +170,8 @@ $CAMERA	CAMERA	 KAMERA
 $Camera	Camera	 Kamera
 $Camera Roll	Camera Roll	 Kamera Rulosu
 $Camera Type	Camera Type	 Kamera tipi
-$CANCEL	CANCEL	 ÝPTAL ETMEK
-$Cancel	Cancel	 Ýptal etmek
+$CANCEL	CANCEL	 ÝPTAL ET
+$Cancel	Cancel	 Ýptal et
 $CANCEL AND EXIT	CANCEL AND EXIT	 ÝPTAL VE ÇIKIÞ
 $CANCEL MODIFICATION	CANCEL MODIFICATION	 DEÐÝÞÝKLÝÐÝ ÝPTAL ET
 $CANCEL TRADE	CANCEL TRADE	 TÝCARETÝ ÝPTAL ET
@@ -224,7 +224,7 @@ $CHALLENGE PROGRESS	CHALLENGE PROGRESS	 ÝLERLEMEYE MEYDAN OKUYUN
 $Challenge_Progress	CHALLENGE PROGRESS	 ÝLERLEMEYE MEYDAN OKUYUN
 $CHANCE TO EVADE SCAN: 0%	CHANCE TO EVADE SCAN: 0%	 TARAMADAN KAÇMA ÞANSI: %0
 $CHANCE TO EVADE SCAN: {0}%	CHANCE TO EVADE SCAN: {0}%	 TARAMADAN KAÇMA ÞANSI: %{0}
-$CHANGE	CHANGE	 DEÐÝÞTÝRMEK
+$CHANGE	CHANGE	 DEÐÝÞTÝR
 $CHANGE FILTER (TODO)	CHANGE FILTER (TODO)	 FÝLTREYÝ DEÐÝÞTÝR (YAPILACAK)
 $Change sex	Change sex	 Cinsiyeti deðiþtir
 $ChangeColors	Change Colors	 Renkleri Deðiþtir
@@ -263,13 +263,13 @@ $Chargen_WalkStyle	WALK STYLE	 YÜRÜYÜÞ STÝLÝ
 $CHARISMA	CHARISMA	 KARÝZMA
 $CHEEKS1	CHEEKS 1	 YANAKLAR 1
 $CHEEKS2	CHEEKS 2	 YANAKLAR 2
-$Choose	CHOOSE	 SEÇMEK
+$Choose	CHOOSE	 SEÇ
 $Choose (#)	CHOOSE (#)	 SEÇMEK (#)
 $CHOOSE COMPONENTS	CHOOSE COMPONENTS	 BÝLEÞENLERÝ SEÇÝN
 $Cinematic	Cinematic	 Sinematik
 $CLAIM	CLAIM	 ÝDDÝA
 $CLASS	CLASS	 SINIF
-$CLEAR	CLEAR	 TEMÝZLEMEK
+$CLEAR	CLEAR	 TEMÝZLE
 $CLEAR MODE	CLEAR MODE	 MODU TEMÝZLE
 $CLEAR ROUTE	CLEAR ROUTE	 ROTA TEMÝZLE
 $ClearRoute_Confirm	Are you sure you want to remove all jumps?	 Tüm atlamalarý kaldýrmak istediðinizden emin misiniz?
@@ -296,7 +296,7 @@ $CommandModeFail_Moral	This character won't do that.	 Bu karakter bunu yapmayaca
 $Common	Common	Yaygýn
 $Companion Enabled	Pip-Boy App Enabled	 Pip-Boy Uygulamasý Etkinleþtirildi
 $COMPARE TO EQUIPPED	COMPARE TO EQUIPPED	 DONANIMLI ÝLE KARÞILAÞTIRIN
-$COMPARE TO EQUIPPED_LRG	COMPARE	 KARÞILAÞTIRMAK
+$COMPARE TO EQUIPPED_LRG	COMPARE	 KARÞILAÞTIR
 $Compass_East	E	 e
 $Compass_North	N	 N
 $Compass_South	S	 S
@@ -310,8 +310,8 @@ $COMPLEXIONCOLORTEMP	COMPLEXION COLOR TEMP	 CÝLT RENK SICAKLIÐI
 $COMPONENT VIEW	COMPONENT VIEW	 BÝLEÞEN GÖRÜNÜMÜ
 $COMPONENTS	COMPONENTS	 BÝLEÞENLER
 $CONDITION	CONDITION	 DURUM
-$Confirm	Confirm	 Onaylamak
-$CONFIRM	CONFIRM	 ONAYLAMAK
+$Confirm	Confirm	 Onayla
+$CONFIRM	CONFIRM	 ONAYLA
 $Confirm change preset	Choose a new character preset and discard your current changes?	 Yeni bir karakter ön ayarý seçip mevcut deðiþikliklerinizi iptal etmek mi istiyorsunuz?
 $Confirm character	Confirm character?	 Karakter onaylansýn mý?
 $Confirm character changes	Confirm changes to character?	 Karakterde yapýlan deðiþiklikler onaylansýn mý?
@@ -344,7 +344,7 @@ $Container_Weight	Container Weight	 Konteyner Aðýrlýðý
 $CONTEST	CONTEST	 YARIÞMA
 $ContextForSaveHeader	Enter some information about this save game	 Bu kayýtlý oyun hakkýnda bazý bilgiler girin
 $ContextForSavePrompt	Context for this save	 Bu kaydetmenin baðlamý
-$CONTINUE	CONTINUE	 DEVAM ETMEK
+$CONTINUE	CONTINUE	 DEVAM ET
 $Contraband	Contraband	 Kaçak
 $Contrast	Contrast	 Zýtlýk
 $Controller	Controller	 Denetleyici
@@ -363,11 +363,11 @@ $COORDINATES:	COORDINATES:	 KOORDÝNATLAR:
 $CoppaText	I have read and agree to the Terms of Service and the Privacy Policy and the Code of Conduct.	 Hizmet Koþullarýný, Gizlilik Politikasýný ve Davranýþ Kurallarýný okudum ve kabul ediyorum.
 $CORROSIVE RESISTANCE	CORROSIVE RESISTANCE	 AÞINDIRICI DÝRENÇ
 $COST	COST	 MALÝYET
-$Count	Count	 Saymak
+$Count	Count	 Say
 $CRAFT	CRAFT	 ZANAAT
 $Craft	CRAFT	 ZANAAT
-$CRAFTING	CRAFTING	 ÜRETMEK
-$Crafting	Crafting	 Üretmek
+$CRAFTING	CRAFTING	 ÜRET
+$Crafting	Crafting	 Üret
 $CRATERFACE	CRATERS	 KRATERLER
 $CREATE CONNECTION	CREATE CONNECTION	 BAÐLANTI OLUÞTURUN
 $CREATE OUTPUT LINK	CREATE OUTPUT LINK	 ÇIKTI BAÐLANTISI OLUÞTURUN
@@ -400,7 +400,7 @@ $CurrentlyBuilt	Currently Built	 Þu anda inþa edilmiþ
 $CURRENT_LINK:	CURRENT LINK:	 GÜNCEL BAÐLANTI:
 $CURRENT_RANK	CURRENT RANK	 MEVCUT SIRALAMA
 $CURRENT_RANK:	CURRENT RANK	 MEVCUT SIRALAMA
-$CUSTOMIZE	CUSTOMIZE	 ÖZELLEÞTÝRMEK
+$CUSTOMIZE	CUSTOMIZE	 ÖZELLEÞTÝR
 $CYCLE DAMAGE	CYCLE DAMAGE	 DÖNGÜ HASARI
 $Cycle Parts	CYCLE PART	 DÖNGÜ PARÇASI
 $CycleSystem	CYCLE SYSTEM	 DÖNGÜ SÝSTEMÝ
@@ -421,15 +421,15 @@ $DataSlate_ImageLog	IMAGE LOG	 GÖRÜNTÜ GÜNLÜÐÜ
 $DataSlate_TextLog	TEXT LOG	 METÝN GÜNLÜÐÜ
 $DAY	DAY	 GÜN
 $DAYS	DAYS	 GÜNLER
-$DECLINE	DECLINE	 REDDETMEK
+$DECLINE	DECLINE	 REDDET
 $DeconnectedController	Connect a controller and press A button to continue.	 Bir denetleyici baðlayýn ve devam etmek için A düðmesine basýn.
-$DECORATE	DECORATE	 SÜSLEMEK
+$DECORATE	DECORATE	 SÜSLE
 $Default	Default	 Varsayýlan
 $DEFAULTS	DEFAULTS	 VARSAYILANLAR
 $DEFAULT_COLOR	Default	 Varsayýlan
 $DEFAULT_COLOR_ALL	Default All	 Varsayýlan Tümü
-$DELETE	DELETE	 SÝLMEK
-$Delete	Delete	 Silmek
+$DELETE	DELETE	 SÝL
+$Delete	Delete	 Sil
 $Delete Photo?	Delete Photo?	 Fotoðrafý sil?
 $Delete this save?	Delete this save?	 Bu kaydetme silinsin mi?
 $DeleteAllMods	Delete All Mods	 Tüm Modlarý Sil
@@ -477,12 +477,12 @@ $Directory	Directory	 Rehber
 $DIRT	DIRT	 KÝR
 $DisableAllMods	Disable All Mods	 Tüm Modlarý Devre Dýþý Býrak
 $Disabled	Disabled	 Engelli
-$DisableMod	Disable	 Devre dýþý býrakmak
-$Disarm	Disarm	 Etkisiz hale getirmek
+$DisableMod	Disable	 Devre dýþý býrak
+$Disarm	Disarm	 Etkisiz hale getir
 $DiscoveredText	Discovered	 Keþfetti
-$DISMISS	DISMISS	 AZLETMEK
-$DISPLAY	DISPLAY	 GÖRÜNTÜLEMEK
-$Display	Display	Görüntülemek
+$DISMISS	DISMISS	 AZLET
+$DISPLAY	DISPLAY	 GÖRÜNTÜLE
+$Display	Display	Görüntüle
 $DISTANCE	DISTANCE	 MESAFE
 $Distance	Distance	 Mesafe
 $distance (ly)	DISTANCE (LY)	 MESAFE (LY)
@@ -492,8 +492,8 @@ $DOCK	DOCK	 RIHTIM
 $DOCKED	DOCKED	 YERLEÞTÝRÝLDÝ
 $DocsHeader	Updated Agreement	 Güncellenmiþ Sözleþme
 $DocsInstructions	By clicking ‘Accept’ I confirm I have read and acknowledged the ZeniMax Media Privacy Policy and I agree to the ZeniMax Media Terms of Service and Code of Conduct	 'Kabul Et'i týklayarak ZeniMax Medya Gizlilik Politikasýný okuyup kabul ettiðimi ve ZeniMax Medya Hizmet Þartlarý ve Davranýþ Kurallarýný kabul ettiðimi onaylýyorum
-$DONE	DONE	 TAMAMLAMAK
-$Download	Download	 Ýndirmek
+$DONE	DONE	 TAMAMLA
+$Download	Download	 Ýndir
 $Downloading...	Downloading...	 Ýndiriliyor...
 $DownloadSize:	Download Size:	 Ýndirme Boyutu:
 $DPS	DPS	 DPS
@@ -503,17 +503,17 @@ $DRAirborne_LRG	Airborne	 Havadan
 $DRCorrosive	Corrosive	 Aþýndýrýcý
 $DRCorrosive_LRG	Corrosive	 Aþýndýrýcý
 $DRIVE DAMAGE	DRIVE DAMAGE	 SÜRÜCÜ HASARI
-$DROP	DROP	 DÜÞÜRMEK
+$DROP	DROP	 DÜÞÜR
 $Drop:	Drop:	 Düþürmek:
 $DRRadiation	Radiation	 Radyasyon
 $DRRadiation_LRG	Radiation	 Radyasyon
 $DRThermal	Thermal	 Termal
 $DRThermal_LRG	Thermal	 Termal
 $DTI	DTI	 DTI
-$DUPLICATE	DUPLICATE	 KOPYALAMAK
+$DUPLICATE	DUPLICATE	 KOPYALA
 $Easy	Easy	 Kolay
-$Edit	Edit	 Düzenlemek
-$EDIT	EDIT	 DÜZENLEMEK
+$Edit	Edit	 Düzenle
+$EDIT	EDIT	 DÜZENLE
 $EDIT COLOR	COLOR	 RENK
 $Effects	Effects	 Etkileri
 $EFFECTS	EFFECTS	 ETKÝLERÝ
@@ -537,7 +537,7 @@ $Enable RTX	Raytraced Global Illumination	 Raytraced Küresel Aydýnlatma
 $Enable RTX Desc	Enables raytracing for indirect lighting. (*Enabling/disabling this setting requires a game restart.)	Dolaylý aydýnlatma için ýþýn izlemeyi etkinleþtirir. (*Bu ayarýn etkinleþtirilmesi/devre dýþý býrakýlmasý oyunun yeniden baþlatýlmasýný gerektirir.)
 $Enable VRS	Enable VRS	 VRS'yi etkinleþtir
 $Enable VRS Desc	Enables variable rate shading during rendering.	 Oluþturma sýrasýnda deðiþken oranlý gölgelemeyi etkinleþtirir.
-$EnableMod	Enable	 Olanak vermek
+$EnableMod	Enable	 Olanak ver
 $ENDURANCE	ENDURANCE	 DAYANIKLILIK
 $ENERGY	ENERGY	 ENERJÝ
 $ENG	ENG	 TR
@@ -545,7 +545,7 @@ $ENGINES	ENGINES	 MOTORLAR
 $English	English	 Ýngilizce
 $Enhancer	Enhancer	 Arttýrýcý
 $ENLARGE	ENLARGE	 BÜYÜT
-$ENTER	ENTER	 GÝRMEK
+$ENTER	ENTER	 GÝR
 $Enter name.	Enter name.	 Ýsim giriniz.
 $ENTER SCAN RANGE	ENTER SCAN RANGE TO REGISTER BODY DATA	 GÖVDE VERÝLERÝNÝ KAYIT ETMEK ÝÇÝN TARAMA ARALIÐINA GÝRÝN
 $ENTER TEXT	ENTER TEXT	 METÝN GÝRÝN
@@ -553,7 +553,7 @@ $Entering Patrolled Area	ENTERING PATROLLED AREA	 DEVRÝYE ALANINA GÝRÝÞ
 $ENTER_NAME	ENTER NAME	 ÝSÝM GÝRÝNÝZ
 $Environment	Environment	 Çevre
 $ENVIRONMENT RATING	ENVIRONMENT RATING	 ÇEVRE DERECESÝ
-$EQUIP	EQUIP	 DONATMAK
+$EQUIP	EQUIP	 DONAT
 $EQUIP HOLD	HOLD TO EQUIP	 DONANMAK ÝÇÝN TUTUN
 $EQUIP POWER	EQUIP POWER	 GÜCÜ DONAT
 $Equipped Item	Equipped Item	 Donanýmlý Öðe
@@ -563,8 +563,8 @@ $Errors	Errors	 Hatalar
 $ET	ET	 ET
 $EULAHeader	EULA applicable to residents of North America and Latin America:	 EULA, Kuzey Amerika ve Latin Amerika'da ikamet edenler için geçerlidir:
 $Excessive Drive Damage	Excessive Drive Damage	 Aþýrý Tahrik Hasarý
-$EXECUTE	EXECUTE	 UYGULAMAK
-$Execute	EXECUTE	 UYGULAMAK
+$EXECUTE	EXECUTE	 UYGULA
+$Execute	EXECUTE	 UYGULA
 $Execute Critical	EXECUTE CRITICAL	 KRÝTÝK UYGULAMA
 $EXIT	EXIT	 ÇIKIÞ
 $Exit	Exit	 çýkýþ
@@ -658,7 +658,7 @@ $FILTER_IN_RANGE	Filter: In Range	 Filtre: Aralýk Ýçinde
 $FILTER_NONE	Filter: None	 Filtre: Yok
 $FILTER_SYSTEM_IN_RANGE	In Jump Range	 Atlama Aralýðýnda
 $FILTER_SYSTEM_VISITED	Visited	 Ziyaret
-$FINISH	FINISH	 SONA ERMEK
+$FINISH	FINISH	 SONA ER
 $FIRST	FIRST	 BÝRÝNCÝ
 $Flashlight	Flashlight	 El feneri
 $FLIGHT CHECK	FLIGHT CHECK	 UÇUÞ KONTROLÜ
@@ -699,7 +699,7 @@ $FUEL	FUEL	 YAKIT
 $Fuel (l)	Fuel (l)	 Yakýt (l)
 $FUEL CAPACITY	FUEL CAPACITY	 YAKIT KAPASÝTESÝ
 $FUEL CONSUMPTION	FUEL CONSUMPTION	 YAKIT TÜKETÝMÝ
-$FuelFromOutpost	Using fuel from an Outpost	 Bir Karakoldan yakýt kullanmak
+$FuelFromOutpost	Using fuel from an Outpost	 Bir Karakoldan yakýt kullan
 $GALAXY MAP	GALAXY MAP	 GALAXY HARÝTASI
 $GAMEPLAY	GAMEPLAY	 OYNANIÞ
 $Gameplay	Gameplay	 Oynanýþ
@@ -712,9 +712,9 @@ $General	General	 Genel
 $General Subtitles	General Subtitles	 Genel Altyazýlar
 $General Subtitles Desc	Enables subtitles while walking around the game.	Oyunda dolaþýrken altyazýlarý etkinleþtirir.
 $German	German	 Almanca
-$GET UP	GET UP	 UYANMAK
+$GET UP	GET UP	 UYAN
 $GI	CATALOGUE ID	 KATALOG KÝMLÝÐÝ
-$Go	GO	 GÝTMEK
+$Go	GO	 GÝT
 $Grass Fade	Grass Fade	 Çim Solmasý
 $Grass Fade Desc	Controls the distance at which grass fades in.	 Çimlerin kaybolacaðý mesafeyi kontrol eder.
 $GRAV	GRAV	 AÐIR
@@ -750,9 +750,9 @@ $HideQuestSummary	HIDE SUMMARY	 ÖZETÝ GÝZLE
 $HighestRated	Highest Rated	 En yüksek dereceli
 $Hold Breath	Hold Breath	 Nefesini tut
 $HOLD DISTANCE	HOLD DISTANCE	 MESAFE TUTUN
-$HOLD UP	HOLD UP	 GECÝKMEK
-$HolotapePlay	PLAY	 OYNAMAK
-$HolotapeStop	STOP	 DURMAK
+$HOLD UP	HOLD UP	 GECÝK
+$HolotapePlay	PLAY	 OYNA
+$HolotapeStop	STOP	 DUR
 $Hostile	Hostile	 Düþmanca
 $HOUR	HOUR	 SAAT
 $hour.	hour.	 saat.
@@ -768,17 +768,17 @@ $HUD Opacity Desc	Controls the transparency of the HUD.	 HUD'un þeffaflýðýný kon
 $HUDColorB	HUD Color B	HUD Renk B
 $HUDColorG	HUD Color G	 HUD Renk G
 $HUDColorR	HUD Color R	 HUD Renk R
-$HUDCommandAssign	Assign	 Atamak
+$HUDCommandAssign	Assign	 Ata
 $HUDCommandAttack	Attack	 Saldýrý
 $HUDCommandCall	Call	 Arama
-$HUDCommandEnter	Enter	 Girmek
-$HUDCommandFollow	Follow	 Takip etmek
-$HUDCommandHeal	Heal	 Ýyileþtirmek
-$HUDCommandInspect	Inspect	 Ýncelemek
-$HUDCommandMove	Move	 Taþýnmak
-$HUDCommandRetrieve	Retrieve	 Geri almak
-$HUDCommandRide	Ride	 Sürmek
-$HUDCommandStay	Stay	 Kalmak
+$HUDCommandEnter	Enter	 Gir
+$HUDCommandFollow	Follow	 Takip et
+$HUDCommandHeal	Heal	 Ýyileþtir
+$HUDCommandInspect	Inspect	 Ýncele
+$HUDCommandMove	Move	 Taþýn
+$HUDCommandRetrieve	Retrieve	 Geri al
+$HUDCommandRide	Ride	 Sür
+$HUDCommandStay	Stay	 Kal
 $HUDCompleted	Completed	 Tamamlanmýþ
 $HUDDrink	WATER\nDRINK	 SU\nÝÇECEK
 $HUDFailed	Failed	 Arýzalý
@@ -794,7 +794,7 @@ $ICON_LABEL_CUSTOM	C	 C
 $ICON_LABEL_DOCUMENT	D	 D
 $ICON_LABEL_FOLDER	F	 F
 $ICON_LABEL_KIOSK	K	 k
-$IGNORE	IGNORE	 GÖRMEZDEN GELMEK
+$IGNORE	IGNORE	 GÖRMEZDEN GEL
 $IN TRANSIT	IN TRANSIT	 TRANSÝT OLARAK
 $IN/OUT	IN/OUT	 GÝRÝÞ/ÇIKIÞ
 $INCOMING HAIL	INCOMING HAIL	 GELEN DOLU
@@ -813,8 +813,8 @@ $INPUT REQUIREMENTS:	INPUT REQUIREMENTS:	 GÝRÝÞ GEREKSÝNÝMLERÝ:
 $Input Requirements:	Input Requirements:	 Giriþ Gereksinimleri:
 $Input:	Input:	 Giriþ:
 $InputAmount	Input Amount	 Giriþ Tutarý
-$INSPECT	INSPECT	 ÝNCELEMEK
-$INSTALL	INSTALL	 DÜZENLEMEK
+$INSPECT	INSPECT	 ÝNCELE
+$INSTALL	INSTALL	 DÜZENLE
 $INSTALLED	INSTALLED	 KURULMUÞ
 $INSTALLED COMPONENT	INSTALLED COMPONENT	 KURULU BÝLEÞEN
 $Installing	Installing	 Kurulum
@@ -830,7 +830,7 @@ $Integrity	Integrity	 Bütünlük
 $Integrity (%)	Integrity (%)	 Bütünlük (%)
 $INTELLIGENCE	INTELLIGENCE	 ÝSTÝHBARAT
 $INTENSITY	INTENSITY	 YOÐUNLUK
-$INTERACT	INTERACT	 ETKÝLEÞÝME GÝRMEK
+$INTERACT	INTERACT	 ETKÝLEÞÝME GÝR
 $INV	INV	 INV
 $InvalidTransaction	Could not complete transaction.	 Ýþlem tamamlanamadý.
 $InvCompareLabel_Ammo	AMMO	 CEPHANE
@@ -913,8 +913,8 @@ $ItemsToCargoHold	All items will be moved to the cargo hold.	 Tüm eþyalar kargo 
 $Japanese	Japanese	 Japonca
 $Jettison	JETTISON	 ATILMA
 $JETTISON ALL	JETTISON ALL	 HEPSÝNÝ ATIN
-$Jump	Jump	 Zýplamak
-$JUMP	JUMP	 ZIPLAMAK
+$Jump	Jump	 Zýpla
+$JUMP	JUMP	 ZIPLA
 $JUMP DATA	JUMP DATA	 VERÝLERÝ ATLAMA
 $JUMP RANGE	JUMP RANGE	 ATLAMA ARALIÐI
 $JUMP TO	TRAVEL	 SEYAHAT
@@ -956,9 +956,9 @@ $LEGENDARY EFFECT	LEGENDARY EFFECT	 EFSANEVÝ ETKÝ
 $Level	Level	 Seviye
 $LEVEL	LEVEL	SEVÝYE
 $Level #	Level #	 Seviye #
-$LEVEL UP	LEVEL UP	 SEVÝYE ATLAMAK
+$LEVEL UP	LEVEL UP	 SEVÝYE ATLA
 $Level {0} Ship	Level {0} Ship	 {0}. Seviye Gemi
-$LEVELUP	LEVEL UP	 SEVÝYE ATLAMAK
+$LEVELUP	LEVEL UP	 SEVÝYE ATLA
 $LIFE	LIFE	 HAYAT
 $Light Fade	Light Fade	 Iþýk Solmasý
 $LINER	LINER	 ASTAR
@@ -1022,7 +1022,7 @@ $LoginPage_Footer	Play with Mods at your own risk. You may experience issues wit
 $LoginPage_Footer_PS4	Play with Mods at your own risk. You may experience issues with mods. You can disable Mods via Load Order and go back to your original save at anytime using Select Character in the Load menu. Downloading and playing with Mods is subject to our Terms of Service. Note: Trophies are disabled.	 Modlarla oynamak kendi sorumluluðunuzdadýr. Modlarla ilgili sorunlar yaþayabilirsiniz. Yükleme Sýrasý aracýlýðýyla Modlarý devre dýþý býrakabilir ve Yükle menüsündeki Karakter Seç'i kullanarak istediðiniz zaman orijinal kaydýnýza geri dönebilirsiniz. Modlarý indirmek ve oynamak Hizmet Þartlarýmýza tabidir. Not: Kupalar devre dýþýdýr.
 $LoginPage_Header	Sign in to explore mods from the Bethesda.net community. Signing in will link your Bethesda.net account for automatic logging in.	 Bethesda.net topluluðundaki modlarý keþfetmek için oturum açýn. Oturum açmak, otomatik oturum açma için Bethesda.net hesabýnýzý baðlayacaktýr.
 $Login_CreateNew	CREATE NEW ACCOUNT	 YENÝ HESAP OLUÞTUR
-$LOOK	LOOK	 BAKMAK
+$LOOK	LOOK	 BAK
 $Look Horizontal Sensitivity	Look Sensitivity H	 Görünüm Hassasiyeti H
 $Look Horizontal Sensitivity Desc	Controls the general sensitivity of horizontal looking.	 Yatay görünümün genel hassasiyetini kontrol eder.
 $Look Sensitivity	Look Sensitivity	 Görünüm Hassasiyeti
@@ -1047,7 +1047,7 @@ $MainGameplay_Back	Back	 Geri
 $MainGameplay_DataMenu	Open Data Menu	 Veri Menüsünü Aç
 $MainGameplay_Flashlight	Toggle Flashlight	 El Fenerini Aç/Kapat
 $MainGameplay_Forward	Forward	 Ýleri
-$MainGameplay_Jump	Jump	 Zýplamak
+$MainGameplay_Jump	Jump	 Zýpla
 $MainGameplay_Melee	Melee	 Yakýn Dövüþ
 $MainGameplay_Monocle	Hand Scanner/Flashlight	 El Tarayýcý/El Feneri
 $MainGameplay_Pause	Pause	 Duraklat
@@ -1095,8 +1095,8 @@ $MainGameplay_WeaponReadyReload	Reload/Sheathe Weapon	 Silahý Yeniden Doldur/Kýl
 $MainGameplay_ZoomIn	Camera Zoom In	 Kamerayý Yakýnlaþtýr
 $MainGameplay_ZoomOut	Camera Zoom Out	 Kamerayý Uzaklaþtýr
 $MainKey	Main Key	 Ana Anahtar
-$Make	Make	 Yapmak
-$MAKE	MAKE	 YAPMAK
+$Make	Make	 Yap
+$MAKE	MAKE	 YAP
 $MAKE_HOME_SHIP	Make Home Ship	 Ev Gemisi Yap
 $MALE	MALE	 ERKEK
 $MANAGE GOODS	Manage Goods	 Mallarý Yönet
@@ -1182,12 +1182,12 @@ $MODS LOADED	MODS LOADED	MODLAR YÜKLENDÝ
 $ModSpace:	Total:	 Toplam:
 $Mod_AccountSettings	OPTIONS	 SEÇENEKLER
 $Mod_Details	DETAILS	 DETAYLAR
-$Mod_LibraryDelete	DELETE	 SÝLMEK
-$Mod_LibraryDisable	DISABLE	 DEVRE DIÞI BIRAKMAK
-$Mod_LibraryEnable	ENABLE	 OLANAK VERMEK
+$Mod_LibraryDelete	DELETE	 SÝL
+$Mod_LibraryDisable	DISABLE	 DEVRE DIÞI BIRAK
+$Mod_LibraryEnable	ENABLE	 OLANAK VER
 $Mod_MyLibrary	LOAD ORDER	 YÜKLEME SÝPARÝÞÝ
 $Mod_Reorder	REORDER	 YENÝDEN SÝPARÝÞ VER
-$Mod_Search	SEARCH	 ARAMAK
+$Mod_Search	SEARCH	 ARA
 $MonitorSelect	Select Monitor	 Monitörü Seçin
 $MonitorSelectDesc	Sets the monitor used in full screen borderless mode.	 Tam ekran kenarlýksýz modda kullanýlan monitörü ayarlar.
 $Monocle	Hand Scanner	 El Tarayýcý
@@ -1203,8 +1203,8 @@ $MostPopularToday	Most Popular - Today	 En Popüler - Bugün
 $Mouse Look Sensitivity	Mouse Look Sensitivity	 Fare Görünümü Hassasiyeti
 $Mouse Look Sensitivity Desc	Controls the sensitivity of the looking controls via the mouse.	 Görünüm kontrollerinin hassasiyetini fare aracýlýðýyla kontrol eder.
 $Mouse Move	Mouse Move	 Fare Hareketi
-$Move	Move	 Taþýnmak
-$MOVE	MOVE	 TAÞINMAK
+$Move	Move	 Taþýn
+$MOVE	MOVE	 TAÞIN
 $MoveMarker	Move Marker	 Ýþaretçiyi Taþý
 $MoveMarkerQuestion	Move your current marker or remove it?	 Mevcut iþaretçiniz taþýnsýn mý yoksa kaldýrýlsýn mý?
 $MultiActivate_A_QCAButton	Take Item	 Öðeyi Al
@@ -1385,7 +1385,7 @@ $Planet	PLANET	 GEZEGEN
 $PlanetNotLandable	This location cannot be landed on.	 Bu konuma inilemiyor.
 $PLANETS	PLANETS	 GEZEGENLER
 $PLANETS WITH LIFE	PLANETS WITH LIFE	 HAYAT ÝÇEREN GEZEGENLER
-$PLAY	PLAY	 OYNAMAK
+$PLAY	PLAY	 OYNA
 $Player	Player	 oyuncu
 $PLAYER SHIP	PLAYER SHIP	 OYUNCU GEMÝSÝ
 $Player Voice	Player Voice	 Oyuncu Sesi
@@ -1418,8 +1418,8 @@ $Powers_EssenceTooltip	Quantum Essences grant invulnerability but wipe all Norma
 $POWERS_HOVER	(ACTIVE)	 (AKTÝF)
 $POWERS_UNDISCOVERED	{0} UNDISCOVERED TEMPLES	 {0} KEÞFEDÝLMEMÝÞ TAPINAK
 $PrecogResponse_Empty	(Future unclear...)	 (Geleceði belirsiz...)
-$PREPARE	PREPARE	 HAZIRLANMAK
-$Present	Present	 Sunmak
+$PREPARE	PREPARE	 HAZIRLAN
+$Present	Present	 Sun
 $PRESENTS	PRESENTS	 HEDÝYELER
 $PRESETS	PRESETS	 ÖN AYARLAR
 $Press any button to start	Press any button to start	 Baþlamak için herhangi bir düðmeye basýn
@@ -1433,10 +1433,10 @@ $PRODUCES	PRODUCES	 ÜRETÝR
 $Produces:	Produces:	 Üretir:
 $PRODUCES:	PRODUCES:	 ÜRETÝR:
 $PRODUCTION	PRODUCTION	 ÜRETME
-$Progress	Progress	 Ýlerlemek
+$Progress	Progress	 Ýlerle
 $ProjectName	Project Name	 proje Adý
 $PRONOUN	PRONOUN	 ZAMÝR
-$PURCHASE SHIP	Purchase	 Satýn almak
+$PURCHASE SHIP	Purchase	 Satýn al
 $PURCHASE SHIP CANNOT PILOT PROMPT	Your Piloting Skill is too low for this ship class. Purchase Ship for {1} Credits?	 Pilotluk Beceriniz bu gemi sýnýfý için çok düþük. {1} Kredi karþýlýðýnda Gemi satýn alýnsýn mý?
 $PURCHASE SHIP PROMPT	Purchase Ship for {1} Credits?	 {1} Kredi karþýlýðýnda Gemi satýn alýnsýn mý?
 $QUANTITY	QUANTITY	 MÝKTAR
@@ -1474,8 +1474,8 @@ $Quicksaving...	Quicksaving...	 Hýzlý kaydetme...
 $QuicksavingMsg	Quicksaving...	 Hýzlý kaydetme...
 $QuickShip	Quick Ship	 Hýzlý Gemi
 $QuickStats	Quick Stats	 Hýzlý Ýstatistikler
-$Quit	Quit	 Çýkýþ yapmak
-$QUIT	QUIT	 ÇIKIÞ YAPMAK
+$Quit	Quit	 Çýkýþ yap
+$QUIT	QUIT	 ÇIKIÞ YAP
 $QuitToDesktop	Quit to desktop?	 Masaüstünden çýkýlsýn mý?
 $QuitToMainMenu	Save and quit to main menu?	 Kaydedip ana menüden çýkýlsýn mý?
 $RAD RESISTANCE	RAD RESISTANCE	 RAD DÝRENCÝ
@@ -1485,7 +1485,7 @@ $RADIO	RADIO	 RADYO
 $RadioOff	TURN OFF RADIO	 RADYOYU KAPATIN
 $RADIUS	RADIUS	 YARIÇAP
 $RADS	RADS	 RADS
-$RAISE	RAISE	 ARTIRMAK
+$RAISE	RAISE	 ARTIR
 $RANDOM	RANDOM	 RASTGELE
 $Randomize	Randomize	 Rastgeleleþtir
 $RANGE	RANGE	 MENZÝL
@@ -1504,7 +1504,7 @@ $RATING	RATING	 DEÐERLENDÝRME
 $REACTOR	REACTOR	 REAKTÖR
 $Reactor power	Reactor Power	 Reaktör Gücü
 $REACTOR POWER	REACTOR POWER	 REAKTÖR GÜCÜ
-$READ	READ	 OKUMAK
+$READ	READ	 OKU
 $ReadyWeapon	Ready/Reload	 Hazýr/Yeniden Yükle
 $RECENT	RECENT	 SON
 $RECENTER CAMERA	Recenter Camera	 Daha Yakýn Kamera
@@ -1519,9 +1519,9 @@ $Refuel Ship	REFUEL SHIP	 YAKIT GEMÝSÝ
 $Refuels	REFUELS	 YAKIT ÝKLÝMLERÝ
 $REGISTERED	Registered	 Kayýtlý
 $REGISTER_CONFIRM	Register ship for {1} credits?	 {1} kredi karþýlýðýnda gönderim kaydedilsin mi?
-$REGISTER_SHIP	REGISTER	 KAYIT OLMAK
+$REGISTER_SHIP	REGISTER	 KAYIT OL
 $REGISTRATION FORM	REGISTRATION FORM	 KAYIT FORMU
-$REJECT	REJECT	 REDDETMEK
+$REJECT	REJECT	 REDDET
 $ReloadWeapon	Reload Weapon	 Silahý doldur
 $REMAINING PROGRESS	REMAINING PROGRESS	 KALAN ÝLERLEME
 $Remap_BindingConflictsWarning	Controls binding conflicts were found. Exit anyway?	 Kontrol baðlayýcý çakýþmalar bulundu. Yine de çýkýlsýn mý?
@@ -1534,7 +1534,7 @@ $Remap_InvalidDeviceError	Remap interrupted by invalid device state or device mi
 $Remap_MainBindingOverrideWarning	Button is in use as main binding for another entry. Proceed with remap?	 Düðme baþka bir giriþ için ana ciltleme olarak kullanýlýyor. Yeniden eþlemeye devam edilsin mi?
 $Remap_MissingBindingsError	Missing bindings for required actions.	 Gerekli eylemler için baðlamalar eksik.
 $Remap_Prompt	Press a button to map to this action.	 Bu eylemi eþleþtirmek için bir düðmeye basýn.
-$REMOVE	REMOVE	 KALDIRMAK
+$REMOVE	REMOVE	 KALDIR
 $REMOVE LINK	REMOVE LINK	 BAÐLANTIYI KALDIR
 $REMOVE PLOT	REMOVE DESTINATION	 HEDEFÝ KALDIR
 $REMOVE PLOT ORBIT	REMOVE ORBIT	 Yörüngeyi Kaldýr
@@ -1546,7 +1546,7 @@ $RemoveShipPrompt	Are you sure you want to remove this ship from your ownership?
 $REMOVE_ALL	REMOVE ALL	 HEPSÝNÝ KALDIR
 $REMOVE_ALL_HOLD	HOLD TO REMOVE ALL	 TÜMÜNÜ KALDIRMAK ÝÇÝN BASILI TUTUN
 $REMOVE_LAST	REMOVE LAST	 SON KALDIR
-$RENAME	RENAME	 YENÝDEN ÝSÝMLENDÝRMEK
+$RENAME	RENAME	 YENÝDEN ÝSÝMLENDÝR
 $RENAME SHIP	RENAME SHIP	 GEMÝYÝ YENÝDEN ADLANDIRIN
 $Repair	Repair	 Tamirat
 $REPAIR	REPAIR	 TAMÝRAT
@@ -1554,7 +1554,7 @@ $REPAIR HULL	REPAIR HULL	 GÖVDE ONARIM
 $REPAIR MODULES	REPAIR MODULES	 ONARIM MODÜLLERÝ
 $REPAIR WITH	REPAIR WITH	 ÝLE ONARIM
 $RepairConfirm	Repair part using:	 Aþaðýdakileri kullanarak parçayý onarýn:
-$REPLACE	REPLACE	 YER DEÐÝÞTÝRMEK
+$REPLACE	REPLACE	 YER DEÐÝÞTÝR
 $Report	Report	 Rapor
 $Reported	Reported	 Bildirildi
 $Reporting...	Reporting...	 Raporlanýyor...
@@ -1611,10 +1611,10 @@ $Reset settings to default values?	Reset settings to default values?	 Ayarlar va
 $RESETTRADE	RESET TRADE	 TÝCARETÝ SIFIRLAYIN
 $Resistance	Resistance	 Rezistans
 $RESOURCES	RESOURCES	 KAYNAKLAR
-$RESPOND	RESPOND	 YANITLAMAK
+$RESPOND	RESPOND	 YANITLA
 $ResultsFor	Results For	 Sonuçlar
-$RESUME	RESUME	 SÜRDÜRMEK
-$RETURN	RETURN	 GERÝ DÖNMEK
+$RESUME	RESUME	 SÜRDÜR
+$RETURN	RETURN	 GERÝ DÖN
 $RETURN TO BUILDER	RETURN TO BUILDER	 ÝNÞAATÇIYA DÖNÜÞ
 $RETURN TO CONTROLS	RETURN TO CONTROLS	 KONTROLLERE GERÝ DÖN
 $Return to Seat	Return to Seat	 Koltuða Dönüþ
@@ -1633,7 +1633,7 @@ $ROTATE_DIGIPICK	ROTATE	 DÖNDÜR
 $ROUND	ROUND	 YUVARLAK
 $ROUNDS	ROUNDS	 YUVARLAKLAR
 $ROUNDS_LRG	ROUNDS	 YUVARLAKLAR
-$Run	Run	 Koþmak
+$Run	Run	 Koþ
 $RyujinIndustries	Ryujin Industries	 Ryujin Endüstrileri
 $SAFETY	DEFENSE	 SAVUNMA
 $Sanctuary	Sanctuary	 Barýnak
@@ -1641,7 +1641,7 @@ $SANCTUARY	WORKSHOPS	 ATÖLYELER
 $Satellite	SATELLITE	 UYDU
 $SATURATION	SATURATION	 DOYMA
 $Saturation	Saturation	 Doyma
-$SAVE	SAVE	 KAYDETMEK
+$SAVE	SAVE	 KAYDET
 $SAVE AND EXIT	SAVE AND EXIT	 KAYDET VE ÇIK
 $SAVE CORRUPT	SAVE CORRUPT	 BOZUKLARI KAYDET
 $Save in Pipboy	Save in Pip-Boy	 Pip-Boy'da kaydet
@@ -1760,13 +1760,13 @@ $SCIENCE_SKILLS_ADVANCED	Advanced Science skills	 Ýleri Bilim becerileri
 $SCIENCE_SKILLS_EXPERT	Expert Science skills	 Uzman Bilim becerileri
 $SCIENCE_SKILLS_MASTER	Master Science skills	 Yüksek Lisans Bilim becerileri
 $Scope	SCOPE	 KAPSAM
-$Scope_Steady	Steady	 Sabit durmak
+$Scope_Steady	Steady	 Sabit dur
 $SCRAP	SCRAP	 HURDA
 $Scrap	Scrap	 Hurda
 $SCRAP VALUE	SCRAP VALUE	 HURDA DEÐERÝ
 $SCROLL	SCROLL	 TASLAK
-$SCULPT	SCULPT	 ÞEKÝL VERMEK
-$Search	Search	 Aramak
+$SCULPT	SCULPT	 ÞEKÝL VER
+$Search	Search	 Ara
 $Season Pass	Season Pass	 Sezon geçiþi
 $SECOND	SECOND	 SANÝYE
 $SecondaryAttack	Aim/Block	 Niþan al/Engelle
@@ -1791,10 +1791,10 @@ $SELECTALL	SELECT ALL	 HEPSÝNÝ SEÇ
 $SELECTE PROFILE	SELECT PROFILE	 PROFÝL SEÇ
 $SelectL	Select	 Seçme
 $Selfie	Selfie	 Özçekim
-$SELL	SELL	 SATMAK
+$SELL	SELL	 SAT
 $SELL ALL	SELL ALL	 HEPSÝNÝ SAT
 $SELL FROM SHIP INVENTORY	SELL FROM SHIP INVENTORY	 GEMÝ ENVANTERÝNDEN SATIÞ
-$SELL SHIP	SELL	 SATMAK
+$SELL SHIP	SELL	 SAT
 $SELL SHIPS	SELL SHIPS	 GEMÝ SAT
 $SELLFROM	SELL FROM	 SATIÞ NOKTASI
 $SET COURSE	Set Course	 Rotayý Ayarla
@@ -1808,7 +1808,7 @@ $SETTINGS_CATEGORY_ACCESSIBILITY	ACCESSIBILITY	 ULAÞILABÝLÝRLÝK
 $SETTINGS_CATEGORY_AUDIO	AUDIO	 SES
 $SETTINGS_CATEGORY_CONTROLS	CONTROLS	 KONTROLLER
 $SETTINGS_CATEGORY_CONTROL_MAPPINGS	BINDINGS	 BAÐLAMALAR
-$SETTINGS_CATEGORY_DISPLAY	DISPLAY	 GÖRÜNTÜLEMEK
+$SETTINGS_CATEGORY_DISPLAY	DISPLAY	 GÖRÜNTÜLE
 $SETTINGS_CATEGORY_GAMEPLAY	GAMEPLAY	 OYNANIÞ
 $SETTINGS_CATEGORY_INTERFACE	INTERFACE	 ARAYÜZ
 $Settings_ContactShadowQuality	Contact Shadows	 Ýletiþim Gölgeleri
@@ -1891,8 +1891,8 @@ $ShipBuilder_Add_PrevModule	Previous Module	 Önceki Modül
 $ShipBuilder_Add_PrevVariant	Previous Variant	 Önceki Varyant
 $ShipBuilder_Add_Up	Up	Yukarý
 $ShipBuilder_Color	SHIPBUILDER (COLOR)	 GEMÝ YAPIMCISI (RENKLÝ)
-$ShipBuilder_Color_Accept	Accept	 Kabul etmek
-$ShipBuilder_Color_Cancel	Cancel	 Ýptal etmek
+$ShipBuilder_Color_Accept	Accept	 Kabul et
+$ShipBuilder_Color_Cancel	Cancel	 Ýptal et
 $ShipBuilder_Color_Default	Default	 Varsayýlan
 $ShipBuilder_Color_NextColor	Next Color	 Sonraki Renk
 $ShipBuilder_Color_NextControl	Next Control	 Sonraki Kontrol
@@ -1901,7 +1901,7 @@ $ShipBuilder_Color_PrevColor	Previous Color	 Önceki Renk
 $ShipBuilder_Color_PrevControl	Previous Control	 Önceki Kontrol
 $ShipBuilder_Color_PrevValue	Previous Value	 Önceki deðer
 $ShipBuilder_Edit	SHIPBUILDER (EDIT)	 GEMÝ ÝNÞAATI (DÜZENLE)
-$ShipBuilder_Edit_Accept	Accept	 Kabul etmek
+$ShipBuilder_Edit_Accept	Accept	 Kabul et
 $ShipBuilder_Edit_Delete	Delete Piece	 Parçayý Sil
 $ShipBuilder_Edit_Flip	Flip Piece	 Çevirme Parçasý
 $ShipBuilder_Edit_FlipDelete	Flip/Delete Piece	 Parçayý Çevir/Sil
@@ -1909,10 +1909,10 @@ $ShipBuilder_Edit_NextVariant	Next Variant	 Sonraki Varyant
 $ShipBuilder_Edit_PrevVariant	Previous Variant	 Önceki Varyant
 $ShipBuilder_Edit_Select	Select Piece	 Parça Seç
 $ShipBuilder_Empty	SHIPBUILDER (EMPTY)	 GEMÝ ÝNÞAATI (BOÞ)
-$ShipBuilder_Empty_Add	Add	 Eklemek
+$ShipBuilder_Empty_Add	Add	 Ekle
 $ShipBuilder_Empty_Color	Color	 Renk
-$ShipBuilder_Empty_Delete	Delete	 Silmek
-$ShipBuilder_Empty_Edit	Edit	 Düzenlemek
+$ShipBuilder_Empty_Delete	Delete	 Sil
+$ShipBuilder_Empty_Edit	Edit	 Düzenle
 $ShipBuilder_Empty_Exit	Exit	 çýkýþ
 $ShipBuilder_Empty_FlightCheck	Flight Check	 Uçuþ Kontrolü
 $ShipBuilder_Empty_Redo	Redo	 Yinele
@@ -1922,27 +1922,27 @@ $ShipBuilder_Empty_TemplateColorApply	Template Color Apply	 Þablon Rengi Uygula
 $ShipBuilder_Empty_TemplateColorSave	Template Color Save	 Þablon Rengi Kaydet
 $ShipBuilder_Empty_Undo	Undo	 Geri alma
 $ShipBuilder_ExitConfirm	SHIPBUILDER (EXIT CONFIRM)	 GEMÝ ÝNÞAATÇISI (ÇIKIÞ ONAYLA)
-$ShipBuilder_ExitConfirm_Accept	Accept	 Kabul etmek
-$ShipBuilder_ExitConfirm_Cancel	Cancel	 Ýptal etmek
+$ShipBuilder_ExitConfirm_Accept	Accept	 Kabul et
+$ShipBuilder_ExitConfirm_Cancel	Cancel	 Ýptal et
 $ShipBuilder_ExitConfirm_Exit	Exit	 çýkýþ
 $ShipBuilder_FlightCheck	SHIPBUILDER (FLIGHT CHECK)	 GEMÝ ÝNÞAATI (UÇUÞ KONTROLÜ)
-$ShipBuilder_FlightCheck_Accept	Accept	 Kabul etmek
-$ShipBuilder_FlightCheck_Cancel	Cancel	 Ýptal etmek
+$ShipBuilder_FlightCheck_Accept	Accept	 Kabul et
+$ShipBuilder_FlightCheck_Cancel	Cancel	 Ýptal et
 $ShipBuilder_FlightCheck_Exit	Exit	 çýkýþ
 $ShipBuilder_FlightCheck_NextCategory	Next Category	 Sonraki Kategori
 $ShipBuilder_FlightCheck_PrevCategory	Previous Category	 Önceki Kategori
-$ShipBuilder_FlightCheck_Rename	Rename	 Yeniden isimlendirmek
+$ShipBuilder_FlightCheck_Rename	Rename	 Yeniden isimlendir
 $ShipBuilder_Selection	SHIPBUILDER (SELECTION)	 GEMÝ ÝNÞAATI (SEÇÝM)
-$ShipBuilder_Selection_Add	Add	 Eklemek
-$ShipBuilder_Selection_Cancel	Cancel	 Ýptal etmek
+$ShipBuilder_Selection_Add	Add	 Ekle
+$ShipBuilder_Selection_Cancel	Cancel	 Ýptal et
 $ShipBuilder_Selection_Color	Color	 Renk
-$ShipBuilder_Selection_Delete	Delete	 Silmek
-$ShipBuilder_Selection_Edit	Edit	 Düzenlemek
+$ShipBuilder_Selection_Delete	Delete	 Sil
+$ShipBuilder_Selection_Edit	Edit	 Düzenle
 $ShipBuilder_Selection_Redo	Redo	 Yinele
 $ShipBuilder_Selection_Select	Select	 Seçme
 $ShipBuilder_Selection_Undo	Undo	 Geri alma
 $ShipBuilder_Upgrade	SHIPBUILDER (UPGRADE)	 GEMÝ ÝNÞAATI (YÜKSELTME)
-$ShipBuilder_Upgrade_Accept	Accept	 Kabul etmek
+$ShipBuilder_Upgrade_Accept	Accept	 Kabul et
 $ShipBuilder_Upgrade_Down	Down	 Aþaðý
 $ShipBuilder_Upgrade_Exit	Exit	 çýkýþ
 $ShipBuilder_Upgrade_NextCategory	Next Category	 Sonraki Kategori
@@ -1966,8 +1966,8 @@ $ShipHasDecorationsWarning	Modifying this ship will remove any interior decorati
 $ShipHUD	SPACESHIP (FLIGHT)	 UZAY GEMÝSÝ (UÇUÞ)
 $ShipHUD_AltHold	Ship Alternate Control Hold	 Gemi Alternatif Kontrol Bekletme
 $ShipHUD_Boosters	Fire Boosters	 Yangýn Arttýrýcýlar
-$ShipHUD_Cancel	Cancel	 Ýptal etmek
-$ShipHUD_Cancel_Cancel	Cancel	 Ýptal etmek
+$ShipHUD_Cancel	Cancel	 Ýptal et
+$ShipHUD_Cancel_Cancel	Cancel	 Ýptal et
 $ShipHUD_Down	Decrease System Power	 Sistem Gücünü Azaltýn
 $ShipHUD_Left	Previous System	 Önceki Sistem
 $ShipHUD_PhotoMode	Open Photo Mode	 Fotoðraf Modunu Aç
@@ -1992,7 +1992,7 @@ $ShipInfo_CargoHold	Cargo Hold	 Yük ambarý
 $ShipInfo_Crew	Crew	 Mürettebat
 $ShipInfo_Exit	Exit	 çýkýþ
 $ShipInfo_HomeShip	Home Ship	 Ana Sayfa Gemi
-$ShipInfo_Inspect	Inspect	 Ýncelemek
+$ShipInfo_Inspect	Inspect	 Ýncele
 $ShipInfo_Modify	SHIP INFO MODIFICATION	 GEMÝ BÝLGÝLERÝNÝN DEÐÝÞTÝRÝLMESÝ
 $ShipInfo_Modify_Crew	Crew	 Mürettebat
 $ShipInfo_Modify_Exit	Exit	 çýkýþ
@@ -2001,7 +2001,7 @@ $ShipInfo_Modify_ShipBuilder	Open Ship Builder	 Gemi Ýnþaatçýsýný Aç
 $ShipInfo_Modify_UpgradeShip	Upgrade Ship	 Gemiyi Yükselt
 $ShipInfo_NextShip	Next Ship	 Sonraki Gemi
 $ShipInfo_PreviousShip	Previous Ship	 Önceki Gemi
-$ShipInfo_Remove	Remove	 Kaldýrmak
+$ShipInfo_Remove	Remove	 Kaldýr
 $ShipInfo_Repair	Repair	 Tamirat
 $ShipInfo_Rotate	Rotate	 Döndür
 $ShipInfo_ShipTransaction	Register Ship	 Gemiyi Kaydet
@@ -2014,7 +2014,7 @@ $ShipPower_M	M	 M
 $ShipRenameHeader	Name	 Ýsim
 $Ship_QuickContainer	SHIP QUICK CONTAINER	 HIZLI GEMÝ KONTEYNER
 $Ship_QuickContainer_Down	Scroll Down	 Aþaðý kaydýr
-$Ship_QuickContainer_Up	Scroll Up	 Yukarý kaydýrmak
+$Ship_QuickContainer_Up	Scroll Up	 Yukarý kaydýr
 $SHOW	Show Resources	 Kaynaklarý Göster
 $Show Active Effects On HUD	Show Active Effects on HUD	 HUD'da Aktif Efektleri Göster
 $SHOW ALL	SHOW ALL	 HEPSÝNÝ GÖSTER ?
@@ -2038,9 +2038,9 @@ $ShowQuestSummary	SHOW SUMMARY	 ÖZETÝ GÖSTER
 $SHOW_QUEST_IN_HUD	Show mission in HUD	 Görevi HUD'da göster
 $SHOW_QUEST_IN_HUD Desc	Enables keeping the active mission visible on the HUD at all times.	 Aktif görevin HUD'da her zaman görünür kalmasýný saðlar.
 $SHOW_RESOURCES	SHOW RESOURCES	 KAYNAKLARI GÖSTER
-$SHRINK	SHRINK	 ÇEKMEK
+$SHRINK	SHRINK	 ÇEK
 $Sign Up for An Account	Sign Up for An Account	 Hesap Kaydolun
-$Sit	Sit	 Oturmak
+$Sit	Sit	 Otur
 $SIZE	SIZE	 BOYUT
 $SKILL POINT AVAILABLE	SKILL POINT AVAILABLE	 BECERÝ PUANI MEVCUT
 $SKILL POINTS	SKILL POINTS	 YETENEK PUANLARI
@@ -2049,8 +2049,8 @@ $SKILLPTS	SKILL PTS	 BECERÝ PUANLARI
 $SKILLS	SKILLS	 YETENEKLER
 $SKILLSET:	BACKGROUND:	 ARKA PLAN:
 $SKIN TONE	SKIN TONE	 CÝLT TONU
-$SKIP	SKIP	 ATLAMAK
-$SLEEP	SLEEP	 UYUMAK
+$SKIP	SKIP	 ATLA
+$SLEEP	SLEEP	 UYU
 $SleepPrompt	Sleep for how long?	 Ne kadar süre uyumak?
 $SLOT	SLOT	 YUVASI
 $SLOW	SLOW	YAVAÞ
@@ -2074,7 +2074,7 @@ $SOCIAL_SKILLS_EXPERT	Expert Social skills	 Uzman Sosyal beceriler
 $SOCIAL_SKILLS_MASTER	Master Social skills	 Sosyal becerilerde ustalaþýn
 $SOCIAL_XENO	XENO-SOCIAL	 KSENO-SOSYAL
 $SOL DATE: MAY 7, 2330	SOL DATE: MAY 7, 2330	 SOL TARÝHÝ: 7 MAYIS 2330
-$SORT	SORT	 DÜZENLEMEK
+$SORT	SORT	 DÜZENLE
 $SORT FILTER (TODO)	SORT FILTER (TODO)	 SIRALAMA FÝLTRESÝ (TODO)
 $SORT_ABC	SORT (NAME)	 SIRALAMA (ÝSÝM)
 $SORT_ABC_DESC	SORT (NAME DESC)	 SIRALAMA (ÝSÝM TANIMI)
@@ -2096,9 +2096,9 @@ $SpaceshipEditor	SPACESHIP EDITOR	 UZAY GEMÝSÝ EDÝTÖRÜ
 $SpaceshipEditorSimplified	SHIP BUILDER	 GEMÝ YAPIMCISI
 $SpaceshipEditorSimplified_AddEdit	Add/Edit/Confirm	 Ekle/Düzenle/Onayla
 $SpaceshipEditorSimplified_Left	Undo/Previous Variant	 Geri Al/Önceki Varyant
-$SpaceshipEditorSimplified_Cancel	Cancel	 Ýptal etmek
+$SpaceshipEditorSimplified_Cancel	Cancel	 Ýptal et
 $SpaceshipEditorSimplified_Color	Color	 Renk
-$SpaceshipEditorSimplified_Delete	Delete	 Silmek
+$SpaceshipEditorSimplified_Delete	Delete	 Sil
 $SpaceshipEditorSimplified_DuplicateFlip	Duplicate/Flip	 Çoðalt/Çevir
 $SpaceshipEditorSimplified_FlightCheck	Flight Check	 Uçuþ Kontrolü
 $SpaceshipEditorSimplified_Down	Floor Down	 Yerden Aþaðý
@@ -2106,7 +2106,7 @@ $SpaceshipEditorSimplified_Up	Floor Up	 Kat Yukarý
 $SpaceshipEditorSimplified_Right	Redo/Next Variant	 Yinele/Sonraki Varyant
 $SpaceshipEditorSimplified_LShoulder	Left Shoulder	 Sol omuz
 $SpaceshipEditorSimplified_RShoulder	Right Shoulder	 Sað omuz
-$SpaceshipEditor_Accept	Accept	 Kabul etmek
+$SpaceshipEditor_Accept	Accept	 Kabul et
 $SpaceshipEditor_EditorTCG	EditorTCG	 EditörTCG
 $SpaceshipEditor_FloorDown	Floor Down	 Yerden Aþaðý
 $SpaceshipEditor_FloorUp	Floor Up	 Kat Yukarý
@@ -2121,7 +2121,7 @@ $SpaceshipEditor_Rotate	Rotate	 Döndür
 $SpaceshipEditor_ZoomIn	Zoom In	 Yakýnlaþtýr
 $SpaceshipEditor_ZoomOut	Zoom Out	 Uzaklaþtýr
 $Spaceship_Interaction	SPACESHIP (DOCKED/GROUNDED)	 UZAY GEMÝSÝ (YERLEÞTÝRÝLMÝÞ/YERE YERLEÞTÝRÝLMÝÞ)
-$Spaceship_Interaction_Cancel	Get Up	 Uyanmak
+$Spaceship_Interaction_Cancel	Get Up	 Uyan
 $Spaceship_Interaction_ExitShip	Exit Ship From Cockpit	 Gemiden Kokpitten Çýkýþ
 $Spaceship_Interaction_TakeOff	Undock/Take-Off Ship	 Gemiyi Çýkarma/Kalkýþ
 $SpacesuitWorkbench	Spacesuit Workbench	 Uzay Giysisi Tezgahý
@@ -2158,7 +2158,7 @@ $StarMap_Inspect	STARMAP (INSPECT)	 YILDIZ HARÝTASI (ÝNCELEME)
 $StarMap_Inspect_OpenResourceView	Open Resource View	 Kaynak Görünümünü Aç
 $StarMap_Inspect_PlaceMarker	Place Marker	 Yer Ýþareti
 $StarMap_Interact	STARMAP (INTERACT)	 YILDIZ HARÝTASI (ETKÝLEÞÝM)
-$StarMap_Interact_Inspect	Inspect	 Ýncelemek
+$StarMap_Interact_Inspect	Inspect	 Ýncele
 $StarMap_OpenMissionMenu	Open Mission Menu	 Görev Menüsünü Aç
 $StarMap_OpenMissions	Open Missions	 Açýk Görevler
 $StarMap_OpenResourceView	Open Resource View	 Kaynak Görünümünü Aç
@@ -2185,7 +2185,7 @@ $Station	STATION	 ÝSTASYON
 $STATS	STATS	 ÝSTATÝSTÝKLER
 $STATUS	STATUS	 DURUM
 $STATUS_EFFECTS	STATUS EFFECTS	 DURUM ETKÝLERÝ
-$STEAL	STEAL	 HIRSIZLIK YAPMAK
+$STEAL	STEAL	 HIRSIZLIK YAP
 $STICKER MODE	STICKER MODE	 ÇIKARTMA MODU
 $Stimpak	STIMPAK	 STÝMPAK
 $Stolen	Stolen	 Çalýntý
@@ -2206,7 +2206,7 @@ $Subscribing	Subscribing...	 Abone olunuyor...
 $Subscribing...	Subscribing...	 Abone olunuyor...
 $SUBTRACT	SUBTRACT	 ÇIKAR
 $Sudden Development	Sudden Development	 Ani Geliþme
-$SUIT	SUIT	 UYGUN OLMAK
+$SUIT	SUIT	 UYGUN OL
 $SUIT RESISTANCE	SUIT RESISTANCE	 TAKIM DÝRENCÝ
 $Super Stimpak	Super Stimpak	 Süper Stimpak
 $Surface	Surface	 Yüzey
@@ -2230,12 +2230,12 @@ $SYSTEM SUBTITLE	{0} System	 {0} Sistemi
 $SYSTEM SUBTITLE MOON	Moon of {0}, {1} System	 {0} Ayý, {1} Sistemi
 $SYSTEM SURVEY PCT	SYSTEM SURVEY %	 SÝSTEM ANKETÝ %
 $TAG FOR SEARCH	TAG FOR SEARCH	 ARAMA ÝÇÝN ETÝKET
-$TAKE	TAKE	 ALMAK
+$TAKE	TAKE	 AL
 $TAKE ALL	TAKE ALL	 HEPSÝNÝ AL
-$TAKE OFF	TAKE OFF	 ÇIKARMAK
+$TAKE OFF	TAKE OFF	 ÇIKAR
 $TAKE PHOTO	TAKE PHOTO	 FOTOÐRAF ÇEK
 $TakeAllResources	TAKE ALL RESOURCES	 TÜM KAYNAKLARI ALIN
-$TALK	TALK	 KONUÞMAK
+$TALK	TALK	 KONUÞ
 $TARGET LOCK	TARGET LOCK	 HEDEF KÝLÝDÝ
 $Target Ship System	Target Ship System	Hedef Gemi Sistemi
 $Target:	Target:	 Hedef:
@@ -2275,8 +2275,8 @@ $TimeFilterMonth	Filter By Time (Month)	 Zamana Göre Filtrele (Ay)
 $TimeFilterToday	Filter By Time (Today)	 Zamana Göre Filtrele (Bugün)
 $TimeFilterWeek	Filter By Time (Week)	 Zamana Göre Filtrele (Hafta)
 $TIMEREMAINING	TIME REMAINING	 KALAN SÜRE
-$TO PLACE	TO PLACE	 YERLEÞTÝRMEK
-$TO STEAL	TO STEAL	 ÇALMAK
+$TO PLACE	TO PLACE	 YERLEÞTÝR
+$TO STEAL	TO STEAL	 ÇAL
 $TOGGLE	TOGGLE	 GEÇÝÞ
 $TOGGLE DISTANCE MODE	TOGGLE DISTANCE MODE	 MESAFE MODUNA GEÇÝÞ YAPIN
 $Toggle Edit	Edit Mode	 Düzenleme modu
@@ -2301,8 +2301,8 @@ $TOTAL	TOTAL	 TOPLAM
 $TOTAL COST	TOTAL COST	 TOPLAM TUTAR
 $TOTAL PWR	TOTAL PWR	 TOPLAM GÜÇ
 $TOTAL_DAMAGE	DAMAGE	 ZARAR
-$TOTAL_RESISTANCE	RESIST	 DÝRENMEK
-$TRACK	Track	 Ýzlemek
+$TOTAL_RESISTANCE	RESIST	 DÝREN
+$TRACK	Track	 Ýzle
 $TRACK PROJECT	Track Project	 Projeyi Takip Et
 $TRADE	TRADE	 TÝCARET
 $TRAIT DISCOVERED	TRAIT DISCOVERED	 ÖZELLÝK KEÞFEDÝLDÝ
@@ -2372,7 +2372,7 @@ $UNVISITED	UNVISITED	 ZÝYARET EDÝLMEMÝÞ
 $Update	Update	 Güncelleme
 $UPGRADE_SHIP	Upgrade Ship	 Gemiyi Yükselt
 $UPLOAD SAVE	Upload Save	 Yükle Kaydet
-$USE	USE	 KULLANMAK
+$USE	USE	 KULLAN
 $USERID	USER ID	 KULLANICI KÝMLÝÐÝ
 $Username	Username	 Kullanýcý adý
 $UserValidationCancelled	Save storage sync cancelled by user.	 Kaydetme depolama senkronizasyonu kullanýcý tarafýndan iptal edildi.
@@ -2419,7 +2419,7 @@ $VoiceLanguage	Voice Language	 Ses Dili
 $VoiceLanguageDesc	Change the language for in-game voices	 Oyun içi seslerin dilini deðiþtirme
 $Volume Selection	Volume Selection	 Hacim Seçimi
 $W	W{0}	 W{0}
-$Wait	WAIT	 BEKLEMEK
+$Wait	WAIT	 BEKLE
 $WAIT FOR SCAN	WAIT FOR SCAN	 TARAMA ÝÇÝN BEKLEYÝN
 $Waiting for data...	Waiting for game data to load...	 Oyun verilerinin yüklenmesi bekleniyor...
 $WaitPrompt	Wait for how long?	 Ne kadar bekleyelim?
@@ -2445,8 +2445,8 @@ $Wire	Wire	 Tel
 $WIRE	WIRE	 TEL
 $WNPC_Caravan	SUPPLY LINE	 TEDARÝK HATTI
 $WNPC_Caravan_Header	Choose a location:	 Bir konum seçin:
-$WNPC_Command	COMMAND	 EMRETMEK
-$WNPC_Move	MOVE	 TAÞINMAK
+$WNPC_Command	COMMAND	 EMRET
+$WNPC_Move	MOVE	 TAÞIN
 $Workshop	OUTPOST	 ileri karakol
 $WORKSHOP	OUTPOST	 ileri karakol
 $WorkshopBuilderMenu	Outpost Builder Menu	 Karakol Oluþturucu Menüsü
@@ -2454,7 +2454,7 @@ $WorkshopBuilder_RequiresScanning	Requires Additional Scanning	 Ek Tarama Gerekt
 $WorkshopPower	Power	 Güç
 $WorkshopPower:	Power:	 Güç:
 $Workshop_AltMode	Toggle Alternate Mode	 Alternatif Modu Deðiþtir
-$Workshop_Cancel	Cancel	 Ýptal etmek
+$Workshop_Cancel	Cancel	 Ýptal et
 $Workshop_ChangeMode	Change Mode	 Modu Deðiþtir
 $Workshop_Confirm	Build/Confirm/Edit	 Oluþtur/Onayla/Düzenle
 $Workshop_Down	Down	 Aþaðý
